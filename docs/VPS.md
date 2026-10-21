@@ -7,14 +7,14 @@
 На VPS нужны Docker Compose v2 с поддержкой `!reset`, bash и flock (util-linux). Установите проект в фиксированную папку для скриптов и таймера:
 
 ```bash
-git clone https://github.com/Dattebayo1337/D-D-Companion.git /opt/dnd-companion
+git clone https://github.com/Dattebayo1337/DnD-Companion.git /opt/dnd-companion
 cd /opt/dnd-companion
 umask 077
 cp deploy/vps.env.example deployment.env
 openssl rand -hex 32
 ```
 
-Отредактируйте `deployment.env`: `DND_HOST_KEY` — сгенерированный ключ, `APP_ORIGIN=https://ваш-домен` без пути, `DND_IMAGE=ghcr.io/dattebayo1337/d-d-companion:sha-<полный SHA успешного коммита>`. Сохраните ключ отдельно. Имя тома `DND_DATA_VOLUME` должно оставаться постоянным при обновлениях. Не коммитьте конфигурацию сервера. `DND_REGISTRATION=closed` закрывает свободную регистрацию, но установочный ключ позволяет создать владельца.
+Отредактируйте `deployment.env`: `DND_HOST_KEY` — сгенерированный ключ, `APP_ORIGIN=https://ваш-домен` без пути, `DND_IMAGE=ghcr.io/dattebayo1337/dnd-companion:sha-<полный SHA успешного коммита>`. Сохраните ключ отдельно. Имя тома `DND_DATA_VOLUME` должно оставаться постоянным при обновлениях. Не коммитьте конфигурацию сервера. `DND_REGISTRATION=closed` закрывает свободную регистрацию, но установочный ключ позволяет создать владельца.
 
 Создайте каталог копий вне Docker volume, с доступом пользователя контейнера (UID 1000):
 
@@ -79,7 +79,7 @@ sudo journalctl -u dnd-companion-backup.service -n 50 --no-pager
 
 ```bash
 cd /opt/dnd-companion
-bash deploy/update.sh ghcr.io/dattebayo1337/d-d-companion:sha-<полный-SHA>
+bash deploy/update.sh ghcr.io/dattebayo1337/dnd-companion:sha-<полный-SHA>
 bash deploy/compose.sh ps
 bash deploy/compose.sh logs --tail=100 app
 ```
