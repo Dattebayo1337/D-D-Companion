@@ -9,6 +9,10 @@ node_modules
 **/*.db-*
 **/*.tsbuildinfo
 deployment.env
+deployment.env.*
+deploy/operation.lock
+deploy/previous-image.txt
+deploy/use-proxy-network
 backups
 *.log
 *.pem

@@ -86,9 +86,9 @@ Production-секреты для CI не нужны. Временный тест
 
 ## Публикация образа
 
-Actions → Checks and container → Run workflow → основная ветка → включить `publish`. Только после успешных проверок тот же протестированный образ публикуется в GHCR с тегами `latest` и `sha-<полный commit>`. Используется встроенный `GITHUB_TOKEN` с `packages: write` только в job публикации; персональный токен для CI не нужен. Политика организации может запрещать создание пакетов — в таком случае разрешите его в настройках GitHub. Видимость пакета задаётся в GitHub Packages.
+После push в `main` публикация запускается автоматически. Также доступно Actions → Checks and container → Run workflow → main → `publish`. Только после успешных проверок тот же протестированный образ публикуется в GHCR с тегами `latest` и `sha-<полный commit>`. Используется встроенный `GITHUB_TOKEN` с `packages: write` только в job публикации; персональный токен для CI не нужен. Политика организации может запрещать создание пакетов — в таком случае разрешите его в настройках GitHub. Видимость пакета задаётся в GitHub Packages.
 
-Это сборка и публикация, а не автоматическое обновление VPS. Для запуска готового образа на сервере замените `build: .` у app на `image: ghcr.io/owner/repository:sha-...`, авторизуйтесь в GHCR при приватном пакете, выполните `docker compose --env-file deployment.env pull app`, затем `up -d --wait`. Сохраните том и ключ. Перед обновлением сделайте резервную копию; откат образа сам по себе не откатывает миграции базы.
+Подготовлен выключенный по умолчанию SSH-деплой: см. [VPS.md](VPS.md). Для сервера с существующим Caddy используйте именно compose.vps.yaml из этой инструкции. Для запуска готового образа на сервере замените `build: .` у app на `image: ghcr.io/owner/repository:sha-...`, авторизуйтесь в GHCR при приватном пакете, выполните `docker compose --env-file deployment.env pull app`, затем `up -d --wait`. Сохраните том и ключ. Перед обновлением сделайте резервную копию; откат образа сам по себе не откатывает миграции базы.
 
 Официальная документация: [Docker GitHub Actions](https://docs.docker.com/build/ci/github-actions/), [Node setup](https://github.com/actions/setup-node), [GitHub Packages](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry).
 

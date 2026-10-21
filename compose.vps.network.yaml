@@ -1,0 +1,12 @@
+# Optional override for Caddy running in Docker. No host port is published.
+services:
+  app:
+    ports: !reset []
+    networks:
+      default:
+      proxy:
+        aliases: [dnd-companion]
+networks:
+  proxy:
+    external: true
+    name: ${PROXY_NETWORK:?Set the existing Caddy network name}

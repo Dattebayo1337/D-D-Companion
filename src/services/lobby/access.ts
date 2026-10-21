@@ -21,6 +21,7 @@ export function isPublicRequest(path: string, method: string): boolean {
       "/api/editions",
       "/api/overview",
       "/api/mobile/status",
+      "/api/health/ready",
       "/api/coverage",
       "/api/tools/loot-catalog",
     ].includes(path) ||

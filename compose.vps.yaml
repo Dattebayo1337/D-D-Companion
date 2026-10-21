@@ -1,0 +1,37 @@
+name: dnd-companion-vps
+services:
+  app:
+    image: ${DND_IMAGE:?Set a tested GHCR sha tag}
+    init: true
+    restart: unless-stopped
+    stop_grace_period: 30s
+    environment:
+      DATABASE_URL: file:/data/companion.db
+      DATABASE_PROVIDER: sqlite
+      APP_ORIGIN: ${APP_ORIGIN:?Set the public HTTPS origin}
+      DND_HOST_KEY: ${DND_HOST_KEY:?Set a persistent private key}
+      DND_REGISTRATION: ${DND_REGISTRATION:-closed}
+    volumes:
+      - companion-data:/data
+    ports:
+      - "127.0.0.1:${DND_LOCAL_PORT:-3100}:3000"
+  backup:
+    image: ${DND_IMAGE:?Set a tested GHCR sha tag}
+    profiles: [maintenance]
+    user: "1000:1000"
+    network_mode: none
+    entrypoint: [node]
+    command: [scripts/backup-rotate.mjs, /data/companion.db, /backups, scheduled]
+    environment:
+      BACKUP_KEEP: ${BACKUP_KEEP:-14}
+      DND_IMAGE: ${DND_IMAGE}
+    volumes:
+      - companion-data:/data
+      - type: bind
+        source: ${BACKUP_DIR:?Set an absolute backup directory outside the data volume}
+        target: /backups
+        bind:
+          create_host_path: false
+volumes:
+  companion-data:
+    name: ${DND_DATA_VOLUME:-dnd-companion-vps-data}

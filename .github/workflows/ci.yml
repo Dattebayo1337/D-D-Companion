@@ -13,7 +13,7 @@ permissions:
   contents: read
 concurrency:
   group: ci-${{ github.ref }}
-  cancel-in-progress: true
+  cancel-in-progress: false
 jobs:
   checks:
     runs-on: ubuntu-latest
@@ -31,6 +31,7 @@ jobs:
       - run: pnpm typecheck
       - run: pnpm lint
       - run: pnpm test
+      - run: bash scripts/test-deploy.sh
   container:
     needs: checks
     runs-on: ubuntu-latest
@@ -61,14 +62,16 @@ jobs:
           docker restart dnd-ci
           wait_for_health
           docker exec dnd-ci node -e 'const {PrismaClient}=require("@prisma/client"); const db=new PrismaClient(); db.$queryRawUnsafe("SELECT COUNT(*) AS n FROM Content").then(rows=>{if(Number(rows[0].n)<1)process.exitCode=1}).finally(()=>db.$disconnect())'
+      - name: Backup, restore and failed-database readiness
+        run: bash scripts/docker-verify.sh dnd-ci http://127.0.0.1:3001
       - name: Container logs
         if: always()
         run: docker logs dnd-ci || true
       - name: Save tested image
-        if: github.event_name == 'workflow_dispatch' && inputs.publish && github.ref_name == github.event.repository.default_branch
+        if: (github.event_name == 'push' && github.ref_name == 'main') || (github.event_name == 'workflow_dispatch' && inputs.publish && github.ref_name == 'main')
         run: docker save dnd-companion:ci -o /tmp/image.tar
       - uses: actions/upload-artifact@v4
-        if: github.event_name == 'workflow_dispatch' && inputs.publish && github.ref_name == github.event.repository.default_branch
+        if: (github.event_name == 'push' && github.ref_name == 'main') || (github.event_name == 'workflow_dispatch' && inputs.publish && github.ref_name == 'main')
         with:
           name: tested-image
           path: /tmp/image.tar
@@ -80,7 +83,7 @@ jobs:
           docker volume rm dnd-ci-data || true
   publish:
     needs: container
-    if: github.event_name == 'workflow_dispatch' && inputs.publish && github.ref_name == github.event.repository.default_branch
+    if: (github.event_name == 'push' && github.ref_name == 'main') || (github.event_name == 'workflow_dispatch' && inputs.publish && github.ref_name == 'main')
     runs-on: ubuntu-latest
     timeout-minutes: 15
     permissions:
@@ -107,4 +110,40 @@ jobs:
           docker push "$image:sha-$COMMIT"
           docker push "$image:latest"
           docker logout ghcr.io
+  deploy:
+    needs: publish
+    if: vars.VPS_DEPLOY_ENABLED == 'true' && github.ref_name == 'main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment: production
+    concurrency:
+      group: dnd-vps-production
+      cancel-in-progress: false
+    permissions:
+      contents: read
+    steps:
+      - name: Update the existing VPS installation
+        env:
+          VPS_HOST: ${{ secrets.VPS_HOST }}
+          VPS_USER: ${{ secrets.VPS_USER }}
+          VPS_PORT: ${{ secrets.VPS_PORT }}
+          VPS_SSH_KEY: ${{ secrets.VPS_SSH_KEY }}
+          VPS_KNOWN_HOSTS: ${{ secrets.VPS_KNOWN_HOSTS }}
+          REPOSITORY: ${{ github.repository }}
+          COMMIT: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+          [[ "$VPS_HOST" =~ ^[a-zA-Z0-9][a-zA-Z0-9.-]*$ ]]
+          [[ "$VPS_USER" =~ ^[a-zA-Z_][a-zA-Z0-9_-]*$ ]]
+          port=${VPS_PORT:-22}
+          [[ "$port" =~ ^[0-9]+$ ]]
+          test -n "$VPS_SSH_KEY"
+          test -n "$VPS_KNOWN_HOSTS"
+          umask 077
+          mkdir -p "$HOME/.ssh"
+          printf '%s\n' "$VPS_SSH_KEY" > "$HOME/.ssh/dnd_deploy"
+          printf '%s\n' "$VPS_KNOWN_HOSTS" > "$HOME/.ssh/known_hosts"
+          trap 'rm -f "$HOME/.ssh/dnd_deploy"' EXIT
+          image="ghcr.io/${REPOSITORY,,}:sha-$COMMIT"
+          ssh -i "$HOME/.ssh/dnd_deploy" -p "$port" -o BatchMode=yes -o StrictHostKeyChecking=yes -o ConnectTimeout=15 "$VPS_USER@$VPS_HOST" "bash /opt/dnd-companion/deploy/update.sh '$image'"
 

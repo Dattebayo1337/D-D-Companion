@@ -1,0 +1,10 @@
+[Unit]
+Description=D&D Companion SQLite backup
+Requires=docker.service
+After=docker.service
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/dnd-companion
+ExecStart=/usr/bin/bash /opt/dnd-companion/deploy/backup.sh scheduled
+UMask=0077
