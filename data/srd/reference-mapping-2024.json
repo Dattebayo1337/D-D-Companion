@@ -1,0 +1,4776 @@
+[
+  {
+    "category": "Class",
+    "ru": "Варвар",
+    "en": "Barbarian",
+    "file": "03_Classes/01_Barbarian.md",
+    "method": "parallel class file"
+  },
+  {
+    "category": "Subclass",
+    "ru": "Путь берсерка",
+    "en": "Path of the Berserker",
+    "file": "03_Classes/01_Barbarian.md",
+    "method": "parallel subclass section"
+  },
+  {
+    "category": "Class",
+    "ru": "Бард",
+    "en": "Bard",
+    "file": "03_Classes/02_Bard.md",
+    "method": "parallel class file"
+  },
+  {
+    "category": "Subclass",
+    "ru": "Коллегия знаний",
+    "en": "College of Lore**",
+    "file": "03_Classes/02_Bard.md",
+    "method": "parallel subclass section"
+  },
+  {
+    "category": "Class",
+    "ru": "Жрец",
+    "en": "Cleric",
+    "file": "03_Classes/03_Cleric.md",
+    "method": "parallel class file"
+  },
+  {
+    "category": "Subclass",
+    "ru": "Домен жизни",
+    "en": "Life Domain",
+    "file": "03_Classes/03_Cleric.md",
+    "method": "parallel subclass section"
+  },
+  {
+    "category": "Class",
+    "ru": "Друид",
+    "en": "Druid",
+    "file": "03_Classes/04_Druid.md",
+    "method": "parallel class file"
+  },
+  {
+    "category": "Subclass",
+    "ru": "Круг Земли",
+    "en": "Circle of the Land",
+    "file": "03_Classes/04_Druid.md",
+    "method": "parallel subclass section"
+  },
+  {
+    "category": "Class",
+    "ru": "Воин",
+    "en": "Fighter",
+    "file": "03_Classes/05_Fighter.md",
+    "method": "parallel class file"
+  },
+  {
+    "category": "Subclass",
+    "ru": "Чемпион",
+    "en": "Champion",
+    "file": "03_Classes/05_Fighter.md",
+    "method": "parallel subclass section"
+  },
+  {
+    "category": "Class",
+    "ru": "Монах",
+    "en": "Monk",
+    "file": "03_Classes/06_Monk.md",
+    "method": "parallel class file"
+  },
+  {
+    "category": "Subclass",
+    "ru": "Воин открытой ладони",
+    "en": "Warrior of the Open Hand",
+    "file": "03_Classes/06_Monk.md",
+    "method": "parallel subclass section"
+  },
+  {
+    "category": "Class",
+    "ru": "Паладин",
+    "en": "Paladin",
+    "file": "03_Classes/07_Paladin.md",
+    "method": "parallel class file"
+  },
+  {
+    "category": "Subclass",
+    "ru": "Клятва преданности",
+    "en": "Oath of Devotion",
+    "file": "03_Classes/07_Paladin.md",
+    "method": "parallel subclass section"
+  },
+  {
+    "category": "Class",
+    "ru": "Следопыт",
+    "en": "Ranger",
+    "file": "03_Classes/08_Ranger.md",
+    "method": "parallel class file"
+  },
+  {
+    "category": "Subclass",
+    "ru": "Охотник",
+    "en": "Hunter",
+    "file": "03_Classes/08_Ranger.md",
+    "method": "parallel subclass section"
+  },
+  {
+    "category": "Class",
+    "ru": "Плут",
+    "en": "Rogue",
+    "file": "03_Classes/09_Rogue.md",
+    "method": "parallel class file"
+  },
+  {
+    "category": "Subclass",
+    "ru": "Вор",
+    "en": "Thief",
+    "file": "03_Classes/09_Rogue.md",
+    "method": "parallel subclass section"
+  },
+  {
+    "category": "Class",
+    "ru": "Чародей",
+    "en": "Sorcerer",
+    "file": "03_Classes/10_Sorcerer.md",
+    "method": "parallel class file"
+  },
+  {
+    "category": "Subclass",
+    "ru": "Драконье чародейство",
+    "en": "Draconic Sorcery",
+    "file": "03_Classes/10_Sorcerer.md",
+    "method": "parallel subclass section"
+  },
+  {
+    "category": "Class",
+    "ru": "Колдун",
+    "en": "Warlock",
+    "file": "03_Classes/11_Warlock.md",
+    "method": "parallel class file"
+  },
+  {
+    "category": "Subclass",
+    "ru": "Покровитель: Исчадие",
+    "en": "Fiend Patron",
+    "file": "03_Classes/11_Warlock.md",
+    "method": "parallel subclass section"
+  },
+  {
+    "category": "Class",
+    "ru": "Волшебник",
+    "en": "Wizard",
+    "file": "03_Classes/12_Wizard.md",
+    "method": "parallel class file"
+  },
+  {
+    "category": "Subclass",
+    "ru": "Воплотитель",
+    "en": "Evoker",
+    "file": "03_Classes/12_Wizard.md",
+    "method": "parallel subclass section"
+  },
+  {
+    "category": "Background",
+    "ru": "Послушник",
+    "en": "Acolyte",
+    "file": "04_CharacterOrigins.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Background",
+    "ru": "Преступник",
+    "en": "Criminal",
+    "file": "04_CharacterOrigins.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Background",
+    "ru": "Мудрец",
+    "en": "Sage",
+    "file": "04_CharacterOrigins.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Background",
+    "ru": "Солдат",
+    "en": "Soldier",
+    "file": "04_CharacterOrigins.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "SpeciesRace",
+    "ru": "Драконорождённый",
+    "en": "Dragonborn",
+    "file": "04_CharacterOrigins.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "SpeciesRace",
+    "ru": "Дварф",
+    "en": "Dwarf",
+    "file": "04_CharacterOrigins.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "SpeciesRace",
+    "ru": "Эльф",
+    "en": "Elf",
+    "file": "04_CharacterOrigins.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "SpeciesRace",
+    "ru": "Гном",
+    "en": "Gnome",
+    "file": "04_CharacterOrigins.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "SpeciesRace",
+    "ru": "Голиаф",
+    "en": "Goliath",
+    "file": "04_CharacterOrigins.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "SpeciesRace",
+    "ru": "Полурослик",
+    "en": "Halfling",
+    "file": "04_CharacterOrigins.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "SpeciesRace",
+    "ru": "Человек",
+    "en": "Human",
+    "file": "04_CharacterOrigins.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "SpeciesRace",
+    "ru": "Орк",
+    "en": "Orc",
+    "file": "04_CharacterOrigins.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "SpeciesRace",
+    "ru": "Тифлинг",
+    "en": "Tiefling",
+    "file": "04_CharacterOrigins.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Feat",
+    "ru": "Бдительность",
+    "en": "Alert",
+    "file": "05_Feats.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Feat",
+    "ru": "Посвящённый в магию",
+    "en": "Magic Initiate",
+    "file": "05_Feats.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Feat",
+    "ru": "Дикий боец",
+    "en": "Savage Attacker",
+    "file": "05_Feats.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Feat",
+    "ru": "Умелый",
+    "en": "Skilled",
+    "file": "05_Feats.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Feat",
+    "ru": "Увеличение характеристики",
+    "en": "Ability Score Improvement",
+    "file": "05_Feats.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Feat",
+    "ru": "Борец",
+    "en": "Grappler",
+    "file": "05_Feats.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Feat",
+    "ru": "Стрельба",
+    "en": "Archery",
+    "file": "05_Feats.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Feat",
+    "ru": "Оборона",
+    "en": "Defense",
+    "file": "05_Feats.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Feat",
+    "ru": "Сражение большим оружием",
+    "en": "Great Weapon Fighting",
+    "file": "05_Feats.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Feat",
+    "ru": "Сражение двумя оружиями",
+    "en": "Two-Weapon Fighting",
+    "file": "05_Feats.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Feat",
+    "ru": "Дар боевого мастерства",
+    "en": "Boon of Combat Prowess",
+    "file": "05_Feats.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Feat",
+    "ru": "Дар пространственных путешествий",
+    "en": "Boon of Dimensional Travel",
+    "file": "05_Feats.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Feat",
+    "ru": "Дар судьбы",
+    "en": "Boon of Fate",
+    "file": "05_Feats.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Feat",
+    "ru": "Дар неодолимой атаки",
+    "en": "Boon of Irresistible Offense",
+    "file": "05_Feats.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Feat",
+    "ru": "Дар возврата заклинаний",
+    "en": "Boon of Spell Recall",
+    "file": "05_Feats.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Feat",
+    "ru": "Дар ночного духа",
+    "en": "Boon of the Night Spirit",
+    "file": "05_Feats.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Feat",
+    "ru": "Дар истинного зрения",
+    "en": "Boon of Truesight",
+    "file": "05_Feats.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Rule",
+    "ru": "Проверка характеристики",
+    "en": "Ability Check",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Значение и модификатор характеристики",
+    "en": "Ability Score and Modifier",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Действие",
+    "en": "Action",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Преимущество",
+    "en": "Advantage",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Приключение",
+    "en": "Adventure",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Мировоззрение",
+    "en": "Alignment",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Союзник",
+    "en": "Ally",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Область воздействия",
+    "en": "Area of Effect",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Класс доспеха",
+    "en": "Armor Class",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Владение доспехами",
+    "en": "Armor Training",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Атака [Действие]",
+    "en": "Attack [Action]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Бросок атаки",
+    "en": "Attack Roll",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Отношение",
+    "en": "Attitude",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Настройка",
+    "en": "Attunement",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Condition",
+    "ru": "Ослеплённый [Состояние]",
+    "en": "Blinded [Condition]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Слепое зрение",
+    "en": "Blindsight",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Окровавленный",
+    "en": "Bloodied",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Бонусное действие",
+    "en": "Bonus Action",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Разрушение объектов",
+    "en": "Breaking Objects",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Яркий свет",
+    "en": "Bright Light",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Горение [Опасность]",
+    "en": "Burning [Hazard]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Скорость рытья",
+    "en": "Burrow Speed",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Кампания",
+    "en": "Campaign",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Заговор",
+    "en": "Cantrip",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Грузоподъёмность",
+    "en": "Carrying Capacity",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Показатель опасности",
+    "en": "Challenge Rating",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Лист персонажа",
+    "en": "Character Sheet",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Condition",
+    "ru": "Очарованный [Состояние]",
+    "en": "Charmed [Condition]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Лазание",
+    "en": "Climbing",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Скорость лазания",
+    "en": "Climb Speed",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Концентрация",
+    "en": "Concentration",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Состояние",
+    "en": "Condition",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Конус [Область воздействия]",
+    "en": "Cone [Area of Effect]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Укрытие",
+    "en": "Cover",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Ползание",
+    "en": "Crawling",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Существо",
+    "en": "Creature",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Тип существа",
+    "en": "Creature Type",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Критическое попадание",
+    "en": "Critical Hit",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Куб [Область воздействия]",
+    "en": "Cube [Area of Effect]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Проклятия",
+    "en": "Curses",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Цилиндр [Область воздействия]",
+    "en": "Cylinder [Area of Effect]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Проверка d20",
+    "en": "D20 Test",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Урон",
+    "en": "Damage",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Бросок урона",
+    "en": "Damage Roll",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Порог урона",
+    "en": "Damage Threshold",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Типы урона",
+    "en": "Damage Types",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Тьма",
+    "en": "Darkness",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Тёмное зрение",
+    "en": "Darkvision",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Рывок [Действие]",
+    "en": "Dash [Action]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Мёртвый",
+    "en": "Dead",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Condition",
+    "ru": "Оглохший [Состояние]",
+    "en": "Deafened [Condition]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Спасбросок от смерти",
+    "en": "Death Saving Throw",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Обезвоживание [Опасность]",
+    "en": "Dehydration [Hazard]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Труднопроходимая местность",
+    "en": "Difficult Terrain",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Сложность",
+    "en": "Difficulty Class",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Тусклый свет",
+    "en": "Dim Light",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Помеха",
+    "en": "Disadvantage",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Отход [Действие]",
+    "en": "Disengage [Action]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Уклонение [Действие]",
+    "en": "Dodge [Action]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Эманация [Область воздействия]",
+    "en": "Emanation [Area of Effect]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Сцена",
+    "en": "Encounter",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Враг",
+    "en": "Enemy",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Condition",
+    "ru": "Истощение [Состояние]",
+    "en": "Exhaustion [Condition]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Очки опыта",
+    "en": "Experience Points",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Компетентность",
+    "en": "Expertise",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Падение [Опасность]",
+    "en": "Falling [Hazard]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Полёт",
+    "en": "Flying",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Скорость полёта",
+    "en": "Fly Speed",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Дружелюбный [Отношение]",
+    "en": "Friendly [Attitude]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Condition",
+    "ru": "Испуганный [Состояние]",
+    "en": "Frightened [Condition]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Condition",
+    "ru": "Схваченный [Состояние]",
+    "en": "Grappled [Condition]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Захват",
+    "en": "Grappling",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Опасность",
+    "en": "Hazard",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Исцеление",
+    "en": "Healing",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Сильно затемнённая область",
+    "en": "Heavily Obscured",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Помощь [Действие]",
+    "en": "Help [Action]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Героическое вдохновение",
+    "en": "Heroic Inspiration",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Скрыться [Действие]",
+    "en": "Hide [Action]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Прыжок в высоту",
+    "en": "High Jump",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Кости хитов",
+    "en": "Hit Point Dice",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Хиты",
+    "en": "Hit Points",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Враждебный [Отношение]",
+    "en": "Hostile [Attitude]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Парение",
+    "en": "Hover",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Иллюзии",
+    "en": "Illusions",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Иммунитет",
+    "en": "Immunity",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Импровизированное оружие",
+    "en": "Improvised Weapons",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Condition",
+    "ru": "Недееспособный [Состояние]",
+    "en": "Incapacitated [Condition]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Безразличный [Отношение]",
+    "en": "Indifferent [Attitude]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Влияние [Действие]",
+    "en": "Influence [Action]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Инициатива",
+    "en": "Initiative",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Condition",
+    "ru": "Невидимый [Состояние]",
+    "en": "Invisible [Condition]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Прыжок",
+    "en": "Jumping",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Оглушение существа",
+    "en": "Knocking Out a Creature",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Слабо затемнённая область",
+    "en": "Lightly Obscured",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Линия [Область воздействия]",
+    "en": "Line [Area of Effect]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Прыжок в длину",
+    "en": "Long Jump",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Долгий отдых",
+    "en": "Long Rest",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Магия [Действие]",
+    "en": "Magic [Action]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Магический эффект",
+    "en": "Magical Effect",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Голодание [Опасность]",
+    "en": "Malnutrition [Hazard]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Монстр",
+    "en": "Monster",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Неигровой персонаж",
+    "en": "Nonplayer Character",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Объект",
+    "en": "Object",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Занятое пространство",
+    "en": "Occupied Space",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Провоцированные атаки",
+    "en": "Opportunity Attacks",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Condition",
+    "ru": "Парализованный [Состояние]",
+    "en": "Paralyzed [Condition]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Пассивная Внимательность",
+    "en": "Passive Perception",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "В день",
+    "en": "Per Day",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Condition",
+    "ru": "Окаменевший [Состояние]",
+    "en": "Petrified [Condition]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Персонаж игрока",
+    "en": "Player Character",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Condition",
+    "ru": "Отравленный [Состояние]",
+    "en": "Poisoned [Condition]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Одержимость",
+    "en": "Possession",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Владение",
+    "en": "Proficiency",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Condition",
+    "ru": "Лежащий [Состояние]",
+    "en": "Prone [Condition]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Досягаемость",
+    "en": "Reach",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Реакция",
+    "en": "Reaction",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Подготовка [Действие]",
+    "en": "Ready [Action]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Сопротивление",
+    "en": "Resistance",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Condition",
+    "ru": "Опутанный [Состояние]",
+    "en": "Restrained [Condition]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Ритуал",
+    "en": "Ritual",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Округление вниз",
+    "en": "Round Down",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Спас",
+    "en": "Save",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Спасбросок",
+    "en": "Saving Throw",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Поиск [Действие]",
+    "en": "Search [Action]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Изменение формы",
+    "en": "Shape-Shifting",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Короткий отдых",
+    "en": "Short Rest",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Одновременные эффекты",
+    "en": "Simultaneous Effects",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Размер",
+    "en": "Size",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Навык",
+    "en": "Skill",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Скорость",
+    "en": "Speed",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Заклинание",
+    "en": "Spell",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Атака заклинанием",
+    "en": "Spell Attack",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Заклинательный фокус",
+    "en": "Spellcasting Focus",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Сфера [Область воздействия]",
+    "en": "Sphere [Area of Effect]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Стабильный",
+    "en": "Stable",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Блок характеристик",
+    "en": "Stat Block",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Изучение [Действие]",
+    "en": "Study [Action]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Области знаний",
+    "en": "Areas of Knowledge",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Condition",
+    "ru": "Ошеломлённый [Состояние]",
+    "en": "Stunned [Condition]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Удушение [Опасность]",
+    "en": "Suffocation [Hazard]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Внезапность",
+    "en": "Surprise",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Плавание",
+    "en": "Swimming",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Скорость плавания",
+    "en": "Swim Speed",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Цель",
+    "en": "Target",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Телепатия",
+    "en": "Telepathy",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Телепорт",
+    "en": "Teleportation",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Временные хиты",
+    "en": "Temporary Hit Points",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Чувство вибрации",
+    "en": "Tremorsense",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Видение истины",
+    "en": "Truesight",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Безоружный удар",
+    "en": "Unarmed Strike",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Condition",
+    "ru": "Без сознания [Состояние]",
+    "en": "Unconscious [Condition]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Незанятое пространство",
+    "en": "Unoccupied Space",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Использование [Действие]",
+    "en": "Utilize [Action]",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Уязвимость",
+    "en": "Vulnerability",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Оружие",
+    "en": "Weapon",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "Rule",
+    "ru": "Атака оружием",
+    "en": "Weapon Attack",
+    "file": "08_RulesGlossary.md",
+    "method": "parallel chapter heading order"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Адамантиновый доспех",
+    "en": "Adamantine Armor",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Амулет защиты от обнаружения и локации",
+    "en": "Amulet of Proof against Detection and Location",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Амулет здоровья",
+    "en": "Amulet of Health",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Амулет планов",
+    "en": "Amulet of the Planes",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Анимированный щит",
+    "en": "Animated Shield",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Аппарат краба",
+    "en": "Apparatus of the Crab",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Боевой камень Иуна",
+    "en": "Ioun Stone",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Боевой посох акробата",
+    "en": "Quarterstaff of the Acrobat",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Боеприпасы убийства",
+    "en": "Ammunition of Slaying",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Боеприпасы, +1, +2 или +3",
+    "en": "Ammunition, +1, +2, or +3",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Брошь защиты",
+    "en": "Brooch of Shielding",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Булава крушения",
+    "en": "Mace of Smiting",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Булава разрушения",
+    "en": "Mace of Disruption",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Булава ужаса",
+    "en": "Mace of Terror",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Бусина питания",
+    "en": "Bead of Nourishment",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Бусина силы",
+    "en": "Bead of Force",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Бутылка ифрита",
+    "en": "Efreeti Bottle",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Верёвка лазания",
+    "en": "Rope of Climbing",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Верёвка опутывания",
+    "en": "Rope of Entanglement",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Ветряной веер",
+    "en": "Wind Fan",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Волшебная палочка боевого мага, +1, +2 или +3",
+    "en": "Wand of the War Mage, +1, +2, or +3",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Волшебная палочка волшебных стрел",
+    "en": "Wand of Magic Missiles",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Волшебная палочка молний",
+    "en": "Wand of Lightning Bolts",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Волшебная палочка обнаружения врагов",
+    "en": "Wand of Enemy Detection",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Волшебная палочка обнаружения магии",
+    "en": "Wand of Magic Detection",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Волшебная палочка огненных шаров",
+    "en": "Wand of Fireballs",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Волшебная палочка паралича",
+    "en": "Wand of Paralysis",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Волшебная палочка паутины",
+    "en": "Wand of Web",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Волшебная палочка превращения",
+    "en": "Wand of Polymorph",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Волшебная палочка связывания",
+    "en": "Wand of Binding",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Волшебная палочка секретов",
+    "en": "Wand of Secrets",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Волшебная палочка страха",
+    "en": "Wand of Fear",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Волшебная палочка чудес",
+    "en": "Wand of Wonder",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Волшебные краски",
+    "en": "Marvelous Pigments",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Воровские перчатки",
+    "en": "Gloves of Thievery",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Ворпальный меч",
+    "en": "Vorpal Sword",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Глаза орла",
+    "en": "Eyes of the Eagle",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Глаза очарования",
+    "en": "Eyes of Charming",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Гламурная клёпаная кожа",
+    "en": "Glamoured Studded Leather",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Графин бесконечной воды",
+    "en": "Decanter of Endless Water",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Громовая дубина",
+    "en": "Thunderous Greatclub",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Дварфийский латный доспех",
+    "en": "Dwarven Plate",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Дварфийский метатель",
+    "en": "Dwarven Thrower",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Девятижизненный похититель",
+    "en": "Nine Lives Stealer",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Демонический доспех",
+    "en": "Demon Armor",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Доспех неуязвимости",
+    "en": "Armor of Invulnerability",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Доспех сопротивления",
+    "en": "Armor of Resistance",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Доспех уязвимости",
+    "en": "Armor of Vulnerability",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Доспех, +1, +2 или +3",
+    "en": "Armor, +1, +2, or +3",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Дракоборческое оружие",
+    "en": "Dragon Slayer",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Драконья чешуйчатая кольчуга",
+    "en": "Dragon Scale Mail",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Жезл бдительности",
+    "en": "Rod of Alertness",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Жезл безопасности",
+    "en": "Rod of Security",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Жезл владычества",
+    "en": "Rod of Lordly Might",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Жезл воскрешения",
+    "en": "Rod of Resurrection",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Жезл повелителя",
+    "en": "Rod of Rulership",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Жезл поглощения",
+    "en": "Rod of Absorption",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Железная фляга",
+    "en": "Iron Flask",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Железные оковы",
+    "en": "Iron Bands",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Жемчужина силы",
+    "en": "Pearl of Power",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Жестокое оружие",
+    "en": "Vicious Weapon",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Защитник",
+    "en": "Defender",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Зелье водного дыхания",
+    "en": "Potion of Water Breathing",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Зелье газообразной формы",
+    "en": "Potion of Gaseous Form",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Зелье героизма",
+    "en": "Potion of Heroism",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Зелье долголетия",
+    "en": "Potion of Longevity",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Зелье дружбы с животными",
+    "en": "Potion of Animal Friendship",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Зелье жизненной силы",
+    "en": "Potion of Vitality",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Зелье лазания",
+    "en": "Potion of Climbing",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Зелье невидимости",
+    "en": "Potion of Invisibility",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Зелье неуязвимости",
+    "en": "Potion of Invulnerability",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Зелье полёта",
+    "en": "Potion of Flying",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Зелье роста",
+    "en": "Potion of Growth",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Зелье силы великана",
+    "en": "Potion of Giant Strength",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Зелье скорости",
+    "en": "Potion of Speed",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Зелье сопротивления",
+    "en": "Potion of Resistance",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Зелье уменьшения",
+    "en": "Potion of Diminution",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Зелье чтения мыслей",
+    "en": "Potion of Mind Reading",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Зелье яда",
+    "en": "Potion of Poison",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Зелье ясновидения",
+    "en": "Potion of Clairvoyance",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Зелья лечения",
+    "en": "Potions of Healing",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Зеркало заточения",
+    "en": "Mirror of Life Trapping",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Камень удачи (Камень везения)",
+    "en": "Stone of Good Luck (Luckstone)",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Камень управления земными элементалями",
+    "en": "Stone of Controlling Earth Elementals",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Камни послания",
+    "en": "Sending Stones",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кинжал яда",
+    "en": "Dagger of Venom",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Клятвенный лук",
+    "en": "Oathbow",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Ковёр-самолёт",
+    "en": "Carpet of Flying",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Колба вечного дыма",
+    "en": "Eversmoking Bottle",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Колода иллюзий",
+    "en": "Deck of Illusions",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Колодец многих миров",
+    "en": "Well of Many Worlds",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Колокольчик открывания",
+    "en": "Chime of Opening",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо власти над животными",
+    "en": "Ring of Animal Influence",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо защиты",
+    "en": "Ring of Protection",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо защиты разума",
+    "en": "Ring of Mind Shielding",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо невидимости",
+    "en": "Ring of Invisibility",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо отражения заклинаний",
+    "en": "Ring of Spell Turning",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо падения пёрышком",
+    "en": "Ring of Feather Falling",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо плавания",
+    "en": "Ring of Swimming",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо повеления стихиями",
+    "en": "Ring of Elemental Command",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо призыва джинна",
+    "en": "Ring of Djinni Summoning",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо прыжков",
+    "en": "Ring of Jumping",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо регенерации",
+    "en": "Ring of Regeneration",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо рентгеновского зрения",
+    "en": "Ring of X-ray Vision",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо свободного действия",
+    "en": "Ring of Free Action",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо сопротивления",
+    "en": "Ring of Resistance",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо стрельбы звёздами",
+    "en": "Ring of Shooting Stars",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо тарана",
+    "en": "Ring of the Ram",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо телекинеза",
+    "en": "Ring of Telekinesis",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо тепла",
+    "en": "Ring of Warmth",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо трёх желаний",
+    "en": "Ring of Three Wishes",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо уклонения",
+    "en": "Ring of Evasion",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо хождения по воде",
+    "en": "Ring of Water Walking",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кольцо хранения заклинаний",
+    "en": "Ring of Spell Storing",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Копьё молнии",
+    "en": "Javelin of Lightning",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кристальный шар",
+    "en": "Crystal Ball",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кристальный шар истинного зрения",
+    "en": "Crystal Ball of True Seeing",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кристальный шар телепатии",
+    "en": "Crystal Ball of Telepathy",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кристальный шар чтения мыслей",
+    "en": "Crystal Ball of Mind Reading",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Крылатые сапоги",
+    "en": "Winged Boots",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Крылья полёта",
+    "en": "Wings of Flying",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кубический портал",
+    "en": "Cubic Gate",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кулон заживления ран",
+    "en": "Periapt of Wound Closure",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кулон защиты от яда",
+    "en": "Periapt of Proof against Poison",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Кулон здоровья",
+    "en": "Periapt of Health",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Латный доспех эфирности",
+    "en": "Plate Armor of Etherealness",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Мантия архимага",
+    "en": "Robe of the Archmagi",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Мантия глаз",
+    "en": "Robe of Eyes",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Мантия звёзд",
+    "en": "Robe of Stars",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Мантия мерцающих цветов",
+    "en": "Robe of Scintillating Colors",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Мантия паучьего лазания",
+    "en": "Cloak of Arachnida",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Мантия полезных вещей",
+    "en": "Robe of Useful Items",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Мантия смещения",
+    "en": "Cloak of Displacement",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Мантия сопротивления заклинаниям",
+    "en": "Mantle of Spell Resistance",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Мануал Бодрого Здоровья",
+    "en": "Manual of Bodily Health",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Мануал Быстроты Действий",
+    "en": "Manual of Quickness of Action",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Мануал Големов",
+    "en": "Manual of Golems",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Мануал Полезных Упражнений",
+    "en": "Manual of Gainful Exercise",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Масло остроты",
+    "en": "Oil of Sharpness",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Масло скольжения",
+    "en": "Oil of Slipperiness",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Масло эфирности",
+    "en": "Oil of Etherealness",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Мгновенная крепость",
+    "en": "Instant Fortress",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Медальон мыслей",
+    "en": "Medallion of Thoughts",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Межпространственные кандалы",
+    "en": "Dimensional Shackles",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Метла полёта",
+    "en": "Broom of Flying",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Меч остроты",
+    "en": "Sword of Sharpness",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Меч похищения жизни",
+    "en": "Sword of Life Stealing",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Меч ран",
+    "en": "Sword of Wounding",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Мифриловый доспех",
+    "en": "Mithral Armor",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Молот громовержца",
+    "en": "Hammer of Thunderbolts",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Морозный клинок",
+    "en": "Frost Brand",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Наручи защиты",
+    "en": "Bracers of Defense",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Наручи стрельбы",
+    "en": "Bracers of Archery",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Недвижимый жезл",
+    "en": "Immovable Rod",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Образная фигурка чудесной силы",
+    "en": "Figurine of Wondrous Power",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Обруч излучения",
+    "en": "Circlet of Blasting",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Обруч интеллекта",
+    "en": "Headband of Intellect",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Ожерелье адаптации",
+    "en": "Necklace of Adaptation",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Ожерелье молитвенных бусин",
+    "en": "Necklace of Prayer Beads",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Ожерелье огненных шаров",
+    "en": "Necklace of Fireballs",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Оружие предупреждения",
+    "en": "Weapon of Warning",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Оружие, +1, +2 или +3",
+    "en": "Weapon, +1, +2, or +3",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Очки мелкого зрения",
+    "en": "Eyes of Minute Seeing",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Очки ночного видения",
+    "en": "Goggles of Night",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Переносная дыра",
+    "en": "Portable Hole",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Перо-талисман",
+    "en": "Feather Token",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Перчатки плавания и лазания",
+    "en": "Gloves of Swimming and Climbing",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Перчатки похищения снарядов",
+    "en": "Gloves of Missile Snaring",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Перчатки силы огра",
+    "en": "Gauntlets of Ogre Power",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Пламенный язык",
+    "en": "Flame Tongue",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Плащ защиты",
+    "en": "Cloak of Protection",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Плащ летучей мыши",
+    "en": "Cloak of the Bat",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Плащ манты",
+    "en": "Cloak of the Manta Ray",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Плащ невидимости",
+    "en": "Cloak of Invisibility",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Плащ шарлатана",
+    "en": "Cape of the Mountebank",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Плащ эльфа",
+    "en": "Cloak of Elvenkind",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Подковы зефира",
+    "en": "Horseshoes of a Zephyr",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Подковы скорости",
+    "en": "Horseshoes of Speed",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Посох грома и молнии",
+    "en": "Staff of Thunder and Lightning",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Посох исцеления",
+    "en": "Staff of Healing",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Посох леса",
+    "en": "Staff of the Woodlands",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Посох мага",
+    "en": "Staff of the Magi",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Посох мороза",
+    "en": "Staff of Frost",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Посох огня",
+    "en": "Staff of Fire",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Посох очарования",
+    "en": "Staff of Charming",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Посох питона",
+    "en": "Staff of the Python",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Посох поражения",
+    "en": "Staff of Striking",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Посох роя насекомых",
+    "en": "Staff of Swarming Insects",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Посох силы",
+    "en": "Staff of Power",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Посох увядания",
+    "en": "Staff of Withering",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Пояс дварфов",
+    "en": "Belt of Dwarvenkind",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Пояс силы великана",
+    "en": "Belt of Giant Strength",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Практичный рюкзак",
+    "en": "Handy Haversack",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Приворотное зелье",
+    "en": "Philter of Love",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Пыль исчезновения",
+    "en": "Dust of Disappearance",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Пыль сухости",
+    "en": "Dust of Dryness",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Пыль чихания и удушья",
+    "en": "Dust of Sneezing and Choking",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Рог Валгаллы",
+    "en": "Horn of Valhalla",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Рог взрыва",
+    "en": "Horn of Blasting",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Самоцвет видения",
+    "en": "Gem of Seeing",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Самоцвет сияния",
+    "en": "Gem of Brightness",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Сапоги зимних земель",
+    "en": "Boots of the Winterlands",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Сапоги левитации",
+    "en": "Boots of Levitation",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Сапоги скорости",
+    "en": "Boots of Speed",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Сапоги шага и прыжка",
+    "en": "Boots of Striding and Springing",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Сапоги эльфа",
+    "en": "Boots of Elvenkind",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Свеча призыва",
+    "en": "Candle of Invocation",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Свирель канализации",
+    "en": "Pipes of the Sewers",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Свиток заклинания",
+    "en": "Spell Scroll",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Святой заступник",
+    "en": "Holy Avenger",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Силовой куб",
+    "en": "Cube of Force",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Скарабей защиты",
+    "en": "Scarab of Protection",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Скимитар скорости",
+    "en": "Scimitar of Speed",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Складная лодка",
+    "en": "Folding Boat",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Солнечный клинок",
+    "en": "Sun Blade",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Страж-щит",
+    "en": "Sentinel Shield",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Суверенный клей",
+    "en": "Sovereign Glue",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Сумка вместимости",
+    "en": "Bag of Holding",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Сумка пожирания",
+    "en": "Bag of Devouring",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Сумка фасоли",
+    "en": "Bag of Beans",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Сумка фокусов",
+    "en": "Bag of Tricks",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Сфера уничтожения",
+    "en": "Sphere of Annihilation",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Сферы драконов",
+    "en": "Dragon Orb",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Сферы стихий",
+    "en": "Elemental Gem",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Таинственная колода",
+    "en": "Mysterious Deck",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Талисман абсолютного зла",
+    "en": "Talisman of Ultimate Evil",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Талисман сферы",
+    "en": "Talisman of the Sphere",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Талисман чистого добра",
+    "en": "Talisman of Pure Good",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Танцующий меч",
+    "en": "Dancing Sword",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Тапочки паучьего лазания",
+    "en": "Slippers of Spider Climbing",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Том лидерства и влияния",
+    "en": "Tome of Leadership and Influence",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Том понимания",
+    "en": "Tome of Understanding",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Том ясной мысли",
+    "en": "Tome of Clear Thought",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Топор берсерка",
+    "en": "Berserker Axe",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Трезубец повелителя рыб",
+    "en": "Trident of Fish Command",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Убийца великанов",
+    "en": "Giant Slayer",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Удача (клинок)",
+    "en": "Luck Blade",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Универсальный растворитель",
+    "en": "Universal Solvent",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Флейта преследования",
+    "en": "Pipes of Haunting",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Фонарь раскрытия",
+    "en": "Lantern of Revealing",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Чаша призыва водных элементалей",
+    "en": "Bowl of Commanding Water Elementals",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Чаша призыва огненных элементалей",
+    "en": "Brazier of Commanding Fire Elementals",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Чаша управления воздушными элементалями",
+    "en": "Censer of Controlling Air Elementals",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Шлем понимания языков",
+    "en": "Helm of Comprehending Languages",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Шлем сияния",
+    "en": "Helm of Brilliance",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Шлем телепатии",
+    "en": "Helm of Telepathy",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Шлем телепортации",
+    "en": "Helm of Teleportation",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Шляпа маскировки",
+    "en": "Hat of Disguise",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Шляпа множества заклинаний",
+    "en": "Hat of Many Spells",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Щит защиты от заклинаний",
+    "en": "Spellguard Shield",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Щит кавалериста",
+    "en": "Shield of the Cavalier",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Щит ловли стрел",
+    "en": "Shield of Missile Attraction",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Щит притяжения снарядов",
+    "en": "Arrow-Catching Shield",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Щит, +1, +2 или +3",
+    "en": "Shield, +1, +2, or +3",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Эликсир здоровья",
+    "en": "Elixir of Health",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Эльфийская кольчуга",
+    "en": "Elven Chain",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Энергетический лук",
+    "en": "Energy Bow",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "MagicItem",
+    "ru": "Эффективный колчан",
+    "en": "Efficient Quiver",
+    "file": "10_MagicItems.md",
+    "method": "explicit original name"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Дубинка",
+    "en": "Club",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 1, row 2"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Кинжал",
+    "en": "Dagger",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 1, row 3"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Палица",
+    "en": "Greatclub",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 1, row 4"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Ручной топор",
+    "en": "Handaxe",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 1, row 5"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Метательное копьё",
+    "en": "Javelin",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 1, row 6"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Лёгкий молот",
+    "en": "Light Hammer",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 1, row 7"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Булава",
+    "en": "Mace",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 1, row 8"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Боевой посох",
+    "en": "Quarterstaff",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 1, row 9"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Серп",
+    "en": "Sickle",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 1, row 10"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Копьё",
+    "en": "Spear",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 1, row 11"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Дротик",
+    "en": "Dart",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 2, row 2"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Лёгкий арбалет",
+    "en": "Light Crossbow",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 2, row 3"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Короткий лук",
+    "en": "Shortbow",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 2, row 4"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Праща",
+    "en": "Sling",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 2, row 5"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Боевой топор",
+    "en": "Battleaxe",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 3, row 2"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Цеп",
+    "en": "Flail",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 3, row 3"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Глефа",
+    "en": "Glaive",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 3, row 4"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Секира",
+    "en": "Greataxe",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 3, row 5"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Двуручный меч",
+    "en": "Greatsword",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 3, row 6"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Алебарда",
+    "en": "Halberd",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 3, row 7"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Копьё для турнира",
+    "en": "Lance",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 3, row 8"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Длинный меч",
+    "en": "Longsword",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 3, row 9"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Молот",
+    "en": "Maul",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 3, row 10"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Моргенштерн",
+    "en": "Morningstar",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 3, row 11"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Пика",
+    "en": "Pike",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 3, row 12"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Рапира",
+    "en": "Rapier",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 3, row 13"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Скимитар",
+    "en": "Scimitar",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 3, row 14"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Короткий меч",
+    "en": "Shortsword",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 3, row 15"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Трезубец",
+    "en": "Trident",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 3, row 16"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Боевой молот",
+    "en": "Warhammer",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 3, row 17"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Боевая кирка",
+    "en": "War Pick",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 3, row 18"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Кнут",
+    "en": "Whip",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 3, row 19"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Духовая трубка",
+    "en": "Blowgun",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 4, row 2"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Ручной арбалет",
+    "en": "Hand Crossbow",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 4, row 3"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Тяжёлый арбалет",
+    "en": "Heavy Crossbow",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 4, row 4"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Длинный лук",
+    "en": "Longbow",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 4, row 5"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Мушкет",
+    "en": "Musket",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 4, row 6"
+  },
+  {
+    "category": "Weapon",
+    "ru": "Пистолет",
+    "en": "Pistol",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 4, row 7"
+  },
+  {
+    "category": "Armor",
+    "ru": "Стёганый доспех",
+    "en": "Padded Armor",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 5, row 2"
+  },
+  {
+    "category": "Armor",
+    "ru": "Кожаный доспех",
+    "en": "Leather Armor",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 5, row 3"
+  },
+  {
+    "category": "Armor",
+    "ru": "Проклёпанный кожаный доспех",
+    "en": "Studded Leather Armor",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 5, row 4"
+  },
+  {
+    "category": "Armor",
+    "ru": "Шкурный доспех",
+    "en": "Hide Armor",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 6, row 2"
+  },
+  {
+    "category": "Armor",
+    "ru": "Кольчужная рубаха",
+    "en": "Chain Shirt",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 6, row 3"
+  },
+  {
+    "category": "Armor",
+    "ru": "Чешуйчатый доспех",
+    "en": "Scale Mail",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 6, row 4"
+  },
+  {
+    "category": "Armor",
+    "ru": "Кираса",
+    "en": "Breastplate",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 6, row 5"
+  },
+  {
+    "category": "Armor",
+    "ru": "Полулаты",
+    "en": "Half Plate Armor",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 6, row 6"
+  },
+  {
+    "category": "Armor",
+    "ru": "Колечный доспех",
+    "en": "Ring Mail",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 7, row 2"
+  },
+  {
+    "category": "Armor",
+    "ru": "Кольчуга",
+    "en": "Chain Mail",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 7, row 3"
+  },
+  {
+    "category": "Armor",
+    "ru": "Наборный доспех",
+    "en": "Splint Armor",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 7, row 4"
+  },
+  {
+    "category": "Armor",
+    "ru": "Латы",
+    "en": "Plate Armor",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 7, row 5"
+  },
+  {
+    "category": "Armor",
+    "ru": "Щит",
+    "en": "Shield",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 8, row 2"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Кислота",
+    "en": "Acid",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 2"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Алхимический огонь",
+    "en": "Alchemist's Fire",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 3"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Боеприпасы",
+    "en": "Ammunition",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 4"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Противоядие",
+    "en": "Antitoxin",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 5"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Магический фокус",
+    "en": "Arcane Focus",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 6"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Рюкзак",
+    "en": "Backpack",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 7"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Металлические шарики",
+    "en": "Ball Bearings",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 8"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Бочка",
+    "en": "Barrel",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 9"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Корзина",
+    "en": "Basket",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 10"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Спальник",
+    "en": "Bedroll",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 11"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Колокольчик",
+    "en": "Bell",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 12"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Одеяло",
+    "en": "Blanket",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 13"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Блок и полиспаст",
+    "en": "Block and Tackle",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 14"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Книга",
+    "en": "Book",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 15"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Бутылка стеклянная",
+    "en": "Bottle, Glass",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 16"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Ведро",
+    "en": "Bucket",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 17"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Набор взломщика",
+    "en": "Burglar's Pack",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 18"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Шипы",
+    "en": "Caltrops",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 19"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Свеча",
+    "en": "Candle",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 20"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Футляр для арбалетных болтов",
+    "en": "Case, Crossbow Bolt",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 21"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Футляр для карты или свитка",
+    "en": "Case, Map or Scroll",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 22"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Цепь",
+    "en": "Chain",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 23"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Сундук",
+    "en": "Chest",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 24"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Набор для лазания",
+    "en": "Climber's Kit",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 25"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Одежда, изысканная",
+    "en": "Clothes, Fine",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 26"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Одежда, дорожная",
+    "en": "Clothes, Traveler's",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 27"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Мешочек с компонентами",
+    "en": "Component Pouch",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 28"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Костюм",
+    "en": "Costume",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 29"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Ломик",
+    "en": "Crowbar",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 30"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Набор дипломата",
+    "en": "Diplomat's Pack",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 31"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Друидический фокус",
+    "en": "Druidic Focus",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 32"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Набор исследователя подземелий",
+    "en": "Dungeoneer's Pack",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 33"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Набор артиста",
+    "en": "Entertainer's Pack",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 34"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Набор путешественника",
+    "en": "Explorer's Pack",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 35"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Фляга",
+    "en": "Flask",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 36"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Крюк-кошка",
+    "en": "Grappling Hook",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 37"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Набор целителя",
+    "en": "Healer's Kit",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 38"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Священный символ",
+    "en": "Holy Symbol",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 39"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Святая вода",
+    "en": "Holy Water",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 40"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Охотничий капкан",
+    "en": "Hunting Trap",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 41"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Чернила",
+    "en": "Ink",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 42"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Чернильная ручка",
+    "en": "Ink Pen",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 43"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Кувшин",
+    "en": "Jug",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 44"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Лестница",
+    "en": "Ladder",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 45"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Лампа",
+    "en": "Lamp",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 46"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Фонарь, бычий",
+    "en": "Lantern, Bullseye",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 47"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Фонарь, закрытый",
+    "en": "Lantern, Hooded",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 48"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Замок",
+    "en": "Lock",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 49"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Увеличительное стекло",
+    "en": "Magnifying Glass",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 50"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Кандалы",
+    "en": "Manacles",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 51"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Карта",
+    "en": "Map",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 52"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Зеркало",
+    "en": "Mirror",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 53"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Сеть",
+    "en": "Net",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 54"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Масло",
+    "en": "Oil",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 55"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Бумага",
+    "en": "Paper",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 56"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Пергамент",
+    "en": "Parchment",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 57"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Духи",
+    "en": "Perfume",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 58"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Яд, простой",
+    "en": "Poison, Basic",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 59"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Шест",
+    "en": "Pole",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 60"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Котелок, железный",
+    "en": "Pot, Iron",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 61"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Зелье лечения",
+    "en": "Potion of Healing",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 62"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Кошель",
+    "en": "Pouch",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 63"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Набор жреца",
+    "en": "Priest's Pack",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 64"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Колчан",
+    "en": "Quiver",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 65"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Таран, переносной",
+    "en": "Ram, Portable",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 66"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Рационы",
+    "en": "Rations",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 67"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Ряса",
+    "en": "Robe",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 68"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Верёвка",
+    "en": "Rope",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 69"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Мешок",
+    "en": "Sack",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 70"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Набор учёного",
+    "en": "Scholar's Pack",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 71"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Лопата",
+    "en": "Shovel",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 72"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Сигнальный свисток",
+    "en": "Signal Whistle",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 73"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Свиток заклинания (заговор)",
+    "en": "Spell Scroll (Cantrip)",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 74"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Свиток заклинания (1 уровень)",
+    "en": "Spell Scroll (Level 1)",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 75"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Шипы, железные",
+    "en": "Spikes, Iron",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 76"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Подзорная труба",
+    "en": "Spyglass",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 77"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Бечёвка",
+    "en": "String",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 78"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Палатка",
+    "en": "Tent",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 79"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Трутница",
+    "en": "Tinderbox",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 80"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Факел",
+    "en": "Torch",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 81"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Флакон",
+    "en": "Vial",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 82"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Бурдюк",
+    "en": "Waterskin",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 9, row 83"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Верблюд",
+    "en": "Camel",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 14, row 2"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Слон",
+    "en": "Elephant",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 14, row 3"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Лошадь, тягловая",
+    "en": "Horse, Draft",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 14, row 4"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Лошадь, верховая",
+    "en": "Horse, Riding",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 14, row 5"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Мастиф",
+    "en": "Mastiff",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 14, row 6"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Мул",
+    "en": "Mule",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 14, row 7"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Пони",
+    "en": "Pony",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 14, row 8"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Боевой конь",
+    "en": "Warhorse",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 14, row 9"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Карета",
+    "en": "Carriage",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 15, row 2"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Телега",
+    "en": "Cart",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 15, row 3"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Колесница",
+    "en": "Chariot",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 15, row 4"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Корм в день",
+    "en": "Feed per day",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 15, row 5"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Седло, экзотическое",
+    "en": "Saddle - Exotic",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 15, row 6"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Седло, военное",
+    "en": "Saddle - Military",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 15, row 7"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Седло, верховое",
+    "en": "Saddle - Riding",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 15, row 8"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Сани",
+    "en": "Sled",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 15, row 9"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Содержание в конюшне в день",
+    "en": "Stabling per day",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 15, row 10"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Повозка",
+    "en": "Wagon",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 15, row 11"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Дирижабль",
+    "en": "Airship",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 16, row 2"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Галера",
+    "en": "Galley",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 16, row 3"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Киль",
+    "en": "Keelboat",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 16, row 4"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Драккар",
+    "en": "Longship",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 16, row 5"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Шлюпка",
+    "en": "Rowboat",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 16, row 6"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Парусник",
+    "en": "Sailing Ship",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 16, row 7"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Военный корабль",
+    "en": "Warship",
+    "file": "06_Equipment.md",
+    "method": "parallel equipment table 16, row 8"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Алхимические принадлежности (Alchemist's Supplies) (50 зм)",
+    "en": "Alchemist's Supplies (50 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Пивоваренные принадлежности (Brewer's Supplies) (20 зм)",
+    "en": "Brewer's Supplies (20 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Каллиграфические принадлежности (Calligrapher's Supplies) (10 зм)",
+    "en": "Calligrapher's Supplies (10 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Плотницкие инструменты (Carpenter's Tools) (8 зм)",
+    "en": "Carpenter's Tools (8 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Картографические инструменты (Cartographer's Tools) (15 зм)",
+    "en": "Cartographer's Tools (15 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Сапожные инструменты (Cobbler's Tools) (5 зм)",
+    "en": "Cobbler's Tools (5 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Кухонная утварь (Cook's Utensils) (1 зм)",
+    "en": "Cook's Utensils (1 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Стеклодувные инструменты (Glassblower's Tools) (30 зм)",
+    "en": "Glassblower's Tools (30 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Ювелирные инструменты (Jeweler's Tools) (25 зм)",
+    "en": "Jeweler's Tools (25 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Кожевенные инструменты (Leatherworker's Tools) (5 зм)",
+    "en": "Leatherworker's Tools (5 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Каменщицкие инструменты (Mason's Tools) (10 зм)",
+    "en": "Mason's Tools (10 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Принадлежности художника (Painter's Supplies) (10 зм)",
+    "en": "Painter's Supplies (10 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Гончарные инструменты (Potter's Tools) (10 зм)",
+    "en": "Potter's Tools (10 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Кузнечные инструменты (Smith's Tools) (20 зм)",
+    "en": "Smith's Tools (20 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Инструменты жестянщика (Tinker's Tools) (50 зм)",
+    "en": "Tinker's Tools (50 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Ткацкие инструменты (Weaver's Tools) (1 зм)",
+    "en": "Weaver's Tools (1 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Инструменты резчика по дереву (Woodcarver's Tools) (1 зм)",
+    "en": "Woodcarver's Tools (1 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Набор для грима (Disguise Kit) (25 зм)",
+    "en": "Disguise Kit (25 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Набор для подделок (Forgery Kit) (15 зм)",
+    "en": "Forgery Kit (15 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Игровой набор (Gaming Set) (разная)",
+    "en": "Gaming Set (Varies)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Набор травника (Herbalism Kit) (5 зм)",
+    "en": "Herbalism Kit (5 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Музыкальный инструмент (Musical Instrument) (разная)",
+    "en": "Musical Instrument (Varies)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Навигационные инструменты (Navigator's Tools) (25 зм)",
+    "en": "Navigator's Tools (25 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Набор отравителя (Poisoner's Kit) (50 зм)",
+    "en": "Poisoner's Kit (50 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Equipment",
+    "ru": "Воровские инструменты (Thieves' Tools) (25 зм)",
+    "en": "Thieves' Tools (25 GP)",
+    "file": "06_Equipment.md",
+    "method": "parallel tool heading"
+  },
+  {
+    "category": "Rule",
+    "ru": "Как играть: Ритм игры",
+    "en": "Playing the Game: Rhythm of Play",
+    "file": "01_PlayingTheGame.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Как играть: Шесть характеристик",
+    "en": "Playing the Game: The Six Abilities",
+    "file": "01_PlayingTheGame.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Как играть: Проверки d20",
+    "en": "Playing the Game: D20 Tests",
+    "file": "01_PlayingTheGame.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Как играть: Владение",
+    "en": "Playing the Game: Proficiency",
+    "file": "01_PlayingTheGame.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Как играть: Действия",
+    "en": "Playing the Game: Actions",
+    "file": "01_PlayingTheGame.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Как играть: Социальное взаимодействие",
+    "en": "Playing the Game: Social Interaction",
+    "file": "01_PlayingTheGame.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Как играть: Исследование",
+    "en": "Playing the Game: Exploration",
+    "file": "01_PlayingTheGame.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Как играть: Бой",
+    "en": "Playing the Game: Combat",
+    "file": "01_PlayingTheGame.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Как играть: Урон и лечение",
+    "en": "Playing the Game: Damage and Healing",
+    "file": "01_PlayingTheGame.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Создание персонажа: Выберите лист персонажа",
+    "en": "Character Creation: Choose a Character Sheet",
+    "file": "02_CharacterCreation.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Создание персонажа: Создайте своего персонажа",
+    "en": "Character Creation: Create Your Character",
+    "file": "02_CharacterCreation.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Создание персонажа: Повышение уровня",
+    "en": "Character Creation: Level Advancement",
+    "file": "02_CharacterCreation.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Создание персонажа: Начало на высоких уровнях",
+    "en": "Character Creation: Starting at Higher Levels",
+    "file": "02_CharacterCreation.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Создание персонажа: Мультиклассирование",
+    "en": "Character Creation: Multiclassing",
+    "file": "02_CharacterCreation.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Создание персонажа: Безделушки",
+    "en": "Character Creation: Trinkets",
+    "file": "02_CharacterCreation.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Снаряжение: Монеты",
+    "en": "Equipment: Coins",
+    "file": "06_Equipment.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Снаряжение: Оружие",
+    "en": "Equipment: Weapons",
+    "file": "06_Equipment.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Снаряжение: Доспехи",
+    "en": "Equipment: Armor",
+    "file": "06_Equipment.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Снаряжение: Инструменты",
+    "en": "Equipment: Tools",
+    "file": "06_Equipment.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Снаряжение: Снаряжение искателя приключений",
+    "en": "Equipment: Adventuring Gear",
+    "file": "06_Equipment.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Снаряжение: Ездовые животные и транспорт",
+    "en": "Equipment: Mounts and Vehicles",
+    "file": "06_Equipment.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Снаряжение: Расходы на образ жизни",
+    "en": "Equipment: Lifestyle Expenses",
+    "file": "06_Equipment.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Снаряжение: Наёмники",
+    "en": "Equipment: Hirelings",
+    "file": "06_Equipment.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Снаряжение: Услуги заклинателей",
+    "en": "Equipment: Spellcasting",
+    "file": "06_Equipment.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Снаряжение: Магические предметы",
+    "en": "Equipment: Magic Items",
+    "file": "06_Equipment.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Снаряжение: Создание немагических предметов",
+    "en": "Equipment: Crafting Nonmagical Items",
+    "file": "06_Equipment.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Снаряжение: Варка зелий лечения",
+    "en": "Equipment: Brewing Potions of Healing",
+    "file": "06_Equipment.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Снаряжение: Написание свитков заклинаний",
+    "en": "Equipment: Scribing Spell Scrolls",
+    "file": "06_Equipment.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Снаряжение: Заговоры",
+    "en": "Equipment: Cantrips",
+    "file": "06_Equipment.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Монстры: Обзор блока статистики",
+    "en": "Monsters: Stat Block Overview",
+    "file": "11_Monsters.md",
+    "method": "parallel rules chapter"
+  },
+  {
+    "category": "Rule",
+    "ru": "Монстры: Составляющие блока статистики",
+    "en": "Monsters: Parts of a Stat Block",
+    "file": "11_Monsters.md",
+    "method": "parallel rules chapter"
+  }
+]

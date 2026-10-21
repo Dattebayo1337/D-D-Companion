@@ -1,0 +1,1336 @@
+{
+  "checkedAt": "2026-10-02T11:47:25.032Z",
+  "total": 2929,
+  "groups": {
+    "Spell": {
+      "total": 666,
+      "emptySummary": 0,
+      "overviewOnly": 0,
+      "separateFeatures": 0
+    },
+    "Monster": {
+      "total": 650,
+      "emptySummary": 0,
+      "overviewOnly": 0,
+      "separateFeatures": 0
+    },
+    "Class": {
+      "total": 26,
+      "emptySummary": 0,
+      "overviewOnly": 0,
+      "separateFeatures": 0
+    },
+    "Subclass": {
+      "total": 194,
+      "emptySummary": 0,
+      "overviewOnly": 94,
+      "separateFeatures": 76
+    },
+    "SpeciesRace": {
+      "total": 103,
+      "emptySummary": 0,
+      "overviewOnly": 12,
+      "separateFeatures": 0
+    },
+    "Background": {
+      "total": 38,
+      "emptySummary": 0,
+      "overviewOnly": 0,
+      "separateFeatures": 0
+    },
+    "Feat": {
+      "total": 121,
+      "emptySummary": 0,
+      "overviewOnly": 7,
+      "separateFeatures": 0
+    },
+    "Condition": {
+      "total": 30,
+      "emptySummary": 0,
+      "overviewOnly": 0,
+      "separateFeatures": 0
+    },
+    "Rule": {
+      "total": 201,
+      "emptySummary": 0,
+      "overviewOnly": 0,
+      "separateFeatures": 0
+    },
+    "MagicItem": {
+      "total": 504,
+      "emptySummary": 0,
+      "overviewOnly": 0,
+      "separateFeatures": 0
+    },
+    "Armor": {
+      "total": 26,
+      "emptySummary": 0,
+      "overviewOnly": 0,
+      "separateFeatures": 0
+    },
+    "Weapon": {
+      "total": 75,
+      "emptySummary": 0,
+      "overviewOnly": 0,
+      "separateFeatures": 0
+    },
+    "Equipment": {
+      "total": 295,
+      "emptySummary": 0,
+      "overviewOnly": 0,
+      "separateFeatures": 0
+    }
+  },
+  "separatelyStored": [
+    {
+      "name": "Шпион",
+      "edition": "5e_2014",
+      "properties": 1,
+      "progression": 0
+    },
+    {
+      "name": "Гладиатор",
+      "edition": "5e_2014",
+      "properties": 1,
+      "progression": 0
+    },
+    {
+      "name": "Гильдейский торговец",
+      "edition": "5e_2014",
+      "properties": 1,
+      "progression": 0
+    },
+    {
+      "name": "Рыцарь",
+      "edition": "5e_2014",
+      "properties": 1,
+      "progression": 0
+    },
+    {
+      "name": "Пират",
+      "edition": "5e_2014",
+      "properties": 1,
+      "progression": 0
+    },
+    {
+      "name": "Артистичный",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Атлетичный",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Бдительный",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Везунчик",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Верховой боец",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Внимательный",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Воинский адепт",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Воодушевляющий лидер",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Дикий атакующий",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Драчун",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Знаток лёгких доспехов",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Знаток средних доспехов",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Знаток тяжёлых доспехов",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Использование двух оружий",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Исследователь подземелий",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Крепкий",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Лекарь",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Мастер оружия",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Мастер средних доспехов",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Мастер тяжёлых доспехов",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Мастер щитов",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Меткие заклинания",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Меткий стрелок",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Налётчик",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Оборонительный дуэлянт",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Одарённый",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Отличная память",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Подвижный",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Посвящённый в магию",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Проныра",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Ритуальный заклинатель",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Стихийный адепт",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Стойкий",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Убийца магов",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Устойчивый",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Эксперт в арбалетах",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Языковед",
+      "edition": "5e_2014",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Актёр",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Атлет",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Налётчик",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Шеф-повар",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Эксперт по арбалетам",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Крушитель",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Парирующий дуэлянт",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Мастер боя двумя оружиями",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Стойкий",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Стихийный адепт",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Затронутый феями",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Знаток тяжёлых доспехов",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Мастер тяжёлых доспехов",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Воодушевляющий лидер",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Острый ум",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Знаток лёгких доспехов",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Убийца магов",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Обученность воинскому оружию",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Мастер средних доспехов",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Знаток средних доспехов",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Верховой боец",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Внимательный",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Пронзатель",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Отравитель",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Устойчивый",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Ритуальный заклинатель",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Страж",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Затронутый тенью",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Меткий стрелок",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Мастер щита",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Эксперт в навыке",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Проныра",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Рубака",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Быстрый",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Меткий заклинатель",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Телекинетик",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Телепат",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Мастер оружия",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Сражение вслепую",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Дуэлянт",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Перехват",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Защита",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Сражение метательным оружием",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Сражение без оружия",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Дар сопротивления энергии",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Дар стойкости",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Дар восстановления",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Дар умелости",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Дар скорости",
+      "edition": "5e_2024",
+      "properties": 3,
+      "progression": 0
+    },
+    {
+      "name": "Артиллерист",
+      "edition": "5e_2014",
+      "properties": 1,
+      "progression": 0
+    },
+    {
+      "name": "Круг звёзд",
+      "edition": "5e_2014",
+      "properties": 1,
+      "progression": 0
+    },
+    {
+      "name": "Рунный рыцарь",
+      "edition": "5e_2014",
+      "properties": 1,
+      "progression": 0
+    },
+    {
+      "name": "Хранитель роя",
+      "edition": "5e_2014",
+      "properties": 1,
+      "progression": 0
+    }
+  ],
+  "overviewOnlyEntries": [
+    {
+      "name": "Ремесленник",
+      "edition": "5e_2024",
+      "category": "Feat",
+      "source": "https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-2024"
+    },
+    {
+      "name": "Целитель",
+      "edition": "5e_2024",
+      "category": "Feat",
+      "source": "https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-2024"
+    },
+    {
+      "name": "Везунчик",
+      "edition": "5e_2024",
+      "category": "Feat",
+      "source": "https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-2024"
+    },
+    {
+      "name": "Музыкант",
+      "edition": "5e_2024",
+      "category": "Feat",
+      "source": "https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-2024"
+    },
+    {
+      "name": "Крепкий",
+      "edition": "5e_2024",
+      "category": "Feat",
+      "source": "https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-2024"
+    },
+    {
+      "name": "Мастер большого оружия",
+      "edition": "5e_2014",
+      "category": "Feat",
+      "source": "https://dnd.su/feats/120-great-weapon-master/"
+    },
+    {
+      "name": "Мастер древкового оружия",
+      "edition": "5e_2014",
+      "category": "Feat",
+      "source": "https://dnd.su/feats/121-polearm-master/"
+    },
+    {
+      "name": "Аасимар",
+      "edition": "5e_2014",
+      "category": "SpeciesRace",
+      "source": "https://dnd.su/race/161-aasimar/"
+    },
+    {
+      "name": "Гибрид Симиков",
+      "edition": "5e_2014",
+      "category": "SpeciesRace",
+      "source": "https://dnd.su/race/164-simic-hybrid/"
+    },
+    {
+      "name": "Гифф",
+      "edition": "5e_2014",
+      "category": "SpeciesRace",
+      "source": "https://dnd.su/multiverse/race/215-giff/"
+    },
+    {
+      "name": "Орк",
+      "edition": "5e_2014",
+      "category": "SpeciesRace",
+      "source": "https://dnd.su/race/187-orc/"
+    },
+    {
+      "name": "Юань-ти",
+      "edition": "5e_2014",
+      "category": "SpeciesRace",
+      "source": "https://dnd.su/race/189-yuan-ti-pureblood/"
+    },
+    {
+      "name": "Гитцерай · Мультивселенная монстров",
+      "edition": "5e_2014",
+      "category": "SpeciesRace",
+      "source": "https://dnd.su/multiverse/race/293-githzerai/"
+    },
+    {
+      "name": "Глубинный гном · Мультивселенная монстров",
+      "edition": "5e_2014",
+      "category": "SpeciesRace",
+      "source": "https://dnd.su/multiverse/race/286-deep-gnome/"
+    },
+    {
+      "name": "Голиаф · Мультивселенная монстров",
+      "edition": "5e_2014",
+      "category": "SpeciesRace",
+      "source": "https://dnd.su/multiverse/race/295-goliath/"
+    },
+    {
+      "name": "Дуэргар · Мультивселенная монстров",
+      "edition": "5e_2014",
+      "category": "SpeciesRace",
+      "source": "https://dnd.su/multiverse/race/287-duergar/"
+    },
+    {
+      "name": "Табакси · Мультивселенная монстров",
+      "edition": "5e_2014",
+      "category": "SpeciesRace",
+      "source": "https://dnd.su/multiverse/race/307-tabaxi/"
+    },
+    {
+      "name": "Шадар-кай · Мультивселенная монстров",
+      "edition": "5e_2014",
+      "category": "SpeciesRace",
+      "source": "https://dnd.su/multiverse/race/305-shadar-kai/"
+    },
+    {
+      "name": "Юань-ти · Мультивселенная монстров",
+      "edition": "5e_2014",
+      "category": "SpeciesRace",
+      "source": "https://dnd.su/multiverse/race/311-yuan-ti/"
+    },
+    {
+      "name": "Алхимик",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/137-artificer/#specialist.alchemist"
+    },
+    {
+      "name": "Боевой кузнец",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/137-artificer/#specialist.battlesmith"
+    },
+    {
+      "name": "Бронник",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/137-artificer/#specialist.armorer"
+    },
+    {
+      "name": "Путь бушующего в бою",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/87-barbarian/#primal.battlerager"
+    },
+    {
+      "name": "Путь буревестника",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/87-barbarian/#primal.storm-herald"
+    },
+    {
+      "name": "Путь предка-хранителя",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/87-barbarian/#primal.ancestral-guardian"
+    },
+    {
+      "name": "Путь фанатика",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/87-barbarian/#primal.zealot"
+    },
+    {
+      "name": "Путь дикой магии",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/87-barbarian/#primal.wild-magic"
+    },
+    {
+      "name": "Путь зверя",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/87-barbarian/#primal.beast"
+    },
+    {
+      "name": "Путь великана",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/87-barbarian/#primal.giant"
+    },
+    {
+      "name": "Домен смерти",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/89-cleric/#domain.death"
+    },
+    {
+      "name": "Домен магии",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/89-cleric/#domain.arcana"
+    },
+    {
+      "name": "Домен кузни",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/89-cleric/#domain.forge"
+    },
+    {
+      "name": "Домен упокоения",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/89-cleric/#domain.grave"
+    },
+    {
+      "name": "Домен мира",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/89-cleric/#domain.peace"
+    },
+    {
+      "name": "Домен порядка",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/89-cleric/#domain.order"
+    },
+    {
+      "name": "Домен сумерек",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/89-cleric/#domain.twilight"
+    },
+    {
+      "name": "Круг пастыря",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/90-druid/#circle.shepherd"
+    },
+    {
+      "name": "Круг снов",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/90-druid/#circle.dreams"
+    },
+    {
+      "name": "Круг дикого огня",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/90-druid/#circle.wildfire"
+    },
+    {
+      "name": "Круг спор",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/90-druid/#circle.spores"
+    },
+    {
+      "name": "Рыцарь Пурпурного дракона",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/91-fighter/#archetype.banneret"
+    },
+    {
+      "name": "Кавалерист",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/91-fighter/#archetype.cavalier"
+    },
+    {
+      "name": "Мистический лучник",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/91-fighter/#archetype.arcane-archer"
+    },
+    {
+      "name": "Самурай",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/91-fighter/#archetype.samurai"
+    },
+    {
+      "name": "Рыцарь Эха",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/91-fighter/#archetype.echo-knight"
+    },
+    {
+      "name": "Пси-воин",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/91-fighter/#archetype.psi-warrior"
+    },
+    {
+      "name": "Путь долгой смерти",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/93-monk/#tradition.long-death"
+    },
+    {
+      "name": "Путь кэнсэя",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/93-monk/#tradition.kensei"
+    },
+    {
+      "name": "Путь пьяного мастера",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/93-monk/#tradition.drunken-master"
+    },
+    {
+      "name": "Путь солнечной души",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/93-monk/#tradition.sun-soul"
+    },
+    {
+      "name": "Путь астрального тела",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/93-monk/#tradition.astral-body"
+    },
+    {
+      "name": "Путь милосердия",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/93-monk/#tradition.mercy"
+    },
+    {
+      "name": "Путь восходящего дракона",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/93-monk/#tradition.ascending-dragon"
+    },
+    {
+      "name": "Клятвопреступник",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/94-paladin/#oath.oathbreaker"
+    },
+    {
+      "name": "Клятва короны",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/94-paladin/#oath.crown"
+    },
+    {
+      "name": "Клятва искупления",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/94-paladin/#oath.redemption"
+    },
+    {
+      "name": "Клятва покорения",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/94-paladin/#oath.conquest"
+    },
+    {
+      "name": "Клятва славы",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/94-paladin/#oath.glory"
+    },
+    {
+      "name": "Клятва смотрителей",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/94-paladin/#oath.watchers"
+    },
+    {
+      "name": "Странник горизонта",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/97-ranger/#archetype.horizon-walker"
+    },
+    {
+      "name": "Сумрачный охотник",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/97-ranger/#archetype.gloom-stalker"
+    },
+    {
+      "name": "Убийца чудовищ",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/97-ranger/#archetype.monster-slayer"
+    },
+    {
+      "name": "Странник фей",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/97-ranger/#archetype.fey-wanderer"
+    },
+    {
+      "name": "Наездник на дрейке",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/97-ranger/#archetype.drakewarden"
+    },
+    {
+      "name": "Дуэлянт",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/99-rogue/#archetype.swashbuckler"
+    },
+    {
+      "name": "Комбинатор",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/99-rogue/#archetype.mastermind"
+    },
+    {
+      "name": "Скаут",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/99-rogue/#archetype.scout"
+    },
+    {
+      "name": "Сыщик",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/99-rogue/#archetype.inquisitive"
+    },
+    {
+      "name": "Фантом",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/99-rogue/#archetype.phantom"
+    },
+    {
+      "name": "Клинок души",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/99-rogue/#archetype.soulknife"
+    },
+    {
+      "name": "Божественная душа",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/101-sorcerer/#origin.divine-soul"
+    },
+    {
+      "name": "Теневая магия",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/101-sorcerer/#origin.shadow"
+    },
+    {
+      "name": "Штормовое колдовство",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/101-sorcerer/#origin.storm"
+    },
+    {
+      "name": "Аберрантный разум",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/101-sorcerer/#origin.aberrant-mind"
+    },
+    {
+      "name": "Заводная душа",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/101-sorcerer/#origin.clockwork-soul"
+    },
+    {
+      "name": "Лунное чародейство",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/101-sorcerer/#origin.lunar-sorcery"
+    },
+    {
+      "name": "Бессмертный",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/104-warlock/#patron.undying"
+    },
+    {
+      "name": "Ведьмовской клинок",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/104-warlock/#patron.hexblade"
+    },
+    {
+      "name": "Небожитель",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/104-warlock/#patron.celestial"
+    },
+    {
+      "name": "Бездонный",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/104-warlock/#patron.fathomless"
+    },
+    {
+      "name": "Гений",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/104-warlock/#patron.genie"
+    },
+    {
+      "name": "Нежить",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/104-warlock/#patron.undead"
+    },
+    {
+      "name": "Военная магия",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/105-wizard/#tradition.war-magic"
+    },
+    {
+      "name": "Магия хронургии",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/105-wizard/#tradition.chronurgy"
+    },
+    {
+      "name": "Магия гравитургии",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/105-wizard/#tradition.graviturgy"
+    },
+    {
+      "name": "Орден писцов",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/105-wizard/#tradition.scribes"
+    },
+    {
+      "name": "Песнь клинка",
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "source": "https://dnd.su/class/105-wizard/#tradition.bladesinging"
+    },
+    {
+      "name": "Алхимик",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/artificer#subclass.alchemist"
+    },
+    {
+      "name": "Артиллерист",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/artificer#subclass.artillerist"
+    },
+    {
+      "name": "Боевой кузнец",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/artificer#subclass.battle-smith"
+    },
+    {
+      "name": "Бронник",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/artificer#subclass.armorer"
+    },
+    {
+      "name": "Картограф",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/artificer#subclass.сartographer"
+    },
+    {
+      "name": "Реаниматор",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/artificer#subclass.reanimator"
+    },
+    {
+      "name": "Домен знаний",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/cleric#subclass.knowledge-domain"
+    },
+    {
+      "name": "Домен упокоения",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/cleric#subclass.grave-domain"
+    },
+    {
+      "name": "Домен магии",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/cleric#subclass.arcana-domain"
+    },
+    {
+      "name": "Баннерет",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/fighter#subclass.banneret"
+    },
+    {
+      "name": "Чародейный стрелок",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/fighter#subclass.arcane-archer"
+    },
+    {
+      "name": "Мистический воин",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/monk#subclass.warrior-of-the-mystic-arts"
+    },
+    {
+      "name": "Клятва благородных гениев",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/paladin#subclass.oath-of-the-noble-genies"
+    },
+    {
+      "name": "Зимний ходок",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/ranger#subclass.winter-walker"
+    },
+    {
+      "name": "Страж пустошей",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/ranger#subclass.hollow-warden"
+    },
+    {
+      "name": "Наследник троицы",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/rogue#subclass.scion-of-the-three"
+    },
+    {
+      "name": "Фантом",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/rogue#subclass.phantom"
+    },
+    {
+      "name": "Чародейство чаропламени",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/sorcerer#subclass.spellfire-sorcery"
+    },
+    {
+      "name": "Теневое чародейство",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/sorcerer#subclass.shadow-sorcery"
+    },
+    {
+      "name": "Нежить",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/warlock#subclass.undead"
+    },
+    {
+      "name": "Предтеча",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/warlock#subclass.vestige-patron"
+    },
+    {
+      "name": "Некромант",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/wizard#subclass.necromancer"
+    },
+    {
+      "name": "Очарователь",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/wizard#subclass.enchanter"
+    },
+    {
+      "name": "Преобразователь",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/wizard#subclass.transmuter"
+    },
+    {
+      "name": "Призыватель",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/wizard#subclass.conjurer"
+    },
+    {
+      "name": "Певец клинка",
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "source": "https://next.dnd.su/class/wizard#subclass.bladesinger"
+    }
+  ]
+}

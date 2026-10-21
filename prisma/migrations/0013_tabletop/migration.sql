@@ -1,0 +1,1 @@
+ALTER TABLE "Lobby" ADD COLUMN "tabletop" JSONB NOT NULL DEFAULT '{}';

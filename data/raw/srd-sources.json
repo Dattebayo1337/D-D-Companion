@@ -1,0 +1,917 @@
+{
+  "repository": "https://github.com/OmnisGM-App/OmnisGM-Rules",
+  "commit": "9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5",
+  "retrievedAt": "2026-09-17T13:46:22.271Z",
+  "files": [
+    {
+      "path": "srd-2014/omnisgm/en/00_Legal.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/00_Legal.md",
+      "gitBlobSha": "48f4ef56fe32d295b3d3e2de6568eaa79211f73c",
+      "sha256": "087484df8f7179eb9798704390002f4ec5ce19131e6f20f1242a43e43e55a7d3",
+      "bytes": 1072
+    },
+    {
+      "path": "srd-2014/omnisgm/en/01_Abilities.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/01_Abilities.md",
+      "gitBlobSha": "dd6658023054ef683ec55d8b68a76bb1364cfce1",
+      "sha256": "25263d7bc4671f1e7d7dd8a97df23f966a04b5e47a844d2d9ca98e8dd6ff9ab1",
+      "bytes": 31711
+    },
+    {
+      "path": "srd-2014/omnisgm/en/02_Adventuring.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/02_Adventuring.md",
+      "gitBlobSha": "cea8cbcce80b0e3971c7b6f46b62dd01b26a1d91",
+      "sha256": "d4f4a2583689cd2ecf36858f7d48300bb5b7d53248b6fb9b83320d600d81239b",
+      "bytes": 21487
+    },
+    {
+      "path": "srd-2014/omnisgm/en/03_Combat.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/03_Combat.md",
+      "gitBlobSha": "a3a64fdf7b2810f3c8f065d7184b77fc79d673d4",
+      "sha256": "0714eae7ba9a1ae498a82db8bb412dab9394c9bd432e6d26151752e26334b114",
+      "bytes": 41779
+    },
+    {
+      "path": "srd-2014/omnisgm/en/04_Races.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/04_Races.md",
+      "gitBlobSha": "bf4671aad7c9a0fd6f01cf603b8f2258f4d18e8f",
+      "sha256": "ce3ef63dcd2208be663351b7206c8be48f07e979cec4b6bad212204e6c66921b",
+      "bytes": 20364
+    },
+    {
+      "path": "srd-2014/omnisgm/en/05_CharacterDetails.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/05_CharacterDetails.md",
+      "gitBlobSha": "433216309fdc44c782a194b5bd5ab3dd42c6a64b",
+      "sha256": "f56199fc72b683855fd36a8fab746e4fc29d318a6e7940d63416115be23b2a85",
+      "bytes": 18891
+    },
+    {
+      "path": "srd-2014/omnisgm/en/06_Classes/00_Classes.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/06_Classes/00_Classes.md",
+      "gitBlobSha": "87846ef6ba6746be18636b716777e257ed79865b",
+      "sha256": "318bbbf1d64507d32c656dcfa5610edd50a7eb63e88be732317b5ff37ed4940c",
+      "bytes": 10
+    },
+    {
+      "path": "srd-2014/omnisgm/en/06_Classes/01_Barbarian.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/06_Classes/01_Barbarian.md",
+      "gitBlobSha": "806fa5aa7a9a358e692cb3d22efd1f669e64b9fa",
+      "sha256": "07036d69a5b96d50aa9138a02aa36592c2e8fc5979feb53edef8cdc8ccd3e63a",
+      "bytes": 9491
+    },
+    {
+      "path": "srd-2014/omnisgm/en/06_Classes/02_Bard.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/06_Classes/02_Bard.md",
+      "gitBlobSha": "c6db95d5a1d1ec70946dc0d4f8c43ac6b53e476c",
+      "sha256": "d10b50b1057e990fb91293b30f9dcad9585bbdfb5bccd4a55bec095534fab9b5",
+      "bytes": 14108
+    },
+    {
+      "path": "srd-2014/omnisgm/en/06_Classes/03_Cleric.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/06_Classes/03_Cleric.md",
+      "gitBlobSha": "7059cd13b9887235bdb1e07d709c5efeb97da672",
+      "sha256": "3edd13e26ff374fb721ba622f9d240f62ab3faa5ccf9f3abb3b251f94ebfda1d",
+      "bytes": 14654
+    },
+    {
+      "path": "srd-2014/omnisgm/en/06_Classes/04_Druid.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/06_Classes/04_Druid.md",
+      "gitBlobSha": "a0bd2ea0300170739fb5aca33c4d961e9ff3abcb",
+      "sha256": "32141ca9a929df15c963f44f797fee7dae4b60d6b9c23f7d566c9161670c1e28",
+      "bytes": 18754
+    },
+    {
+      "path": "srd-2014/omnisgm/en/06_Classes/05_Fighter.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/06_Classes/05_Fighter.md",
+      "gitBlobSha": "cb36ea5b0980540752ae4fc4da9835cbcb8adc6c",
+      "sha256": "0ae3242478e7effd728ca04d97ea1202ed0900b906548ee3e35d8a08d0340aca",
+      "bytes": 7983
+    },
+    {
+      "path": "srd-2014/omnisgm/en/06_Classes/06_Monk.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/06_Classes/06_Monk.md",
+      "gitBlobSha": "d97751ab484777820a0c4660cfca45df871aca7f",
+      "sha256": "adcd2e97179cda94c6402cda6e39484e8d1f63250e95b157710ca58a6a558beb",
+      "bytes": 14166
+    },
+    {
+      "path": "srd-2014/omnisgm/en/06_Classes/07_Paladin.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/06_Classes/07_Paladin.md",
+      "gitBlobSha": "79d7efc771e5ef437891efdbd4201101566dd592",
+      "sha256": "06b11fda1208b4e51e84a724499d4b6df78632cc0d32577df214bdb8ae68ae32",
+      "bytes": 17345
+    },
+    {
+      "path": "srd-2014/omnisgm/en/06_Classes/08_Ranger.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/06_Classes/08_Ranger.md",
+      "gitBlobSha": "10fa8d98334efb003de4844cba0486ff038e95e6",
+      "sha256": "cdd79af0e1cd3f823ef58ae25bdb143c7dc090e3f62af422b543b3d6f74f222d",
+      "bytes": 15088
+    },
+    {
+      "path": "srd-2014/omnisgm/en/06_Classes/09_Rogue.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/06_Classes/09_Rogue.md",
+      "gitBlobSha": "de3f0caccceba0118f37bfb139706d71f90eeb50",
+      "sha256": "dbc67e29d3ff1c44b67f172f06bfa61ff83fb4b742de3d4e0c077d538653d93d",
+      "bytes": 10192
+    },
+    {
+      "path": "srd-2014/omnisgm/en/06_Classes/10_Sorcerer.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/06_Classes/10_Sorcerer.md",
+      "gitBlobSha": "57e47fcddbbf58bd151c929c34c99100078c04da",
+      "sha256": "deac8d0a50540531267cd499726ede59b1959fc157665a9b5d687b2ef06a78b3",
+      "bytes": 15384
+    },
+    {
+      "path": "srd-2014/omnisgm/en/06_Classes/11_Warlock.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/06_Classes/11_Warlock.md",
+      "gitBlobSha": "1ce76826b96c6616e74d5cb19323707b2fa21585",
+      "sha256": "ebf9721b895c8510ff1d5dad94271372ee51d10e3422c89eb053d9f14769de95",
+      "bytes": 22453
+    },
+    {
+      "path": "srd-2014/omnisgm/en/06_Classes/12_Wizard.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/06_Classes/12_Wizard.md",
+      "gitBlobSha": "4198dd0b93a80ba6efe7fd28bf524720de106a9c",
+      "sha256": "fb4a497d5d77126fedfbd132a718da3333a6137bd003a41c72c9169ae8cdd02e",
+      "bytes": 15106
+    },
+    {
+      "path": "srd-2014/omnisgm/en/07_Multiclassing.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/07_Multiclassing.md",
+      "gitBlobSha": "2de939a849d0e65d8ee64a8b78f78a696df15463",
+      "sha256": "46227b5eab8675efdc61495779ef45758f169c1f404d5d596ed37963ee949d67",
+      "bytes": 11083
+    },
+    {
+      "path": "srd-2014/omnisgm/en/08_Feats.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/08_Feats.md",
+      "gitBlobSha": "e4395a798a9dc3cb5d37eff0b1371639888bf30b",
+      "sha256": "e090052d91a7b94c4adcdd612743a74b136cb12575159f6ab9eb6c391cd5ac05",
+      "bytes": 1284
+    },
+    {
+      "path": "srd-2014/omnisgm/en/09_Equipment.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/09_Equipment.md",
+      "gitBlobSha": "bb2cf56d5da46e66a338e1136723dbc6bb73a428",
+      "sha256": "76a448094807f7091e1e4b8bb2daa9614c84bc8be351bd2847a0d0b2af8339d0",
+      "bytes": 64305
+    },
+    {
+      "path": "srd-2014/omnisgm/en/10_Spells.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/10_Spells.md",
+      "gitBlobSha": "bc490d42600a215f01ccfb18637a598b143c3821",
+      "sha256": "111d8d02799e12258821f0941613aa78fb39bdb50eb1b65e565d9860e6ab1b71",
+      "bytes": 356012
+    },
+    {
+      "path": "srd-2014/omnisgm/en/11_Conditions.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/11_Conditions.md",
+      "gitBlobSha": "61410a5bf5d6e148c30d75092bc4d2c7728d07b3",
+      "sha256": "f1e0205ff79f5395a3af0125f184bc4be1160d32dc0637ea31b01cd2de17a56d",
+      "bytes": 6227
+    },
+    {
+      "path": "srd-2014/omnisgm/en/12_GamemasteringToolbox.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/12_GamemasteringToolbox.md",
+      "gitBlobSha": "66242f7b558e7bfb4fd0a0d5f6a6e596775d9d0d",
+      "sha256": "02d4c8370e1bc44db4ef15f2333b253322794041935ca4f62b5a192d18dcf4d0",
+      "bytes": 63256
+    },
+    {
+      "path": "srd-2014/omnisgm/en/13_MagicItems.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/13_MagicItems.md",
+      "gitBlobSha": "c0b03f95e9c95c520b9d641b1a62230bf1dbc826",
+      "sha256": "f11fe37af9ef3327e113d4abfaa4ace162644682f6b5a60473c2b8c98a68e30c",
+      "bytes": 220397
+    },
+    {
+      "path": "srd-2014/omnisgm/en/14_Monsters.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/14_Monsters.md",
+      "gitBlobSha": "a4fcdb51de298137a5807a29dedd2af9bbd24cef",
+      "sha256": "55b9ae7a4d0377c750f992004f9ea3a7936628e5974e4a9ef9cd0fcee72ddee2",
+      "bytes": 28335
+    },
+    {
+      "path": "srd-2014/omnisgm/en/15_MonstersA-Z.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/15_MonstersA-Z.md",
+      "gitBlobSha": "5e394e9d921354f012946d3b27bf7fd95076ac47",
+      "sha256": "4dabf1753dd1a9a160a6018ce0782c3f8be1f0b3b51175c6a47436fafa4e59b4",
+      "bytes": 484486
+    },
+    {
+      "path": "srd-2014/omnisgm/en/16_Glossary/00_Glossary.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/16_Glossary/00_Glossary.md",
+      "gitBlobSha": "cfc2f052da6ea9b388a41239ad191164477ece47",
+      "sha256": "7e352b67f5863ff9188c5493cc0b5b60bd98d3a623a7468d07abd82c1fa0ab49",
+      "bytes": 8612
+    },
+    {
+      "path": "srd-2014/omnisgm/en/16_Glossary/02_Spells.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/16_Glossary/02_Spells.md",
+      "gitBlobSha": "40624abd7486d8b09c29ff58225477f4e71af9d4",
+      "sha256": "44cd32235e75873f31e1519b00dd76164d3eecb9f59fb63138556cc10fa487e3",
+      "bytes": 17799
+    },
+    {
+      "path": "srd-2014/omnisgm/en/16_Glossary/03_MagicItems.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/16_Glossary/03_MagicItems.md",
+      "gitBlobSha": "a080ea7c4d40f2c8ac3124afb1b0f07343572bcc",
+      "sha256": "84df0ebec648472f1e41bddb67bc5e1049ad12314cafc842c94c24f0977d7961",
+      "bytes": 13748
+    },
+    {
+      "path": "srd-2014/omnisgm/en/16_Glossary/04_Monsters.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/en/16_Glossary/04_Monsters.md",
+      "gitBlobSha": "52034ab1afc0194d22efcebe842a52956d29b387",
+      "sha256": "0b70b33f3bb0dc260fa0942c5f0096fa2613ebbb4883ad21dc0657b76ef8f65b",
+      "bytes": 21387
+    },
+    {
+      "path": "srd-2014/omnisgm/LICENSE-RU.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/LICENSE-RU.md",
+      "gitBlobSha": "a024cd081d6245d4601e29e9e5a9e8b5d716205e",
+      "sha256": "2509fe6f4e78b9f5571681b98d5ffc8458f8c7ba0b02e267a533c9f4d036a714",
+      "bytes": 37213
+    },
+    {
+      "path": "srd-2014/omnisgm/LICENSE.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/LICENSE.md",
+      "gitBlobSha": "2c85726fa9fcd3a51479b4dd8c4c497c3fffa4b7",
+      "sha256": "39dc3d747ac3a357525aca274b6e5ec7e2f8f63af77634f5ecf9cd60e2dc8b18",
+      "bytes": 19730
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/00_Legal.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/00_Legal.md",
+      "gitBlobSha": "5efb9eeb6c4d251e1fdffee0447a4bd07e6b9e48",
+      "sha256": "c007ccd94d97a388df761615f80ba9c7186b1250ee9953c80845338113f88e31",
+      "bytes": 1664
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/01_Abilities.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/01_Abilities.md",
+      "gitBlobSha": "e6fbe70732c62aa65490bc346b655627c7ea79fd",
+      "sha256": "e8555222b2f8afca475357032e6a296fa57bbb06029566de75a9ba21240c8d45",
+      "bytes": 58088
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/02_Adventuring.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/02_Adventuring.md",
+      "gitBlobSha": "e6fae94c4b2f50d8649de6f77904efe60c090f54",
+      "sha256": "d419b336844cc45821be1b73816fae110d686f32401d1d8069815ae4cd25dc1d",
+      "bytes": 39723
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/03_Combat.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/03_Combat.md",
+      "gitBlobSha": "b282db49e1e2f60e67936d6b2295d8606605daf7",
+      "sha256": "a8a82ffa549e264b060bfefecf9c84402800b784cacc22c9fdb5bcf1fce62184",
+      "bytes": 76869
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/04_Races.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/04_Races.md",
+      "gitBlobSha": "4bbcf569e29831ef2ccd0a5e18ee248bd9d4b78d",
+      "sha256": "10ca705efea69902e6219c67bb4d9d35f2ce53afbd73d4fb3a7029597d738d10",
+      "bytes": 37868
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/05_CharacterDetails.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/05_CharacterDetails.md",
+      "gitBlobSha": "5418e73554fc76968b3abefa8fcb79d955a37f5f",
+      "sha256": "5826f8c60ec4147339ef686d456b320f1887c2fbf0ceaeaab542ddcba40e9602",
+      "bytes": 31914
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/06_Classes/00_Classes.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/06_Classes/00_Classes.md",
+      "gitBlobSha": "90f0aaccf5a0ba48d64ed3328fc2f12c8bcd39bc",
+      "sha256": "defa1429d95a44836fe9fd1106018e647ead34eb657cd26f3866e92466c41456",
+      "bytes": 15
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/06_Classes/01_Barbarian.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/06_Classes/01_Barbarian.md",
+      "gitBlobSha": "7de6d1415f05fc1fa1933b50ced6892cfaed0a39",
+      "sha256": "4db643292bc0a559f6b3cc9e6082364b9c75e97af2549490714b18ab3a7cf753",
+      "bytes": 16726
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/06_Classes/02_Bard.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/06_Classes/02_Bard.md",
+      "gitBlobSha": "d049c1195856f41ceaeeab5762cd15b034e17bb7",
+      "sha256": "2b83fa7a208695487d175e70ff0306aeaf830e20ecc6e563cfe62cd5a26be2e4",
+      "bytes": 24257
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/06_Classes/03_Cleric.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/06_Classes/03_Cleric.md",
+      "gitBlobSha": "7d76e20c91b33f1e8d3d9f6115e3be04c889bf0e",
+      "sha256": "f548f9ae1bec04efbcdfa8086d679f0b860364e8be65e1ed5d7a3dd19e37fa53",
+      "bytes": 24586
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/06_Classes/04_Druid.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/06_Classes/04_Druid.md",
+      "gitBlobSha": "408ce466d47243387b148cc2d0587aeb9a20155e",
+      "sha256": "b2ff42ea10e5ce509df42167aaa974f1902adf6fbb59c288e48ee265e3c65c32",
+      "bytes": 32679
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/06_Classes/05_Fighter.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/06_Classes/05_Fighter.md",
+      "gitBlobSha": "61becb60270d297aa004fef06443dbcdb148c6f9",
+      "sha256": "804d71fd490792f9c246ac040892d7b63cf64b4ee81832cc2bdeb511203bace3",
+      "bytes": 13514
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/06_Classes/06_Monk.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/06_Classes/06_Monk.md",
+      "gitBlobSha": "15e120b0be81c950198583aad7c3057e9ff2b3f2",
+      "sha256": "cb2df83a73d3bfdd5d82245686df1a54dfc814c21f4cb465620469b442b73efd",
+      "bytes": 24819
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/06_Classes/07_Paladin.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/06_Classes/07_Paladin.md",
+      "gitBlobSha": "ea20d44edb77eec0bf7986945baf4b4d96f2ca3d",
+      "sha256": "fb4a9423b2822a17019faf5bf05d3d76170a7834cc58c0931322300f1752cb9d",
+      "bytes": 31433
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/06_Classes/08_Ranger.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/06_Classes/08_Ranger.md",
+      "gitBlobSha": "3e5820d8e886bc92031484613358595ea81366c0",
+      "sha256": "d146d7ba0b75a476cd38591ea8a1683064e59bbe8b8a46e01b47a0a956d96501",
+      "bytes": 26901
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/06_Classes/09_Rogue.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/06_Classes/09_Rogue.md",
+      "gitBlobSha": "2c602182cb6ef6b091b8cb3bb740e2c379028931",
+      "sha256": "9adbb9554a83ffb540a8c4989a5b4aa5a930fc98e1dedc4c6c28bdc47bdc5a75",
+      "bytes": 17678
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/06_Classes/10_Sorcerer.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/06_Classes/10_Sorcerer.md",
+      "gitBlobSha": "36573cd080b04acd08a680a1dd02e5e2d752d924",
+      "sha256": "f9e8c4645dc72020cf4e1e969e96980f400975238cb32af45bdf5866be80fcdf",
+      "bytes": 27533
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/06_Classes/11_Warlock.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/06_Classes/11_Warlock.md",
+      "gitBlobSha": "763026b82dd39142e5cfc41733c772eb301ccd2e",
+      "sha256": "64d6efd9226ab582c2ae09935971330dadf09516660a1a96ee0858de74e96579",
+      "bytes": 41608
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/06_Classes/12_Wizard.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/06_Classes/12_Wizard.md",
+      "gitBlobSha": "dfa78f16e9cd92eb490f6e6a48ce0e2396de0d9c",
+      "sha256": "3affd039673ab436d4a8a7d52da82e84d3f5f23f722388958063fa40cc49c496",
+      "bytes": 28269
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/07_Multiclassing.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/07_Multiclassing.md",
+      "gitBlobSha": "02b746ce4442decf96a26c314e1b36dd8f501459",
+      "sha256": "6ff881ead0eb4bac7c083310230f193b467df28e907dfce3aa663a7dd15e3097",
+      "bytes": 19511
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/08_Feats.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/08_Feats.md",
+      "gitBlobSha": "b90e419e61f8e49aeb446816bdc7472e28cd7b82",
+      "sha256": "2d7d36c5789bc73b02ca7bee867d5c27402ddc56c940224922567893da871eed",
+      "bytes": 2596
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/09_Equipment.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/09_Equipment.md",
+      "gitBlobSha": "d658a9534185ba500cc94d36bf7925c8b3824b1c",
+      "sha256": "ef4d0aae0e66d3af9b8b92c79bbd9ae089bf4d1a301e0af184565e4194dbbcd6",
+      "bytes": 114961
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/10_Spells.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/10_Spells.md",
+      "gitBlobSha": "d6b4f2ad316c12a97b779528dfd526fe1f3de840",
+      "sha256": "65beabc87964d13b97333f949f30865ad6097f5e07035946fdf5afe0cb164975",
+      "bytes": 684143
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/11_Conditions.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/11_Conditions.md",
+      "gitBlobSha": "0520d3f0e78e67c9e5a019b7887bf453fb888c48",
+      "sha256": "d0f99a733b0f02284af8666c3b80ba2780c2eb76f878534b56745d514a52aff4",
+      "bytes": 11963
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/12_GamemasteringToolbox.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/12_GamemasteringToolbox.md",
+      "gitBlobSha": "47ff4a3b87f5f9719cbdb1afe30c6fa49f042391",
+      "sha256": "52d837ffb27f136c19ba12f31aa5d1dacb6c358c8df8f9ba6e74f5e085308495",
+      "bytes": 110356
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/13_MagicItems.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/13_MagicItems.md",
+      "gitBlobSha": "839c8da5d781265e47ce9553790d53cce1beda0a",
+      "sha256": "515ebc214e4e21909efa8c34d53e282575e81e2f515a11953423fa26f89804c6",
+      "bytes": 397122
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/14_Monsters.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/14_Monsters.md",
+      "gitBlobSha": "693af7b9b5f9df92b2b07570dcc41c8ad5d81c14",
+      "sha256": "a7876f4517e4c2875514c88014fd72e1f479f1760a61ef383b10f2f9bcc758e9",
+      "bytes": 52342
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/15_MonstersA-Z.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/15_MonstersA-Z.md",
+      "gitBlobSha": "5c7b5ef20237470051ab980b345e385b4a411091",
+      "sha256": "c1f83c212a4d5c812cf98a0909335f54d74485000214ba4da11d5192e08f26cd",
+      "bytes": 855035
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/16_Glossary/00_Glossary.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/16_Glossary/00_Glossary.md",
+      "gitBlobSha": "678773db511b4b62cd14fedd9595eba13e87320d",
+      "sha256": "acd25582a16a8d22559d7bb704e39dce8cd18bd30d7e8d072f548b11ded0d840",
+      "bytes": 18858
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/16_Glossary/02_Spells.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/16_Glossary/02_Spells.md",
+      "gitBlobSha": "f1d4ef2bfee6d6d6c9755406883b5df365f2b68a",
+      "sha256": "7d2c7389f6276fa0e7e135196527601657834242dd14dadd26ea9072fbeedc2c",
+      "bytes": 35743
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/16_Glossary/03_MagicItems.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/16_Glossary/03_MagicItems.md",
+      "gitBlobSha": "eac55da26ed7e7633b2d139d52f75e5d34e713f6",
+      "sha256": "c62bd93207e63e30870d25582866ca46b03c35f585bd0ec419bd0c8fc3bae60e",
+      "bytes": 29502
+    },
+    {
+      "path": "srd-2014/omnisgm/ru/16_Glossary/04_Monsters.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.1/ru/16_Glossary/04_Monsters.md",
+      "gitBlobSha": "dfe9b28bc0cb9622f47a6cb89e8a21febdc46715",
+      "sha256": "63c9ceb748b7a3a2f73aa1e57eade81424addec9d65553a5b7af31dc7bd1c73e",
+      "bytes": 42258
+    },
+    {
+      "path": "srd-2024/omnisgm/en/00_Legal.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/00_Legal.md",
+      "gitBlobSha": "58172296689af1ac26d8cf7099065a1be2bd6175",
+      "sha256": "9e5381e4032837d06de2152b5f985639644a01dd08bc6302d837b8b1c3cbb435",
+      "bytes": 1117
+    },
+    {
+      "path": "srd-2024/omnisgm/en/01_PlayingTheGame.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/01_PlayingTheGame.md",
+      "gitBlobSha": "d92832327f6100aa2e1d4e27e9019467aafd9304",
+      "sha256": "8d070e5bc1a2822548e6a68a0f25dc047f08056d69cb36d019c4a6ef8be65267",
+      "bytes": 61734
+    },
+    {
+      "path": "srd-2024/omnisgm/en/02_CharacterCreation.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/02_CharacterCreation.md",
+      "gitBlobSha": "76fd694a7825121909a32013f080048e3d0c1a82",
+      "sha256": "e3f2e4736e37f240219a826553e229eed2b73bccdb6da4972f60ff1466b19233",
+      "bytes": 46370
+    },
+    {
+      "path": "srd-2024/omnisgm/en/03_Classes/00_Classes.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/03_Classes/00_Classes.md",
+      "gitBlobSha": "87846ef6ba6746be18636b716777e257ed79865b",
+      "sha256": "318bbbf1d64507d32c656dcfa5610edd50a7eb63e88be732317b5ff37ed4940c",
+      "bytes": 10
+    },
+    {
+      "path": "srd-2024/omnisgm/en/03_Classes/01_Barbarian.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/03_Classes/01_Barbarian.md",
+      "gitBlobSha": "4a6c774ff7fb54139465048dadbd8ecbd1bf48f1",
+      "sha256": "80dbb4ec5956f9f8574143cf7aedadbd7c00c7965091f6a6d21b077ac6698ae0",
+      "bytes": 13390
+    },
+    {
+      "path": "srd-2024/omnisgm/en/03_Classes/02_Bard.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/03_Classes/02_Bard.md",
+      "gitBlobSha": "fc4f551153248b5fdeaff12c9694efc59d9375d0",
+      "sha256": "0f80a5e5d2826237f3749258f39b00d7cb7426ead1335917e27bce88ccb7e784",
+      "bytes": 21659
+    },
+    {
+      "path": "srd-2024/omnisgm/en/03_Classes/03_Cleric.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/03_Classes/03_Cleric.md",
+      "gitBlobSha": "a604e237f40f919ca90ebbbf6ad9f9cd8d1b138b",
+      "sha256": "ef0273675d3daba2c72464585df0fddda1225555ba37f56dcbe08da223f50568",
+      "bytes": 21859
+    },
+    {
+      "path": "srd-2024/omnisgm/en/03_Classes/04_Druid.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/03_Classes/04_Druid.md",
+      "gitBlobSha": "2be7959d3d2d2d3fa73e202e60037c5eda2f1f51",
+      "sha256": "73d21b2c0941876b7c8e276c40d49f3c3a70385d1dcb606724ba56b468ea5a42",
+      "bytes": 27532
+    },
+    {
+      "path": "srd-2024/omnisgm/en/03_Classes/05_Fighter.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/03_Classes/05_Fighter.md",
+      "gitBlobSha": "a8ed75f2618ceeac4e411eb4fb63a554cfe742bd",
+      "sha256": "72dd33b7c38e683017375b66210a1692860509e38d088717dcb5f226e1ca158a",
+      "bytes": 10384
+    },
+    {
+      "path": "srd-2024/omnisgm/en/03_Classes/06_Monk.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/03_Classes/06_Monk.md",
+      "gitBlobSha": "8b63b48aa75fcabcf5650601e471e7d8899a8625",
+      "sha256": "8730ccd689ed5a1332096807365051c77aec46521b0b5326e627d089d64b838b",
+      "bytes": 15017
+    },
+    {
+      "path": "srd-2024/omnisgm/en/03_Classes/07_Paladin.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/03_Classes/07_Paladin.md",
+      "gitBlobSha": "a9a7eb6cda6fb393861b0b47e1a4cdc47604a186",
+      "sha256": "80e5cc7a4c892f06320d7db319ded73a7601775639ce31b5654a1e7a9fd92954",
+      "bytes": 19309
+    },
+    {
+      "path": "srd-2024/omnisgm/en/03_Classes/08_Ranger.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/03_Classes/08_Ranger.md",
+      "gitBlobSha": "9803e73c4c9c7a64dfe6a2c65ca52c434afcc74b",
+      "sha256": "11435ca504cf88449a0dd1ba92f91f694464c3b7a716dd249401fff2e00a038f",
+      "bytes": 16374
+    },
+    {
+      "path": "srd-2024/omnisgm/en/03_Classes/09_Rogue.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/03_Classes/09_Rogue.md",
+      "gitBlobSha": "abd805da29b55475f3938b99626f20b2ff1a7869",
+      "sha256": "d792ab0a9e1ed7ff296f73f0adb5d002b48b83701238415cb69efb6da36072b5",
+      "bytes": 12556
+    },
+    {
+      "path": "srd-2024/omnisgm/en/03_Classes/10_Sorcerer.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/03_Classes/10_Sorcerer.md",
+      "gitBlobSha": "8c180c3e4222ab07242220343ce3b3cf6b3c3845",
+      "sha256": "248228ca871c72932149c1c9c238b4ff56dda43a4c832902a34d59a4a9ba4bdc",
+      "bytes": 25736
+    },
+    {
+      "path": "srd-2024/omnisgm/en/03_Classes/11_Warlock.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/03_Classes/11_Warlock.md",
+      "gitBlobSha": "ba9bfe8d5a71c6af1c14e71ca7bd0af962883750",
+      "sha256": "52a06ff75a96db9156db05f828be9ebc8f331a5135362cff074c65ec3d388e45",
+      "bytes": 27736
+    },
+    {
+      "path": "srd-2024/omnisgm/en/03_Classes/12_Wizard.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/03_Classes/12_Wizard.md",
+      "gitBlobSha": "2e7d76eb55486bea90c4bf6283e712a6a55a3ac4",
+      "sha256": "54369c95e2c34b113959bda30ae9491ea6edc8f87cd62f69802be9aaa2fa2b3c",
+      "bytes": 27837
+    },
+    {
+      "path": "srd-2024/omnisgm/en/04_CharacterOrigins.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/04_CharacterOrigins.md",
+      "gitBlobSha": "07352a3844202c5e8394245aae54d87bcf81e93a",
+      "sha256": "0bec7508b27543e83af8a8fa570706a40466f0939db9396fdab5cac3a2583dd8",
+      "bytes": 16645
+    },
+    {
+      "path": "srd-2024/omnisgm/en/05_Feats.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/05_Feats.md",
+      "gitBlobSha": "2e0daa0628d4996bc9423d25c64f292e7f502166",
+      "sha256": "cc1de76abe5a6ee4c45d4ddf4e67d8aa57a0ca1923ff5e96698ce1e1d6bf4c50",
+      "bytes": 7688
+    },
+    {
+      "path": "srd-2024/omnisgm/en/06_Equipment.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/06_Equipment.md",
+      "gitBlobSha": "c4538f6e813df06dc8d2961eadef6f52c49fca4b",
+      "sha256": "0b7750447779fb5880b4767b43dd5c7fee57cea6b96fe12d985d449bcb808fb1",
+      "bytes": 63579
+    },
+    {
+      "path": "srd-2024/omnisgm/en/07_Spells.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/07_Spells.md",
+      "gitBlobSha": "fa597a1671f2574eee3bd541540ce7205581c72f",
+      "sha256": "1ef191a0200a77a922eb96d297241f95626c00fdd8c59faded098ec4076704c8",
+      "bytes": 322501
+    },
+    {
+      "path": "srd-2024/omnisgm/en/08_RulesGlossary.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/08_RulesGlossary.md",
+      "gitBlobSha": "ae3cc903ab441d5def4e30a3779d7c8b2ff62b1f",
+      "sha256": "fee3328e3cf5d3fa37405beacdaa102c0fbf0445f3f5197ed677455ef3243ef1",
+      "bytes": 69266
+    },
+    {
+      "path": "srd-2024/omnisgm/en/09_GameplayToolbox.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/09_GameplayToolbox.md",
+      "gitBlobSha": "8a15011c6679da2de996f26485eaaf939396dd94",
+      "sha256": "2f8a4a93c81feaae29d75b5c82e1440ea7117e89093b1a7edd17c04d8651a97e",
+      "bytes": 47807
+    },
+    {
+      "path": "srd-2024/omnisgm/en/10_MagicItems.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/10_MagicItems.md",
+      "gitBlobSha": "535b9fa2fd8c8f0711b50f5d82b578c46c199e69",
+      "sha256": "4fa5f54df3d71de81e4537486327088b57ecc4a8b7ce71265ff48243449527a8",
+      "bytes": 229330
+    },
+    {
+      "path": "srd-2024/omnisgm/en/11_Monsters.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/11_Monsters.md",
+      "gitBlobSha": "0fd3da773895198dcbf3ebab7f70f0fba979048a",
+      "sha256": "8fcff4ed7dde4178e34ca9a92c0644bb295ee90478e93982333d4b65241cb4ce",
+      "bytes": 16960
+    },
+    {
+      "path": "srd-2024/omnisgm/en/12_MonstersA-Z.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/12_MonstersA-Z.md",
+      "gitBlobSha": "0a421dcd13932177f004cc061e8fefa1bcc860fa",
+      "sha256": "36332eb847a92736fecf094076d3f4973b9e9ac0246516e41a089ba670b0479a",
+      "bytes": 365411
+    },
+    {
+      "path": "srd-2024/omnisgm/en/13_Animals.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/13_Animals.md",
+      "gitBlobSha": "6ab0221c7fcea43b0540be3805fecdae659953a2",
+      "sha256": "7ff516393d0ae7bc570f0b3fa826aea9184bc999cb59a532aa66c0a74baeee4c",
+      "bytes": 86601
+    },
+    {
+      "path": "srd-2024/omnisgm/en/14_Glossary/00_Glossary.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/14_Glossary/00_Glossary.md",
+      "gitBlobSha": "1cf36740502004e02f3872fccf1841469466c313",
+      "sha256": "bf716d1e3cc84e65bdbcacc38a5963b8557dd15cf3d336ec376fa8daf600ebf9",
+      "bytes": 5840
+    },
+    {
+      "path": "srd-2024/omnisgm/en/14_Glossary/02_Spells.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/14_Glossary/02_Spells.md",
+      "gitBlobSha": "62c3e14719c487ab2587974b14c47acf318fa4b4",
+      "sha256": "6410361c7edd35a6aba60583759c20cc2d167d4a9d6b743a03c6f4da01ff0b8c",
+      "bytes": 19360
+    },
+    {
+      "path": "srd-2024/omnisgm/en/14_Glossary/03_MagicItems.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/14_Glossary/03_MagicItems.md",
+      "gitBlobSha": "4c4114cd3eaec6a1a0288f90f49c5ba30be1fe21",
+      "sha256": "f7438b8f5b820a7ad60a1b8301dbc5f0eb09085d3da668cf89c7bf547ccc378d",
+      "bytes": 14624
+    },
+    {
+      "path": "srd-2024/omnisgm/en/14_Glossary/04_Monsters.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/14_Glossary/04_Monsters.md",
+      "gitBlobSha": "4abdb2c9fe9b7ba9fa39ab1a72920e1a9e0237c5",
+      "sha256": "17bb6ee5fe2c11cc3dcda9351948418836bdc1a51698ff4e3d56673ce1c9de33",
+      "bytes": 16173
+    },
+    {
+      "path": "srd-2024/omnisgm/en/14_Glossary/05_Animals.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/en/14_Glossary/05_Animals.md",
+      "gitBlobSha": "7e1e1be4ed6da9d88464c053d615c60fd3fc1ca0",
+      "sha256": "7abef85279507a5a4d996de4a4d662b2a2557dd042b6bb62c2e712bd048d743e",
+      "bytes": 4565
+    },
+    {
+      "path": "srd-2024/omnisgm/LICENSE-RU.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/LICENSE-RU.md",
+      "gitBlobSha": "a529163f511871b9ee8d324ae386c26fbc457fbd",
+      "sha256": "936d406ff158acdeca6b78fe636b380a51ee04e5c0e2579e22b15c1f796b9c13",
+      "bytes": 37242
+    },
+    {
+      "path": "srd-2024/omnisgm/LICENSE.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/LICENSE.md",
+      "gitBlobSha": "aff1202c4a864372ca835de9502d80852643831e",
+      "sha256": "22ce079c48db402e3ff7c8c779788463a0bc1d50ca84154bf7ff0a3348ae1312",
+      "bytes": 19808
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/00_Legal.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/00_Legal.md",
+      "gitBlobSha": "25c1204fd040abb020f44789a15e69fb5cb2654b",
+      "sha256": "5aae60c9087054d96b3b1410f739d66570e794e5855c08949dfdbc0783ad41c7",
+      "bytes": 1722
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/01_PlayingTheGame.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/01_PlayingTheGame.md",
+      "gitBlobSha": "351b223ae39f5ca3a7372b712e8a3280be628d89",
+      "sha256": "a7dd57c1d65a7b1519c5e4dae0d77d79f73db21f715a15fcbac3bb030c12d9de",
+      "bytes": 110951
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/02_CharacterCreation.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/02_CharacterCreation.md",
+      "gitBlobSha": "5e27f820fb896f2c4a6712337c752cac09e91b97",
+      "sha256": "5fcd4ea96dba1496453ae156e1c9b90a1ffef55afe45f1a2d789ab429ad65f85",
+      "bytes": 74376
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/03_Classes/00_Classes.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/03_Classes/00_Classes.md",
+      "gitBlobSha": "90f0aaccf5a0ba48d64ed3328fc2f12c8bcd39bc",
+      "sha256": "defa1429d95a44836fe9fd1106018e647ead34eb657cd26f3866e92466c41456",
+      "bytes": 15
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/03_Classes/01_Barbarian.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/03_Classes/01_Barbarian.md",
+      "gitBlobSha": "1162b64d45aaf4904c7ad290c65178a07499658b",
+      "sha256": "05a7ba5c4b286ab871b36cfbd337193c7732deef2bb75be09d62cc7595e47104",
+      "bytes": 22857
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/03_Classes/02_Bard.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/03_Classes/02_Bard.md",
+      "gitBlobSha": "85007bbb44a666c5598bb05b3d1e333e5176c9bb",
+      "sha256": "2253328385877236a08fba2ae48947e226aa84ebcc5a3d9163fb911baebd82a6",
+      "bytes": 35408
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/03_Classes/03_Cleric.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/03_Classes/03_Cleric.md",
+      "gitBlobSha": "5a7e0e6eb005d634bb08dadca972b24af9a7b63e",
+      "sha256": "8815f606a211de83a2d7c0636aa3b05750f408277e4ef3f1061df49963806d75",
+      "bytes": 37860
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/03_Classes/04_Druid.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/03_Classes/04_Druid.md",
+      "gitBlobSha": "8e1dbcd4b973989ccb4ccb6c1fc53d8118617b30",
+      "sha256": "db1f42d6033136b90d7f5a6c5c83b47891f9a16775f72ece3eacc466555612c4",
+      "bytes": 46954
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/03_Classes/05_Fighter.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/03_Classes/05_Fighter.md",
+      "gitBlobSha": "4782d13428451b8e2ad4ec292d63c7e0c6dd5308",
+      "sha256": "eed59155dc6e36f2e85d0b9305670d10237ed9bc8ff864f3d5fc0481f65d9a7a",
+      "bytes": 17885
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/03_Classes/06_Monk.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/03_Classes/06_Monk.md",
+      "gitBlobSha": "684ece2d0eff1aab22d26b1f75155465f7d646a9",
+      "sha256": "eaf0709c4e2a08707e1359a36bba1d893f9058d763e36bb0055e05bb312462c6",
+      "bytes": 25961
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/03_Classes/07_Paladin.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/03_Classes/07_Paladin.md",
+      "gitBlobSha": "299acd5c9c26b7e9ed13d3bc6f85dc3c3f89ef16",
+      "sha256": "eb83e02bee5289214dbea2b51f77b42ae5d5234ec832db4c108e3541facea96a",
+      "bytes": 33907
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/03_Classes/08_Ranger.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/03_Classes/08_Ranger.md",
+      "gitBlobSha": "318b98f03e2273ef951f2f9337d052865f2aec6a",
+      "sha256": "897ecf2c352405abe40580eda0c0b37b82e48d0f35576928d1ed7b26d3399d86",
+      "bytes": 28308
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/03_Classes/09_Rogue.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/03_Classes/09_Rogue.md",
+      "gitBlobSha": "1d441c592c81633d7c3d19e84f79b84461bb37b0",
+      "sha256": "2573ebfac46a8ce98d678376977709da40437abf6b61af660f337c056c5ef393",
+      "bytes": 22004
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/03_Classes/10_Sorcerer.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/03_Classes/10_Sorcerer.md",
+      "gitBlobSha": "f48d0483983d428032fcbc323d1d252d309ae898",
+      "sha256": "c1e9c418f0a2e04b43eeb12d343b4043848bc0acc9f6b0f2b6fda0f7c918ca81",
+      "bytes": 44087
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/03_Classes/11_Warlock.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/03_Classes/11_Warlock.md",
+      "gitBlobSha": "42aec6fd667e3fa0d8019db021a71ed50d28b536",
+      "sha256": "af07fde423c8f4a078b634e63b148b7c60cca019a6259c13b9e827680c6f145b",
+      "bytes": 49303
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/03_Classes/12_Wizard.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/03_Classes/12_Wizard.md",
+      "gitBlobSha": "c78f9a3b78bb5eacbbc721aea67de4597dcb61df",
+      "sha256": "79b25ef2f31b673e09b4413e8c1ce41e4875f0dbe4eaef52e67976ee409dd2b0",
+      "bytes": 46061
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/04_CharacterOrigins.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/04_CharacterOrigins.md",
+      "gitBlobSha": "5d7c8745c41c424a4cb98efa627c9fb82c9a6b40",
+      "sha256": "b1779221c0c0daceccb8169a5a8b9b8aa464466cc84913454d9449f512f8f2a7",
+      "bytes": 31992
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/05_Feats.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/05_Feats.md",
+      "gitBlobSha": "183d5953156bf29afa582955c1a732e3f3e8b8ff",
+      "sha256": "b2c62b6e9b9ed20a6cd49e84c8319352b43959cfb2014590b81cb949764ac199",
+      "bytes": 15177
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/06_Equipment.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/06_Equipment.md",
+      "gitBlobSha": "d13e5baa4543171bb12188c62520d425610e7ec9",
+      "sha256": "3e1f9ef603e77b6a128c36b0d6b3c1130922575881a0e4016ec97923985f5d4c",
+      "bytes": 107407
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/07_Spells.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/07_Spells.md",
+      "gitBlobSha": "0d0b16f789e55b9bfd962d37894f8164c39a20cf",
+      "sha256": "bee783fab30cc5af65bb2a1ec745a3d3f673452144074832331b3d52d5b43e06",
+      "bytes": 623498
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/08_RulesGlossary.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/08_RulesGlossary.md",
+      "gitBlobSha": "ecb900ce2cb375b3fd18a0fd1350d6bea3b48b48",
+      "sha256": "ef0d32ef1ee84ec5ce807198bbd5244a82cc7bf1aa288cfc3a33b7f13978e4cd",
+      "bytes": 129844
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/09_GameplayToolbox.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/09_GameplayToolbox.md",
+      "gitBlobSha": "ff04026ffc7656f66ae594d1dc161044305297f7",
+      "sha256": "7f87fbd48a9d52bd9ac7db2ccdca6e9dcdfaf3a670a8050a1feba39da5e1cfbb",
+      "bytes": 88683
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/10_MagicItems.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/10_MagicItems.md",
+      "gitBlobSha": "035a4300cef22e0811f263d04452fe13cbdd82b7",
+      "sha256": "789885e13e6042488c60f793cec17decf5cb92afa7cc852eb0a31c5d44e05843",
+      "bytes": 420005
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/11_Monsters.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/11_Monsters.md",
+      "gitBlobSha": "c27c59149b5ab7cce800b270de3c469a03ebb608",
+      "sha256": "9a189ed4fa481b1859fcd9e0c7e48d3b6dd94ff44dc04ffb6bfa05823d06ba9c",
+      "bytes": 32058
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/12_MonstersA-Z.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/12_MonstersA-Z.md",
+      "gitBlobSha": "aa1e19ff2ed9b3af99f8f17dda445d5bd315b990",
+      "sha256": "0d8290bcbb5a8ebcac1902c0e9c38af798df59f7b30712f612950068c4ad4d20",
+      "bytes": 611816
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/13_Animals.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/13_Animals.md",
+      "gitBlobSha": "0db3c00b2ea38b1de33753423bc27f19780bb7c6",
+      "sha256": "2c10a532e7776a5904f71ed1509bb2b36d861764b005b248fef33f56e54e72ea",
+      "bytes": 132518
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/14_Glossary/00_Glossary.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/14_Glossary/00_Glossary.md",
+      "gitBlobSha": "0f12f230c3e31cc18147ec4df4221cb516308200",
+      "sha256": "ea0f1255801ae85f1c0bef77025a05d3567297b19176241fbd6ea3751b9bfc3c",
+      "bytes": 19578
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/14_Glossary/02_Spells.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/14_Glossary/02_Spells.md",
+      "gitBlobSha": "db56b16ec84ab28756dd1f1647eb44a127977f6c",
+      "sha256": "f77066c40741dcf8e0a7c34108fc28c53a81ba7d4f320de24c6479675808c881",
+      "bytes": 38741
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/14_Glossary/03_MagicItems.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/14_Glossary/03_MagicItems.md",
+      "gitBlobSha": "84038dd4021f09a92c551d406947a686c4c364e8",
+      "sha256": "d56625ad2b53830ffe13e41277f4d721d96ffb79572121966057c804f8e5cd9e",
+      "bytes": 32544
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/14_Glossary/04_Monsters.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/14_Glossary/04_Monsters.md",
+      "gitBlobSha": "30bb071a3cca5d1e4ed37315497f6ac1c94c987f",
+      "sha256": "be21b4ce74a652342ea1aff5881bf8b3e442b3138913caee54cb135c36749140",
+      "bytes": 32332
+    },
+    {
+      "path": "srd-2024/omnisgm/ru/14_Glossary/05_Animals.md",
+      "url": "https://raw.githubusercontent.com/OmnisGM-App/OmnisGM-Rules/9d31cc106d780a62cef82cf4e2caa9f9d2dcccb5/src/dnd/srd-5.2/ru/14_Glossary/05_Animals.md",
+      "gitBlobSha": "3dd4b5589c42c6db440798f2358d1c45092cbbe4",
+      "sha256": "5d72ba55f9f1253dc9627ca494c968d47cb10b7871693e81247e9b3cb87ba174",
+      "bytes": 8581
+    }
+  ]
+}

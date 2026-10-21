@@ -1,0 +1,1377 @@
+{
+  "checkedAt": "2026-09-24T13:29:25.146Z",
+  "indexes": [
+    {
+      "edition": "5e_2014",
+      "category": "Subclass",
+      "url": "https://dnd.su/class/",
+      "items": [
+        {
+          "nameRu": "Алхимик",
+          "nameOriginal": "Alchemist",
+          "url": "https://dnd.su/class/137-artificer/#specialist.alchemist",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Artificer"
+        },
+        {
+          "nameRu": "Артиллерист",
+          "nameOriginal": "Artillerist",
+          "url": "https://dnd.su/class/137-artificer/#specialist.artillerist",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Artificer"
+        },
+        {
+          "nameRu": "Боевой кузнец",
+          "nameOriginal": "Battle Smith",
+          "url": "https://dnd.su/class/137-artificer/#specialist.battlesmith",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Artificer"
+        },
+        {
+          "nameRu": "Бронник",
+          "nameOriginal": "Armorer",
+          "url": "https://dnd.su/class/137-artificer/#specialist.armorer",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Artificer"
+        },
+        {
+          "nameRu": "Путь берсерка",
+          "nameOriginal": "Path of the Berserker",
+          "url": "https://dnd.su/class/87-barbarian/#primal.berserker",
+          "source": "Player's Handbook",
+          "parent": "Barbarian"
+        },
+        {
+          "nameRu": "Путь тотемного воина",
+          "nameOriginal": "Path of the Totem Warrior",
+          "url": "https://dnd.su/class/87-barbarian/#primal.totem-warrior",
+          "source": "Sword Coast Adventurer’s Guide",
+          "parent": "Barbarian"
+        },
+        {
+          "nameRu": "Путь бушующего в бою",
+          "nameOriginal": "Path of the Battlerager",
+          "url": "https://dnd.su/class/87-barbarian/#primal.battlerager",
+          "source": "Sword Coast Adventurer's Guide",
+          "parent": "Barbarian"
+        },
+        {
+          "nameRu": "Путь буревестника",
+          "nameOriginal": "Path of the Storm Herald",
+          "url": "https://dnd.su/class/87-barbarian/#primal.storm-herald",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Barbarian"
+        },
+        {
+          "nameRu": "Путь предка-хранителя",
+          "nameOriginal": "Path of the Ancestral Guardian",
+          "url": "https://dnd.su/class/87-barbarian/#primal.ancestral-guardian",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Barbarian"
+        },
+        {
+          "nameRu": "Путь фанатика",
+          "nameOriginal": "Path of the Zealot",
+          "url": "https://dnd.su/class/87-barbarian/#primal.zealot",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Barbarian"
+        },
+        {
+          "nameRu": "Путь дикой магии",
+          "nameOriginal": "Path of Wild Magic",
+          "url": "https://dnd.su/class/87-barbarian/#primal.wild-magic",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Barbarian"
+        },
+        {
+          "nameRu": "Путь зверя",
+          "nameOriginal": "Path of the Beast",
+          "url": "https://dnd.su/class/87-barbarian/#primal.beast",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Barbarian"
+        },
+        {
+          "nameRu": "Путь великана",
+          "nameOriginal": "Path of the Giant",
+          "url": "https://dnd.su/class/87-barbarian/#primal.giant",
+          "source": "Bigby Presents: Glory of the Giants",
+          "parent": "Barbarian"
+        },
+        {
+          "nameRu": "Коллегия доблести",
+          "nameOriginal": "College of Valor",
+          "url": "https://dnd.su/class/88-bard/#college.valor",
+          "source": "Player's Handbook",
+          "parent": "Bard"
+        },
+        {
+          "nameRu": "Коллегия знаний",
+          "nameOriginal": "College of Lore",
+          "url": "https://dnd.su/class/88-bard/#college.lore",
+          "source": "Player's Handbook",
+          "parent": "Bard"
+        },
+        {
+          "nameRu": "Коллегия мечей",
+          "nameOriginal": "College of Swords",
+          "url": "https://dnd.su/class/88-bard/#college.swords",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Bard"
+        },
+        {
+          "nameRu": "Коллегия очарования",
+          "nameOriginal": "College of Glamour",
+          "url": "https://dnd.su/class/88-bard/#college.glamour",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Bard"
+        },
+        {
+          "nameRu": "Коллегия шёпотов",
+          "nameOriginal": "College of Whispers",
+          "url": "https://dnd.su/class/88-bard/#college.whispers",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Bard"
+        },
+        {
+          "nameRu": "Коллегия красноречия",
+          "nameOriginal": "College of Eloquence",
+          "url": "https://dnd.su/class/88-bard/#college.eloquence",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Bard"
+        },
+        {
+          "nameRu": "Коллегия созидания",
+          "nameOriginal": "College of Creation",
+          "url": "https://dnd.su/class/88-bard/#college.creation",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Bard"
+        },
+        {
+          "nameRu": "Коллегия духов",
+          "nameOriginal": "College of Spirits",
+          "url": "https://dnd.su/class/88-bard/#college.spirits",
+          "source": "Van Richten's Guide to Ravenloft",
+          "parent": "Bard"
+        },
+        {
+          "nameRu": "Домен бури",
+          "nameOriginal": "Tempest Domain",
+          "url": "https://dnd.su/class/89-cleric/#domain.tempest",
+          "source": "Player's Handbook",
+          "parent": "Cleric"
+        },
+        {
+          "nameRu": "Домен войны",
+          "nameOriginal": "War Domain",
+          "url": "https://dnd.su/class/89-cleric/#domain.war",
+          "source": "Player's Handbook",
+          "parent": "Cleric"
+        },
+        {
+          "nameRu": "Домен жизни",
+          "nameOriginal": "Life Domain",
+          "url": "https://dnd.su/class/89-cleric/#domain.life",
+          "source": "Player's Handbook",
+          "parent": "Cleric"
+        },
+        {
+          "nameRu": "Домен знаний",
+          "nameOriginal": "Knowledge Domain",
+          "url": "https://dnd.su/class/89-cleric/#domain.knowledge",
+          "source": "Player's Handbook",
+          "parent": "Cleric"
+        },
+        {
+          "nameRu": "Домен обмана",
+          "nameOriginal": "Trickery Domain",
+          "url": "https://dnd.su/class/89-cleric/#domain.trickery",
+          "source": "Player's Handbook",
+          "parent": "Cleric"
+        },
+        {
+          "nameRu": "Домен природы",
+          "nameOriginal": "Nature Domain",
+          "url": "https://dnd.su/class/89-cleric/#domain.nature",
+          "source": "Player's Handbook",
+          "parent": "Cleric"
+        },
+        {
+          "nameRu": "Домен света",
+          "nameOriginal": "Light Domain",
+          "url": "https://dnd.su/class/89-cleric/#domain.light",
+          "source": "Player's Handbook",
+          "parent": "Cleric"
+        },
+        {
+          "nameRu": "Домен смерти",
+          "nameOriginal": "Death Domain",
+          "url": "https://dnd.su/class/89-cleric/#domain.death",
+          "source": "Dungeon Master's Guide",
+          "parent": "Cleric"
+        },
+        {
+          "nameRu": "Домен магии",
+          "nameOriginal": "Arcana Domain",
+          "url": "https://dnd.su/class/89-cleric/#domain.arcana",
+          "source": "Sword Coast Adventurer's Guide",
+          "parent": "Cleric"
+        },
+        {
+          "nameRu": "Домен кузни",
+          "nameOriginal": "Forge Domain",
+          "url": "https://dnd.su/class/89-cleric/#domain.forge",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Cleric"
+        },
+        {
+          "nameRu": "Домен упокоения",
+          "nameOriginal": "Grave Domain",
+          "url": "https://dnd.su/class/89-cleric/#domain.grave",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Cleric"
+        },
+        {
+          "nameRu": "Домен мира",
+          "nameOriginal": "Peace Domain",
+          "url": "https://dnd.su/class/89-cleric/#domain.peace",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Cleric"
+        },
+        {
+          "nameRu": "Домен порядка",
+          "nameOriginal": "Order Domain",
+          "url": "https://dnd.su/class/89-cleric/#domain.order",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Cleric"
+        },
+        {
+          "nameRu": "Домен сумерек",
+          "nameOriginal": "Twilight Domain",
+          "url": "https://dnd.su/class/89-cleric/#domain.twilight",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Cleric"
+        },
+        {
+          "nameRu": "Круг земли",
+          "nameOriginal": "Circle of the Land",
+          "url": "https://dnd.su/class/90-druid/#circle.land",
+          "source": "Player's Handbook",
+          "parent": "Druid"
+        },
+        {
+          "nameRu": "Круг луны",
+          "nameOriginal": "Circle of the Moon",
+          "url": "https://dnd.su/class/90-druid/#circle.moon",
+          "source": "Player's Handbook",
+          "parent": "Druid"
+        },
+        {
+          "nameRu": "Круг пастыря",
+          "nameOriginal": "Circle of the Shepherd",
+          "url": "https://dnd.su/class/90-druid/#circle.shepherd",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Druid"
+        },
+        {
+          "nameRu": "Круг снов",
+          "nameOriginal": "Circle of Dreams",
+          "url": "https://dnd.su/class/90-druid/#circle.dreams",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Druid"
+        },
+        {
+          "nameRu": "Круг дикого огня",
+          "nameOriginal": "Circle of Wildfire",
+          "url": "https://dnd.su/class/90-druid/#circle.wildfire",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Druid"
+        },
+        {
+          "nameRu": "Круг звёзд",
+          "nameOriginal": "Circle of Stars",
+          "url": "https://dnd.su/class/90-druid/#circle.stars",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Druid"
+        },
+        {
+          "nameRu": "Круг спор",
+          "nameOriginal": "Circle of Spores",
+          "url": "https://dnd.su/class/90-druid/#circle.spores",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Druid"
+        },
+        {
+          "nameRu": "Мастер боевых искусств",
+          "nameOriginal": "Battle Master",
+          "url": "https://dnd.su/class/91-fighter/#archetype.battlemaster",
+          "source": "Player's Handbook",
+          "parent": "Fighter"
+        },
+        {
+          "nameRu": "Мистический рыцарь",
+          "nameOriginal": "Eldritch Knight",
+          "url": "https://dnd.su/class/91-fighter/#archetype.eldritch-knigh",
+          "source": "Player's Handbook",
+          "parent": "Fighter"
+        },
+        {
+          "nameRu": "Чемпион",
+          "nameOriginal": "Champion",
+          "url": "https://dnd.su/class/91-fighter/#archetype.champion",
+          "source": "Player's Handbook",
+          "parent": "Fighter"
+        },
+        {
+          "nameRu": "Рыцарь Пурпурного дракона",
+          "nameOriginal": "Purple Dragon Knight",
+          "url": "https://dnd.su/class/91-fighter/#archetype.banneret",
+          "source": "Sword Coast Adventurer's Guide",
+          "parent": "Fighter"
+        },
+        {
+          "nameRu": "Кавалерист",
+          "nameOriginal": "Cavalier",
+          "url": "https://dnd.su/class/91-fighter/#archetype.cavalier",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Fighter"
+        },
+        {
+          "nameRu": "Мистический лучник",
+          "nameOriginal": "Arcane Archer",
+          "url": "https://dnd.su/class/91-fighter/#archetype.arcane-archer",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Fighter"
+        },
+        {
+          "nameRu": "Самурай",
+          "nameOriginal": "Samurai",
+          "url": "https://dnd.su/class/91-fighter/#archetype.samurai",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Fighter"
+        },
+        {
+          "nameRu": "Рыцарь Эха",
+          "nameOriginal": "Echo Knight",
+          "url": "https://dnd.su/class/91-fighter/#archetype.echo-knight",
+          "source": "Explorer's Guide to Wildemount",
+          "parent": "Fighter"
+        },
+        {
+          "nameRu": "Пси-воин",
+          "nameOriginal": "Psi Warrior",
+          "url": "https://dnd.su/class/91-fighter/#archetype.psi-warrior",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Fighter"
+        },
+        {
+          "nameRu": "Рунный рыцарь",
+          "nameOriginal": "Rune Knight",
+          "url": "https://dnd.su/class/91-fighter/#archetype.rune-knight",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Fighter"
+        },
+        {
+          "nameRu": "Путь открытой ладони",
+          "nameOriginal": "Way of the Open Hand",
+          "url": "https://dnd.su/class/93-monk/#tradition.open-hand",
+          "source": "Player's Handbook",
+          "parent": "Monk"
+        },
+        {
+          "nameRu": "Путь тени",
+          "nameOriginal": "Way of Shadow",
+          "url": "https://dnd.su/class/93-monk/#tradition.shadow",
+          "source": "Player's Handbook",
+          "parent": "Monk"
+        },
+        {
+          "nameRu": "Путь четырёх стихий",
+          "nameOriginal": "Way of the Four Elements",
+          "url": "https://dnd.su/class/93-monk/#tradition.four-elements",
+          "source": "Player's Handbook",
+          "parent": "Monk"
+        },
+        {
+          "nameRu": "Путь долгой смерти",
+          "nameOriginal": "Way of the Long Death",
+          "url": "https://dnd.su/class/93-monk/#tradition.long-death",
+          "source": "Sword Coast Adventurer's Guide",
+          "parent": "Monk"
+        },
+        {
+          "nameRu": "Путь кэнсэя",
+          "nameOriginal": "Way of the Kensei",
+          "url": "https://dnd.su/class/93-monk/#tradition.kensei",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Monk"
+        },
+        {
+          "nameRu": "Путь пьяного мастера",
+          "nameOriginal": "Way of the Drunken Master",
+          "url": "https://dnd.su/class/93-monk/#tradition.drunken-master",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Monk"
+        },
+        {
+          "nameRu": "Путь солнечной души",
+          "nameOriginal": "Way of the Sun Soul",
+          "url": "https://dnd.su/class/93-monk/#tradition.sun-soul",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Monk"
+        },
+        {
+          "nameRu": "Путь астрального тела",
+          "nameOriginal": "Way of the Astral Self",
+          "url": "https://dnd.su/class/93-monk/#tradition.astral-body",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Monk"
+        },
+        {
+          "nameRu": "Путь милосердия",
+          "nameOriginal": "Way of Mercy",
+          "url": "https://dnd.su/class/93-monk/#tradition.mercy",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Monk"
+        },
+        {
+          "nameRu": "Путь восходящего дракона",
+          "nameOriginal": "Way of the Ascendant Dragon",
+          "url": "https://dnd.su/class/93-monk/#tradition.ascending-dragon",
+          "source": "Fizban's Treasury of Dragons",
+          "parent": "Monk"
+        },
+        {
+          "nameRu": "Клятва преданности",
+          "nameOriginal": "Oath of Devotion",
+          "url": "https://dnd.su/class/94-paladin/#oath.devotion",
+          "source": "Player's Handbook",
+          "parent": "Paladin"
+        },
+        {
+          "nameRu": "Клятва древних",
+          "nameOriginal": "Oath of the Ancients",
+          "url": "https://dnd.su/class/94-paladin/#oath.ancients",
+          "source": "Player's Handbook",
+          "parent": "Paladin"
+        },
+        {
+          "nameRu": "Клятва мести",
+          "nameOriginal": "Oath of Vengeance",
+          "url": "https://dnd.su/class/94-paladin/#oath.vengeance",
+          "source": "Player's Handbook",
+          "parent": "Paladin"
+        },
+        {
+          "nameRu": "Клятвопреступник",
+          "nameOriginal": "Oathbreaker",
+          "url": "https://dnd.su/class/94-paladin/#oath.oathbreaker",
+          "source": "Dungeon Master Guide",
+          "parent": "Paladin"
+        },
+        {
+          "nameRu": "Клятва короны",
+          "nameOriginal": "Oath of the Crown",
+          "url": "https://dnd.su/class/94-paladin/#oath.crown",
+          "source": "Sword Coast Adventurer's Guide",
+          "parent": "Paladin"
+        },
+        {
+          "nameRu": "Клятва искупления",
+          "nameOriginal": "Oath of Redemption",
+          "url": "https://dnd.su/class/94-paladin/#oath.redemption",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Paladin"
+        },
+        {
+          "nameRu": "Клятва покорения",
+          "nameOriginal": "Oath of Conquest",
+          "url": "https://dnd.su/class/94-paladin/#oath.conquest",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Paladin"
+        },
+        {
+          "nameRu": "Клятва славы",
+          "nameOriginal": "Oath of Glory",
+          "url": "https://dnd.su/class/94-paladin/#oath.glory",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Paladin"
+        },
+        {
+          "nameRu": "Клятва смотрителей",
+          "nameOriginal": "Oath of the Watchers",
+          "url": "https://dnd.su/class/94-paladin/#oath.watchers",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Paladin"
+        },
+        {
+          "nameRu": "Охотник",
+          "nameOriginal": "Hunter",
+          "url": "https://dnd.su/class/97-ranger/#archetype.hunter",
+          "source": "Player's Handbook",
+          "parent": "Ranger"
+        },
+        {
+          "nameRu": "Повелитель зверей",
+          "nameOriginal": "Beast Master",
+          "url": "https://dnd.su/class/97-ranger/#archetype.beast-master",
+          "source": "Tasha’‎s Cauldron of Everything",
+          "parent": "Ranger"
+        },
+        {
+          "nameRu": "Странник горизонта",
+          "nameOriginal": "Horizon Walker",
+          "url": "https://dnd.su/class/97-ranger/#archetype.horizon-walker",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Ranger"
+        },
+        {
+          "nameRu": "Сумрачный охотник",
+          "nameOriginal": "Gloom Stalker",
+          "url": "https://dnd.su/class/97-ranger/#archetype.gloom-stalker",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Ranger"
+        },
+        {
+          "nameRu": "Убийца чудовищ",
+          "nameOriginal": "Monster Slayer",
+          "url": "https://dnd.su/class/97-ranger/#archetype.monster-slayer",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Ranger"
+        },
+        {
+          "nameRu": "Странник фей",
+          "nameOriginal": "Fey Wanderer",
+          "url": "https://dnd.su/class/97-ranger/#archetype.fey-wanderer",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Ranger"
+        },
+        {
+          "nameRu": "Хранитель роя",
+          "nameOriginal": "Swarmkeeper",
+          "url": "https://dnd.su/class/97-ranger/#archetype.swarmkeeper",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Ranger"
+        },
+        {
+          "nameRu": "Наездник на дрейке",
+          "nameOriginal": "Drakewarden",
+          "url": "https://dnd.su/class/97-ranger/#archetype.drakewarden",
+          "source": "Fizban's Treasury of Dragons",
+          "parent": "Ranger"
+        },
+        {
+          "nameRu": "Вор",
+          "nameOriginal": "Thief",
+          "url": "https://dnd.su/class/99-rogue/#archetype.thief",
+          "source": "Player's Handbook",
+          "parent": "Rogue"
+        },
+        {
+          "nameRu": "Убийца",
+          "nameOriginal": "Assassin",
+          "url": "https://dnd.su/class/99-rogue/#archetype.assasin",
+          "source": "Player's Handbook",
+          "parent": "Rogue"
+        },
+        {
+          "nameRu": "Мистический ловкач",
+          "nameOriginal": "Arcane Trickster",
+          "url": "https://dnd.su/class/99-rogue/#archetype.arcane-trickster",
+          "source": "Player's Handbook",
+          "parent": "Rogue"
+        },
+        {
+          "nameRu": "Дуэлянт",
+          "nameOriginal": "Swashbuckler",
+          "url": "https://dnd.su/class/99-rogue/#archetype.swashbuckler",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Rogue"
+        },
+        {
+          "nameRu": "Комбинатор",
+          "nameOriginal": "Mastermind",
+          "url": "https://dnd.su/class/99-rogue/#archetype.mastermind",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Rogue"
+        },
+        {
+          "nameRu": "Скаут",
+          "nameOriginal": "Scout",
+          "url": "https://dnd.su/class/99-rogue/#archetype.scout",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Rogue"
+        },
+        {
+          "nameRu": "Сыщик",
+          "nameOriginal": "Inquisitive",
+          "url": "https://dnd.su/class/99-rogue/#archetype.inquisitive",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Rogue"
+        },
+        {
+          "nameRu": "Фантом",
+          "nameOriginal": "Phantom",
+          "url": "https://dnd.su/class/99-rogue/#archetype.phantom",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Rogue"
+        },
+        {
+          "nameRu": "Клинок души",
+          "nameOriginal": "Soulknife",
+          "url": "https://dnd.su/class/99-rogue/#archetype.soulknife",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Rogue"
+        },
+        {
+          "nameRu": "Наследие драконьей крови",
+          "nameOriginal": "Draconic Bloodline",
+          "url": "https://dnd.su/class/101-sorcerer/#origin.draconic",
+          "source": "Player's Handbook",
+          "parent": "Sorcerer"
+        },
+        {
+          "nameRu": "Дикая магия",
+          "nameOriginal": "Wild Magic",
+          "url": "https://dnd.su/class/101-sorcerer/#origin.wild-magic",
+          "source": "Player's Handbook",
+          "parent": "Sorcerer"
+        },
+        {
+          "nameRu": "Божественная душа",
+          "nameOriginal": "Divine Soul",
+          "url": "https://dnd.su/class/101-sorcerer/#origin.divine-soul",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Sorcerer"
+        },
+        {
+          "nameRu": "Теневая магия",
+          "nameOriginal": "Shadow Magic",
+          "url": "https://dnd.su/class/101-sorcerer/#origin.shadow",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Sorcerer"
+        },
+        {
+          "nameRu": "Штормовое колдовство",
+          "nameOriginal": "Storm Sorcery",
+          "url": "https://dnd.su/class/101-sorcerer/#origin.storm",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Sorcerer"
+        },
+        {
+          "nameRu": "Аберрантный разум",
+          "nameOriginal": "Aberrant Mind",
+          "url": "https://dnd.su/class/101-sorcerer/#origin.aberrant-mind",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Sorcerer"
+        },
+        {
+          "nameRu": "Заводная душа",
+          "nameOriginal": "Clockwork Soul",
+          "url": "https://dnd.su/class/101-sorcerer/#origin.clockwork-soul",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Sorcerer"
+        },
+        {
+          "nameRu": "Лунное чародейство",
+          "nameOriginal": "Lunar Sorcery",
+          "url": "https://dnd.su/class/101-sorcerer/#origin.lunar-sorcery",
+          "source": "Dragonlance: Shadow of the Dragon Queen",
+          "parent": "Sorcerer"
+        },
+        {
+          "nameRu": "Архифея",
+          "nameOriginal": "The Archfey",
+          "url": "https://dnd.su/class/104-warlock/#patron.archfey",
+          "source": "Player's Handbook",
+          "parent": "Warlock"
+        },
+        {
+          "nameRu": "Исчадие",
+          "nameOriginal": "The Fiend",
+          "url": "https://dnd.su/class/104-warlock/#patron.fiend",
+          "source": "Player's Handbook",
+          "parent": "Warlock"
+        },
+        {
+          "nameRu": "Великий Древний",
+          "nameOriginal": "The Great Old One",
+          "url": "https://dnd.su/class/104-warlock/#patron.great-old-one",
+          "source": "Player's Handbook",
+          "parent": "Warlock"
+        },
+        {
+          "nameRu": "Бессмертный",
+          "nameOriginal": "The Undying",
+          "url": "https://dnd.su/class/104-warlock/#patron.undying",
+          "source": "Sword Coast Adventurer's Guide",
+          "parent": "Warlock"
+        },
+        {
+          "nameRu": "Ведьмовской клинок",
+          "nameOriginal": "The Hexblade",
+          "url": "https://dnd.su/class/104-warlock/#patron.hexblade",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Warlock"
+        },
+        {
+          "nameRu": "Небожитель",
+          "nameOriginal": "The Celestial",
+          "url": "https://dnd.su/class/104-warlock/#patron.celestial",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Warlock"
+        },
+        {
+          "nameRu": "Бездонный",
+          "nameOriginal": "The Fathomless",
+          "url": "https://dnd.su/class/104-warlock/#patron.fathomless",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Warlock"
+        },
+        {
+          "nameRu": "Гений",
+          "nameOriginal": "The Genie",
+          "url": "https://dnd.su/class/104-warlock/#patron.genie",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Warlock"
+        },
+        {
+          "nameRu": "Нежить",
+          "nameOriginal": "The Undead",
+          "url": "https://dnd.su/class/104-warlock/#patron.undead",
+          "source": "Van Richten's Guide to Ravenloft",
+          "parent": "Warlock"
+        },
+        {
+          "nameRu": "Школа Воплощения",
+          "nameOriginal": "School of Evocation",
+          "url": "https://dnd.su/class/105-wizard/#tradition.evocation",
+          "source": "Player's Handbook",
+          "parent": "Wizard"
+        },
+        {
+          "nameRu": "Школа Вызова",
+          "nameOriginal": "School of Conjuration",
+          "url": "https://dnd.su/class/105-wizard/#tradition.conjuration",
+          "source": "Player's Handbook",
+          "parent": "Wizard"
+        },
+        {
+          "nameRu": "Школа Иллюзии",
+          "nameOriginal": "School of Illusion",
+          "url": "https://dnd.su/class/105-wizard/#tradition.illusion",
+          "source": "Player's Handbook",
+          "parent": "Wizard"
+        },
+        {
+          "nameRu": "Школа Некромантии",
+          "nameOriginal": "School of Necromancy",
+          "url": "https://dnd.su/class/105-wizard/#tradition.necromancy",
+          "source": "Player's Handbook",
+          "parent": "Wizard"
+        },
+        {
+          "nameRu": "Школа Ограждения",
+          "nameOriginal": "School of Abjuration",
+          "url": "https://dnd.su/class/105-wizard/#tradition.abjuration",
+          "source": "Player's Handbook",
+          "parent": "Wizard"
+        },
+        {
+          "nameRu": "Школа Очарования",
+          "nameOriginal": "School of Enchantment",
+          "url": "https://dnd.su/class/105-wizard/#tradition.enchantment",
+          "source": "Player's Handbook",
+          "parent": "Wizard"
+        },
+        {
+          "nameRu": "Школа Преобразования",
+          "nameOriginal": "School of Transmutation",
+          "url": "https://dnd.su/class/105-wizard/#tradition.transmutation",
+          "source": "Player's Handbook",
+          "parent": "Wizard"
+        },
+        {
+          "nameRu": "Школа Прорицания",
+          "nameOriginal": "School of Divination",
+          "url": "https://dnd.su/class/105-wizard/#tradition.divination",
+          "source": "Player's Handbook",
+          "parent": "Wizard"
+        },
+        {
+          "nameRu": "Военная магия",
+          "nameOriginal": "War Magic",
+          "url": "https://dnd.su/class/105-wizard/#tradition.war-magic",
+          "source": "Xanathar's Guide to Everything",
+          "parent": "Wizard"
+        },
+        {
+          "nameRu": "Магия хронургии",
+          "nameOriginal": "Chronurgy Magic",
+          "url": "https://dnd.su/class/105-wizard/#tradition.chronurgy",
+          "source": "Explorer's Guide to Wildemount",
+          "parent": "Wizard"
+        },
+        {
+          "nameRu": "Магия гравитургии",
+          "nameOriginal": "Graviturgy Magic",
+          "url": "https://dnd.su/class/105-wizard/#tradition.graviturgy",
+          "source": "Explorer's Guide to Wildemount",
+          "parent": "Wizard"
+        },
+        {
+          "nameRu": "Орден писцов",
+          "nameOriginal": "Order of Scribes",
+          "url": "https://dnd.su/class/105-wizard/#tradition.scribes",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Wizard"
+        },
+        {
+          "nameRu": "Песнь клинка",
+          "nameOriginal": "Bladesinging",
+          "url": "https://dnd.su/class/105-wizard/#tradition.bladesinging",
+          "source": "Tasha's Cauldron of Everything",
+          "parent": "Wizard"
+        }
+      ]
+    },
+    {
+      "edition": "5e_2024",
+      "category": "Subclass",
+      "url": "https://next.dnd.su/class/",
+      "items": [
+        {
+          "nameRu": "Алхимик",
+          "nameOriginal": "Alchemist",
+          "url": "https://next.dnd.su/class/artificer#subclass.alchemist",
+          "source": "Eberron: Forge of the Artificer",
+          "parent": "Artificer"
+        },
+        {
+          "nameRu": "Артиллерист",
+          "nameOriginal": "Artillerist",
+          "url": "https://next.dnd.su/class/artificer#subclass.artillerist",
+          "source": "Eberron: Forge of the Artificer",
+          "parent": "Artificer"
+        },
+        {
+          "nameRu": "Боевой кузнец",
+          "nameOriginal": "Battle Smith",
+          "url": "https://next.dnd.su/class/artificer#subclass.battle-smith",
+          "source": "Eberron: Forge of the Artificer",
+          "parent": "Artificer"
+        },
+        {
+          "nameRu": "Бронник",
+          "nameOriginal": "Armorer",
+          "url": "https://next.dnd.su/class/artificer#subclass.armorer",
+          "source": "Eberron: Forge of the Artificer",
+          "parent": "Artificer"
+        },
+        {
+          "nameRu": "Картограф",
+          "nameOriginal": "Cartographer",
+          "url": "https://next.dnd.su/class/artificer#subclass.сartographer",
+          "source": "Eberron: Forge of the Artificer",
+          "parent": "Artificer"
+        },
+        {
+          "nameRu": "Реаниматор",
+          "nameOriginal": "Reanimator",
+          "url": "https://next.dnd.su/class/artificer#subclass.reanimator",
+          "source": "Ravenloft: The Horrors Within",
+          "parent": "Artificer"
+        },
+        {
+          "nameRu": "Путь берсерка",
+          "nameOriginal": "Path of the Berserker",
+          "url": "https://next.dnd.su/class/barbarian#subclass.berserker",
+          "source": "Player's Handbook 2024",
+          "parent": "Barbarian"
+        },
+        {
+          "nameRu": "Путь дикого сердца",
+          "nameOriginal": "Path of the Wild Heart",
+          "url": "https://next.dnd.su/class/barbarian#subclass.wild-heart",
+          "source": "Player's Handbook 2024",
+          "parent": "Barbarian"
+        },
+        {
+          "nameRu": "Путь Мирового древа",
+          "nameOriginal": "Path of the World Tree",
+          "url": "https://next.dnd.su/class/barbarian#subclass.world-tree",
+          "source": "Player's Handbook 2024",
+          "parent": "Barbarian"
+        },
+        {
+          "nameRu": "Путь фанатика",
+          "nameOriginal": "Path of the Zealot",
+          "url": "https://next.dnd.su/class/barbarian#subclass.zealot",
+          "source": "Player's Handbook 2024",
+          "parent": "Barbarian"
+        },
+        {
+          "nameRu": "Коллегия доблести",
+          "nameOriginal": "College of Valor",
+          "url": "https://next.dnd.su/class/bard#subclass.valor",
+          "source": "Player's Handbook 2024",
+          "parent": "Bard"
+        },
+        {
+          "nameRu": "Коллегия знаний",
+          "nameOriginal": "College of Lore**",
+          "url": "https://next.dnd.su/class/bard#subclass.lore",
+          "source": "Player's Handbook 2024",
+          "parent": "Bard"
+        },
+        {
+          "nameRu": "Коллегия очарования",
+          "nameOriginal": "College of Glamour",
+          "url": "https://next.dnd.su/class/bard#subclass.glamour",
+          "source": "Player's Handbook 2024",
+          "parent": "Bard"
+        },
+        {
+          "nameRu": "Коллегия танца",
+          "nameOriginal": "College of Dance",
+          "url": "https://next.dnd.su/class/bard#subclass.dance",
+          "source": "Player's Handbook 2024",
+          "parent": "Bard"
+        },
+        {
+          "nameRu": "Коллегия луны",
+          "nameOriginal": "College of the Moon",
+          "url": "https://next.dnd.su/class/bard#subclass.college-of-the-moon",
+          "source": "Forgotten Realms: Heroes of Faerun",
+          "parent": "Bard"
+        },
+        {
+          "nameRu": "Коллегия духов",
+          "nameOriginal": "College of Spirits",
+          "url": "https://next.dnd.su/class/bard#subclass.college-of-the-spirits",
+          "source": "Ravenloft: The Horrors Within",
+          "parent": "Bard"
+        },
+        {
+          "nameRu": "Домен войны",
+          "nameOriginal": "War Domain",
+          "url": "https://next.dnd.su/class/cleric#subclass.war-domain",
+          "source": "Player's Handbook 2024",
+          "parent": "Cleric"
+        },
+        {
+          "nameRu": "Домен жизни",
+          "nameOriginal": "Life Domain",
+          "url": "https://next.dnd.su/class/cleric#subclass.life-domain",
+          "source": "Player's Handbook 2024",
+          "parent": "Cleric"
+        },
+        {
+          "nameRu": "Домен обмана",
+          "nameOriginal": "Trickery Domain",
+          "url": "https://next.dnd.su/class/cleric#subclass.trickery-domain",
+          "source": "Player's Handbook 2024",
+          "parent": "Cleric"
+        },
+        {
+          "nameRu": "Домен света",
+          "nameOriginal": "Light Domain",
+          "url": "https://next.dnd.su/class/cleric#subclass.light-domain",
+          "source": "Player's Handbook 2024",
+          "parent": "Cleric"
+        },
+        {
+          "nameRu": "Домен знаний",
+          "nameOriginal": "Knowledge Domain",
+          "url": "https://next.dnd.su/class/cleric#subclass.knowledge-domain",
+          "source": "Forgotten Realms: Heroes of Faerun",
+          "parent": "Cleric"
+        },
+        {
+          "nameRu": "Домен упокоения",
+          "nameOriginal": "Grave Domain",
+          "url": "https://next.dnd.su/class/cleric#subclass.grave-domain",
+          "source": "Ravenloft: The Horrors Within",
+          "parent": "Cleric"
+        },
+        {
+          "nameRu": "Домен магии",
+          "nameOriginal": "Arcana Domain",
+          "url": "https://next.dnd.su/class/cleric#subclass.arcana-domain",
+          "source": "Arcana Unleashed",
+          "parent": "Cleric"
+        },
+        {
+          "nameRu": "Круг звёзд",
+          "nameOriginal": "Circle of Stars",
+          "url": "https://next.dnd.su/class/druid#subclass.stars",
+          "source": "Player's Handbook 2024",
+          "parent": "Druid"
+        },
+        {
+          "nameRu": "Круг земли",
+          "nameOriginal": "Circle of the Land",
+          "url": "https://next.dnd.su/class/druid#subclass.land",
+          "source": "Player's Handbook 2024",
+          "parent": "Druid"
+        },
+        {
+          "nameRu": "Круг луны",
+          "nameOriginal": "Circle of the Moon",
+          "url": "https://next.dnd.su/class/druid#subclass.moon",
+          "source": "Player's Handbook 2024",
+          "parent": "Druid"
+        },
+        {
+          "nameRu": "Круг моря",
+          "nameOriginal": "Circle of the Sea",
+          "url": "https://next.dnd.su/class/druid#subclass.sea",
+          "source": "Player's Handbook 2024",
+          "parent": "Druid"
+        },
+        {
+          "nameRu": "Мастер боя",
+          "nameOriginal": "Battle Master",
+          "url": "https://next.dnd.su/class/fighter#subclass.battlemaster",
+          "source": "Player's Handbook 2024",
+          "parent": "Fighter"
+        },
+        {
+          "nameRu": "Мистический рыцарь",
+          "nameOriginal": "Eldritch Knight",
+          "url": "https://next.dnd.su/class/fighter#subclass.eldritch-knight",
+          "source": "Player's Handbook 2024",
+          "parent": "Fighter"
+        },
+        {
+          "nameRu": "Пси-воин",
+          "nameOriginal": "Psi Warrior",
+          "url": "https://next.dnd.su/class/fighter#subclass.psi-warrior",
+          "source": "Player's Handbook 2024",
+          "parent": "Fighter"
+        },
+        {
+          "nameRu": "Чемпион",
+          "nameOriginal": "Champion",
+          "url": "https://next.dnd.su/class/fighter#subclass.сhampion",
+          "source": "Player's Handbook 2024",
+          "parent": "Fighter"
+        },
+        {
+          "nameRu": "Баннерет",
+          "nameOriginal": "Banneret",
+          "url": "https://next.dnd.su/class/fighter#subclass.banneret",
+          "source": "Forgotten Realms: Heroes of Faerun",
+          "parent": "Fighter"
+        },
+        {
+          "nameRu": "Чародейный стрелок",
+          "nameOriginal": "Arcane Archer",
+          "url": "https://next.dnd.su/class/fighter#subclass.arcane-archer",
+          "source": "Arcana Unleashed",
+          "parent": "Fighter"
+        },
+        {
+          "nameRu": "Воин открытой ладони",
+          "nameOriginal": "Warrior of the Open Hand",
+          "url": "https://next.dnd.su/class/monk#subclass.warrior-of-the-hand",
+          "source": "Player's Handbook 2024",
+          "parent": "Monk"
+        },
+        {
+          "nameRu": "Воин тени",
+          "nameOriginal": "Warrior of Shadow",
+          "url": "https://next.dnd.su/class/monk#subclass.warrior-of-shadow",
+          "source": "Player's Handbook 2024",
+          "parent": "Monk"
+        },
+        {
+          "nameRu": "Воин милосердия",
+          "nameOriginal": "Warrior of Mercy",
+          "url": "https://next.dnd.su/class/monk#subclass.warrior-of-mercy",
+          "source": "Player's Handbook 2024",
+          "parent": "Monk"
+        },
+        {
+          "nameRu": "Воин cтихий",
+          "nameOriginal": "Warrior of the Elements",
+          "url": "https://next.dnd.su/class/monk#subclass.warrior-of-the-elements",
+          "source": "Player's Handbook 2024",
+          "parent": "Monk"
+        },
+        {
+          "nameRu": "Мистический воин",
+          "nameOriginal": "Warrior of the Mystic Arts",
+          "url": "https://next.dnd.su/class/monk#subclass.warrior-of-the-mystic-arts",
+          "source": "Arcana Unleashed",
+          "parent": "Monk"
+        },
+        {
+          "nameRu": "Клятва преданности",
+          "nameOriginal": "Oath of Devotion",
+          "url": "https://next.dnd.su/class/paladin#subclass.oath-of-devotion",
+          "source": "Player's Handbook 2024",
+          "parent": "Paladin"
+        },
+        {
+          "nameRu": "Клятва славы",
+          "nameOriginal": "Oath of Glory",
+          "url": "https://next.dnd.su/class/paladin#subclass.oath-of-glory",
+          "source": "Player's Handbook 2024",
+          "parent": "Paladin"
+        },
+        {
+          "nameRu": "Клятва возмездия",
+          "nameOriginal": "Oath of Vengeance",
+          "url": "https://next.dnd.su/class/paladin#subclass.oath-of-vengeance",
+          "source": "Player's Handbook 2024",
+          "parent": "Paladin"
+        },
+        {
+          "nameRu": "Клятва древних",
+          "nameOriginal": "Oath of the Ancients",
+          "url": "https://next.dnd.su/class/paladin#subclass.oath-of-the-ancients",
+          "source": "Player's Handbook 2024",
+          "parent": "Paladin"
+        },
+        {
+          "nameRu": "Клятва благородных гениев",
+          "nameOriginal": "Oath of the Noble Genies",
+          "url": "https://next.dnd.su/class/paladin#subclass.oath-of-the-noble-genies",
+          "source": "Forgotten Realms: Heroes of Faerun",
+          "parent": "Paladin"
+        },
+        {
+          "nameRu": "Охотник",
+          "nameOriginal": "Hunter",
+          "url": "https://next.dnd.su/class/ranger#subclass.hunter-ranger",
+          "source": "Player's Handbook 2024",
+          "parent": "Ranger"
+        },
+        {
+          "nameRu": "Повелитель зверей",
+          "nameOriginal": "Beast Master",
+          "url": "https://next.dnd.su/class/ranger#subclass.beastmaster",
+          "source": "Player's Handbook 2024",
+          "parent": "Ranger"
+        },
+        {
+          "nameRu": "Странник фей",
+          "nameOriginal": "Fey Wanderer",
+          "url": "https://next.dnd.su/class/ranger#subclass.fey-wanderer",
+          "source": "Player's Handbook 2024",
+          "parent": "Ranger"
+        },
+        {
+          "nameRu": "Сумрачный охотник",
+          "nameOriginal": "Gloom Stalker",
+          "url": "https://next.dnd.su/class/ranger#subclass.gloom-stalker",
+          "source": "Player's Handbook 2024",
+          "parent": "Ranger"
+        },
+        {
+          "nameRu": "Зимний ходок",
+          "nameOriginal": "Winter Walker",
+          "url": "https://next.dnd.su/class/ranger#subclass.winter-walker",
+          "source": "Forgotten Realms: Heroes of Faerun",
+          "parent": "Ranger"
+        },
+        {
+          "nameRu": "Страж пустошей",
+          "nameOriginal": "Hollow Warden",
+          "url": "https://next.dnd.su/class/ranger#subclass.hollow-warden",
+          "source": "Ravenloft: The Horrors Within",
+          "parent": "Ranger"
+        },
+        {
+          "nameRu": "Вор",
+          "nameOriginal": "Thief",
+          "url": "https://next.dnd.su/class/rogue#subclass.thief",
+          "source": "Player's Handbook 2024",
+          "parent": "Rogue"
+        },
+        {
+          "nameRu": "Клинок душ",
+          "nameOriginal": "Soulknife",
+          "url": "https://next.dnd.su/class/rogue#subclass.soulknife",
+          "source": "Player's Handbook 2024",
+          "parent": "Rogue"
+        },
+        {
+          "nameRu": "Мистический ловкач",
+          "nameOriginal": "Arcane Trickster",
+          "url": "https://next.dnd.su/class/rogue#subclass.arcane-trickster",
+          "source": "Player's Handbook 2024",
+          "parent": "Rogue"
+        },
+        {
+          "nameRu": "Убийца",
+          "nameOriginal": "Assassin",
+          "url": "https://next.dnd.su/class/rogue#subclass.assassin",
+          "source": "Player's Handbook 2024",
+          "parent": "Rogue"
+        },
+        {
+          "nameRu": "Наследник троицы",
+          "nameOriginal": "Scion of the Three",
+          "url": "https://next.dnd.su/class/rogue#subclass.scion-of-the-three",
+          "source": "Forgotten Realms: Heroes of Faerun",
+          "parent": "Rogue"
+        },
+        {
+          "nameRu": "Фантом",
+          "nameOriginal": "Phantom",
+          "url": "https://next.dnd.su/class/rogue#subclass.phantom",
+          "source": "Ravenloft: The Horrors Within",
+          "parent": "Rogue"
+        },
+        {
+          "nameRu": "Аберрантное чародейство",
+          "nameOriginal": "Aberrant Sorcery",
+          "url": "https://next.dnd.su/class/sorcerer#subclass.aberrant-sorcery",
+          "source": "Player's Handbook 2024",
+          "parent": "Sorcerer"
+        },
+        {
+          "nameRu": "Драконье чародейство",
+          "nameOriginal": "Draconic Sorcery",
+          "url": "https://next.dnd.su/class/sorcerer#subclass.draconic-sorcery",
+          "source": "Player's Handbook 2024",
+          "parent": "Sorcerer"
+        },
+        {
+          "nameRu": "Заводное чародейство",
+          "nameOriginal": "Clockwork Sorcery",
+          "url": "https://next.dnd.su/class/sorcerer#subclass.clockwork-sorcery",
+          "source": "Player's Handbook 2024",
+          "parent": "Sorcerer"
+        },
+        {
+          "nameRu": "Чародейство дикой магии",
+          "nameOriginal": "Wild Magic Sorcery",
+          "url": "https://next.dnd.su/class/sorcerer#subclass.wild-magic-sorcery",
+          "source": "Player's Handbook 2024",
+          "parent": "Sorcerer"
+        },
+        {
+          "nameRu": "Чародейство чаропламени",
+          "nameOriginal": "Spellfire Sorcery",
+          "url": "https://next.dnd.su/class/sorcerer#subclass.spellfire-sorcery",
+          "source": "Forgotten Realms: Heroes of Faerun",
+          "parent": "Sorcerer"
+        },
+        {
+          "nameRu": "Теневое чародейство",
+          "nameOriginal": "Shadow Sorcery",
+          "url": "https://next.dnd.su/class/sorcerer#subclass.shadow-sorcery",
+          "source": "Ravenloft: The Horrors Within",
+          "parent": "Sorcerer"
+        },
+        {
+          "nameRu": "Архифея",
+          "nameOriginal": "Archfey Patron",
+          "url": "https://next.dnd.su/class/warlock#subclass.archfey",
+          "source": "Player's Handbook 2024",
+          "parent": "Warlock"
+        },
+        {
+          "nameRu": "Великий древний",
+          "nameOriginal": "Great Old One Patron",
+          "url": "https://next.dnd.su/class/warlock#subclass.greate-old-one-patron",
+          "source": "Player's Handbook 2024",
+          "parent": "Warlock"
+        },
+        {
+          "nameRu": "Исчадие",
+          "nameOriginal": "Fiend Patron",
+          "url": "https://next.dnd.su/class/warlock#subclass.fiend-patron",
+          "source": "Player's Handbook 2024",
+          "parent": "Warlock"
+        },
+        {
+          "nameRu": "Небожитель",
+          "nameOriginal": "Celestial Patron",
+          "url": "https://next.dnd.su/class/warlock#subclass.celestial-patron",
+          "source": "Player's Handbook 2024",
+          "parent": "Warlock"
+        },
+        {
+          "nameRu": "Нежить",
+          "nameOriginal": "Undead Patron",
+          "url": "https://next.dnd.su/class/warlock#subclass.undead",
+          "source": "Ravenloft: The Horrors Within",
+          "parent": "Warlock"
+        },
+        {
+          "nameRu": "Предтеча",
+          "nameOriginal": "Vestige Patron",
+          "url": "https://next.dnd.su/class/warlock#subclass.vestige-patron",
+          "source": "Arcana Unleashed",
+          "parent": "Warlock"
+        },
+        {
+          "nameRu": "Воплотитель",
+          "nameOriginal": "Evoker",
+          "url": "https://next.dnd.su/class/wizard#subclass.evoker",
+          "source": "Player's Handbook 2024",
+          "parent": "Wizard"
+        },
+        {
+          "nameRu": "Иллюзионист",
+          "nameOriginal": "Illusionist",
+          "url": "https://next.dnd.su/class/wizard#subclass.illusionist",
+          "source": "Player's Handbook 2024",
+          "parent": "Wizard"
+        },
+        {
+          "nameRu": "Некромант",
+          "nameOriginal": "Necromancer",
+          "url": "https://next.dnd.su/class/wizard#subclass.necromancer",
+          "source": "Arcana Unleashed",
+          "parent": "Wizard"
+        },
+        {
+          "nameRu": "Оградитель",
+          "nameOriginal": "Abjurer",
+          "url": "https://next.dnd.su/class/wizard#subclass.abjurer",
+          "source": "Player's Handbook 2024",
+          "parent": "Wizard"
+        },
+        {
+          "nameRu": "Очарователь",
+          "nameOriginal": "Enchanter",
+          "url": "https://next.dnd.su/class/wizard#subclass.enchanter",
+          "source": "Arcana Unleashed",
+          "parent": "Wizard"
+        },
+        {
+          "nameRu": "Преобразователь",
+          "nameOriginal": "Transmuter",
+          "url": "https://next.dnd.su/class/wizard#subclass.transmuter",
+          "source": "Arcana Unleashed",
+          "parent": "Wizard"
+        },
+        {
+          "nameRu": "Призыватель",
+          "nameOriginal": "Conjurer",
+          "url": "https://next.dnd.su/class/wizard#subclass.conjurer",
+          "source": "Arcana Unleashed",
+          "parent": "Wizard"
+        },
+        {
+          "nameRu": "Прорицатель",
+          "nameOriginal": "Diviner",
+          "url": "https://next.dnd.su/class/wizard#subclass.diviner",
+          "source": "Player's Handbook 2024",
+          "parent": "Wizard"
+        },
+        {
+          "nameRu": "Певец клинка",
+          "nameOriginal": "Bladesinger",
+          "url": "https://next.dnd.su/class/wizard#subclass.bladesinger",
+          "source": "Forgotten Realms: Heroes of Faerun",
+          "parent": "Wizard"
+        }
+      ]
+    }
+  ]
+}

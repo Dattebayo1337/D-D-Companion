@@ -1,0 +1,110 @@
+name: Checks and container
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: Publish the tested image to GHCR (default branch only)
+        type: boolean
+        default: false
+permissions:
+  contents: read
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+      - run: npm install --global pnpm@11.19.0
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm db:generate
+      - run: pnpm typecheck
+      - run: pnpm lint
+      - run: pnpm test
+  container:
+    needs: checks
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - name: Build
+        run: docker build -t dnd-companion:ci .
+      - name: Start with an empty persistent volume
+        run: |
+          docker volume create dnd-ci-data
+          docker run -d --init --name dnd-ci -p 127.0.0.1:3001:3000 -v dnd-ci-data:/data -e DND_HOST_KEY=ci-only-disposable-key-at-least-32-characters -e APP_ORIGIN=http://127.0.0.1:3001 dnd-companion:ci
+      - name: Check health, import catalog and restart
+        run: |
+          wait_for_health() {
+            for attempt in $(seq 1 60); do
+              if [ "$(docker inspect --format '{{.State.Health.Status}}' dnd-ci)" = healthy ]; then return 0; fi
+              sleep 2
+            done
+            docker logs dnd-ci
+            return 1
+          }
+          wait_for_health
+          docker exec dnd-ci node --import ./scripts/register.mjs scripts/import-srd.ts
+          curl --fail --silent http://127.0.0.1:3001/ > /dev/null
+          docker restart dnd-ci
+          wait_for_health
+          docker exec dnd-ci node -e 'const {PrismaClient}=require("@prisma/client"); const db=new PrismaClient(); db.$queryRawUnsafe("SELECT COUNT(*) AS n FROM Content").then(rows=>{if(Number(rows[0].n)<1)process.exitCode=1}).finally(()=>db.$disconnect())'
+      - name: Container logs
+        if: always()
+        run: docker logs dnd-ci || true
+      - name: Save tested image
+        if: github.event_name == 'workflow_dispatch' && inputs.publish && github.ref_name == github.event.repository.default_branch
+        run: docker save dnd-companion:ci -o /tmp/image.tar
+      - uses: actions/upload-artifact@v4
+        if: github.event_name == 'workflow_dispatch' && inputs.publish && github.ref_name == github.event.repository.default_branch
+        with:
+          name: tested-image
+          path: /tmp/image.tar
+          retention-days: 1
+      - name: Cleanup
+        if: always()
+        run: |
+          docker rm -f dnd-ci || true
+          docker volume rm dnd-ci-data || true
+  publish:
+    needs: container
+    if: github.event_name == 'workflow_dispatch' && inputs.publish && github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: read
+      actions: read
+      packages: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: tested-image
+          path: /tmp
+      - name: Publish the tested image
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{ github.repository }}
+          ACTOR: ${{ github.actor }}
+          COMMIT: ${{ github.sha }}
+        run: |
+          image="ghcr.io/${REPOSITORY,,}"
+          printf '%s' "$GH_TOKEN" | docker login ghcr.io -u "$ACTOR" --password-stdin
+          docker load -i /tmp/image.tar
+          docker tag dnd-companion:ci "$image:sha-$COMMIT"
+          docker tag dnd-companion:ci "$image:latest"
+          docker push "$image:sha-$COMMIT"
+          docker push "$image:latest"
+          docker logout ghcr.io
+

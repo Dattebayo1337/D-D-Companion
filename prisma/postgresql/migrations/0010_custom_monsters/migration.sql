@@ -1,0 +1,2 @@
+CREATE TABLE "CustomMonster" ("id" TEXT NOT NULL PRIMARY KEY, "ownerId" TEXT, "edition" TEXT NOT NULL, "name" TEXT NOT NULL, "version" INTEGER NOT NULL DEFAULT 1, "data" JSONB NOT NULL, "archived" BOOLEAN NOT NULL DEFAULT false, "createdAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP, "updatedAt" TIMESTAMP(3) NOT NULL);
+CREATE INDEX "CustomMonster_ownerId_edition_archived_idx" ON "CustomMonster"("ownerId", "edition", "archived");

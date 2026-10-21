@@ -1,0 +1,1871 @@
+{
+  "schemaVersion": 1,
+  "name": "Черты Книги игрока 2014 — дополнение",
+  "sources": [
+    {
+      "id": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "shortName": "PHB 2014 · Feats",
+      "fullNameRu": "Книга игрока 2014 — сводки черт",
+      "fullNameOriginal": "Player's Handbook",
+      "edition": "5e_2014",
+      "publisher": "Wizards of the Coast; справочник DnD.su",
+      "releaseDate": null,
+      "contentType": "MetadataOnly",
+      "licenseType": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY."
+    }
+  ],
+  "entries": [
+    {
+      "id": "1070f0e8-dc1e-5255-a7e7-352c85488a49",
+      "nameRu": "Артистичный",
+      "nameOriginal": "Actor",
+      "descriptionRu": "Харизма +1. Даёт преимущество на Обман и Выступление при выдаче себя за другую личность. После минуты прослушивания позволяет воспроизводить чужую речь и звуки; слушатель распознаёт подделку встречной проверкой Проницательности против вашего Обмана.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/101-actor/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "898529c3-cacd-57cc-aedc-2e31d5622baf",
+      "nameRu": "Атлетичный",
+      "nameOriginal": "Athlete",
+      "descriptionRu": "Сила или Ловкость +1. Подъём из положения лёжа требует 5 футов движения. Лазание не расходует лишнего движения, а для прыжка с разбега достаточно 5 футов разбега.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/102-athlete/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "2b912bf2-d001-5161-abe5-847dbe3ac0d8",
+      "nameRu": "Бдительный",
+      "nameOriginal": "Alert",
+      "descriptionRu": "Инициатива +5. Пока вы в сознании, вас нельзя застать врасплох. Невидимый для вас атакующий не получает преимущество только за счёт того, что вы его не видите.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/103-alert/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "caa83873-4e57-5021-ae30-bfefb0b32324",
+      "nameRu": "Везунчик",
+      "nameOriginal": "Lucky",
+      "descriptionRu": "Три очка удачи восстанавливаются после продолжительного отдыха. Очко позволяет бросить дополнительную к20 для своей атаки, проверки или спасброска и выбрать результат до определения последствий. Можно также бросить к20 против входящей атаки и выбрать, какую кость использует враг. Несколько применений удачи к одному броску взаимно отменяются.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/106-lucky/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "ce2e96df-798f-5c43-a21b-00428573bc0a",
+      "nameRu": "Верховой боец",
+      "nameOriginal": "Mounted combatant",
+      "descriptionRu": "Верхом, пока вы не недееспособны, получаете преимущество на рукопашные атаки против пеших целей меньше скакуна и можете перенаправлять атаки со скакуна на себя. При спасброске Ловкости на половину урона скакун получает ноль при успехе и половину при провале.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/107-mounted-combatant/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "5d78dc33-60b5-5619-afab-c18b98203826",
+      "nameRu": "Внимательный",
+      "nameOriginal": "Observant",
+      "descriptionRu": "Интеллект или Мудрость +1. Позволяет читать по губам, если виден рот говорящего и понятен язык. Пассивные Восприятие и Расследование получают +5.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/108-observant/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "203f7d6d-b51f-5b27-a4a6-019b9a2607e1",
+      "nameRu": "Воинский адепт",
+      "nameOriginal": "Martial adept",
+      "descriptionRu": "Изучаете два приёма мастера боевых искусств и получаете одну кость превосходства к6, восстанавливаемую после короткого или продолжительного отдыха. Сложность спасбросков приёмов: 8 + бонус мастерства + выбранный модификатор Силы или Ловкости.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/109-martial-adept/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "5ea66595-043a-541b-af0a-25c945d0a544",
+      "nameRu": "Воодушевляющий лидер",
+      "nameOriginal": "Inspiring leader",
+      "descriptionRu": "За 10 минут выступления до шести понимающих вас союзников в пределах 30 футов, включая вас, получают временные хиты: уровень персонажа + модификатор Харизмы. Они должны видеть или слышать вас. Повторная польза для каждой цели доступна после её короткого или продолжительного отдыха.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/110-inspiring-leader/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Харизма 13 или выше"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "be0e7163-d411-53a6-a4d0-58184dcc6a2f",
+      "nameRu": "Дикий атакующий",
+      "nameOriginal": "Savage attacker",
+      "descriptionRu": "Один раз за ход можно повторно бросить кости урона оружия для рукопашной атаки и выбрать любой из двух наборов результатов.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/111-savage-attacker/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "4c11aaa3-5223-595d-a54f-261376f16fa5",
+      "nameRu": "Драчун",
+      "nameOriginal": "Tavern brawler",
+      "descriptionRu": "Сила или Телосложение +1. Даёт владение импровизированным оружием и к4 урона безоружного удара. После попадания таким ударом или импровизированным оружием в свой ход можно бонусным действием попытаться захватить цель.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/112-tavern-brawler/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "06834b91-c758-52a4-ad48-5b83a55f43d1",
+      "nameRu": "Знаток лёгких доспехов",
+      "nameOriginal": "Lightly armored",
+      "descriptionRu": "Сила или Ловкость +1. Даёт владение лёгкими доспехами.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/113-lightly-armored/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "90dd9aad-b2de-53c3-aad0-2f20b562af2d",
+      "nameRu": "Знаток средних доспехов",
+      "nameOriginal": "Moderately armored",
+      "descriptionRu": "Сила или Ловкость +1. Даёт владение средними доспехами и щитами.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/114-moderately-armored/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Владение лёгкими доспехами"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "57cb3db2-6a38-55e4-a0cb-06067fc2ad57",
+      "nameRu": "Знаток тяжёлых доспехов",
+      "nameOriginal": "Heavily armored",
+      "descriptionRu": "Сила +1. Даёт владение тяжёлыми доспехами.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/115-heavily-armored/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Владение средними доспехами"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "23781f09-9d81-5054-ac80-aa1e5f0ac077",
+      "nameRu": "Использование двух оружий",
+      "nameOriginal": "Dual wielder",
+      "descriptionRu": "С двумя рукопашными оружиями в руках получаете +1 к классу доспеха. Для сражения двумя оружиями подходят одноручные оружия без свойства «лёгкое». Можно одновременно доставать или убирать два одноручных оружия.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/116-dual-wielder/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "904d795d-00a6-5126-abd0-0589e50ffb05",
+      "nameRu": "Исследователь подземелий",
+      "nameOriginal": "Dungeon delver",
+      "descriptionRu": "Преимущество на Восприятие и Расследование для поиска потайных дверей, а также на спасброски от ловушек. Даёт сопротивление урону ловушек. Быстрый темп путешествия не снижает пассивное Восприятие на 5.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/117-dungeon-delver/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "57c6c6e9-631e-59da-a9dd-356aab86b594",
+      "nameRu": "Крепкий",
+      "nameOriginal": "Tough",
+      "descriptionRu": "Максимум хитов увеличивается на удвоенный уровень персонажа при выборе черты и ещё на 2 при каждом следующем уровне.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/118-tough/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "da9f9213-0e0e-5bc5-a022-f2daaf5b014a",
+      "nameRu": "Лекарь",
+      "nameOriginal": "Healer",
+      "descriptionRu": "Стабилизация комплектом целителя также возвращает цели 1 хит. Действием и одним использованием комплекта можно восстановить 1к6 + 4 + максимальное число Костей Хитов цели. Повторное лечение этой чертой требует от цели короткого или продолжительного отдыха.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/119-healer/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "c1518544-d444-5957-af8b-627c1097e695",
+      "nameRu": "Мастер оружия",
+      "nameOriginal": "Weapon master",
+      "descriptionRu": "Сила или Ловкость +1. Получаете владение четырьмя выбранными видами простого или воинского оружия.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/122-weapon-master/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "3a121deb-7f33-51c2-a84f-3c017888851f",
+      "nameRu": "Мастер средних доспехов",
+      "nameOriginal": "Medium armor master",
+      "descriptionRu": "Средние доспехи больше не дают помеху Скрытности. При Ловкости 16 и выше допускают прибавку Ловкости +3 к классу доспеха вместо +2.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/123-medium-armor-master/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Владение средними доспехами"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "dab71a0b-39f5-55d8-a111-00e4d03258f1",
+      "nameRu": "Мастер тяжёлых доспехов",
+      "nameOriginal": "Heavy armor master",
+      "descriptionRu": "Сила +1. В тяжёлом доспехе снижаете на 3 дробящий, колющий и рубящий урон от немагических атак.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/124-heavy-armor-master/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Владение тяжёлыми доспехами"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "53cd9ac2-0b80-5dff-affd-9f4e97e24f50",
+      "nameRu": "Мастер щитов",
+      "nameOriginal": "Shield master",
+      "descriptionRu": "Со щитом после действия Атака в свой ход доступен толчок бонусным действием против цели в 5 футах. Пока вы не недееспособны, бонус щита к защите добавляется к спасброскам Ловкости против эффектов только на вас. При успешном спасброске Ловкости на половину урона можно реакцией полностью избежать урона.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/125-shield-master/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "47a3a3a6-10b1-5379-a5d7-b46e4fd62c55",
+      "nameRu": "Меткие заклинания",
+      "nameOriginal": "Spell sniper",
+      "descriptionRu": "Удваивает дальность заклинаний с броском атаки; дальнобойные атаки заклинаниями обходят половинное и трёхчетвертное укрытие. Изучаете атакующий заговор барда, волшебника, друида, жреца, колдуна или чародея; его характеристика определяется выбранным классом.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/126-spell-sniper/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Способность накладывать хотя бы одно заклинание"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "0f105f2b-fc3b-5f2e-a8b3-9c8b382223e5",
+      "nameRu": "Меткий стрелок",
+      "nameOriginal": "Sharpshooter",
+      "descriptionRu": "Дальнобойные атаки оружием обходят половинное и трёхчетвертное укрытие и не получают помеху за большую дистанцию. При атаке дальнобойным оружием, которым владеете, можно заранее принять −5 к попаданию ради +10 к урону.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/127-sharpshooter/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "f248b0ae-565a-5bfa-a2fb-35e1f15d4ac5",
+      "nameRu": "Налётчик",
+      "nameOriginal": "Charger",
+      "descriptionRu": "После действия Рывок можно бонусным действием атаковать рукопашным оружием или толкнуть цель. Если непосредственно перед этим пройти 10 футов по прямой, попадание получает +5 урона либо успешный толчок отодвигает цель на 10 футов.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/128-charger/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "427c1405-3ab7-53ff-acbd-3f3e57b27b58",
+      "nameRu": "Оборонительный дуэлянт",
+      "nameOriginal": "Defensive duelist",
+      "descriptionRu": "Когда вас поражают рукопашной атакой, реакцией прибавляете бонус мастерства к защите против этой атаки. Требуется держать фехтовальное оружие, которым владеете; прибавка может превратить попадание в промах.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/129-defensive-duelist/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Ловкость 13 или выше"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "05d1cb26-6f5b-58d6-afc7-de98fafdf61e",
+      "nameRu": "Одарённый",
+      "nameOriginal": "Skilled",
+      "descriptionRu": "Выбираете три новых владения: любую комбинацию навыков и инструментов.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/130-skilled/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "c553a307-4027-53d4-a7c7-1a816b1e1e0d",
+      "nameRu": "Отличная память",
+      "nameOriginal": "Keen mind",
+      "descriptionRu": "Интеллект +1. Всегда определяете север и время до ближайшего восхода или заката. Точно вспоминаете увиденное и услышанное за последний месяц.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/131-keen-mind/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "58f5102c-93a2-5f0a-ac0c-30a1648f15d8",
+      "nameRu": "Подвижный",
+      "nameOriginal": "Mobile",
+      "descriptionRu": "Скорость +10 футов. В ход с Рывком труднопроходимая местность не требует лишнего движения. После рукопашной атаки по существу до конца этого хода не провоцируете его атаки, даже если промахнулись.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/132-mobile/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "30a143bf-b5fd-577c-af83-143654b47bfd",
+      "nameRu": "Посвящённый в магию",
+      "nameOriginal": "Magic initiate",
+      "descriptionRu": "Выбираете барда, волшебника, друида, жреца, колдуна или чародея: изучаете два заговора и одно заклинание первого уровня из его списка. Заклинание можно применить один раз на первом уровне, затем нужен продолжительный отдых. Заклинательная характеристика соответствует выбранному классу.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/133-magic-initiate/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "f1a49f22-8f09-5192-a241-e1e248c4b25f",
+      "nameRu": "Проныра",
+      "nameOriginal": "Skulker",
+      "descriptionRu": "Можно прятаться при слабой заслонённости. Промах дальнобойным оружием из укрытия не раскрывает позицию. Тусклое освещение не даёт помеху зрительным проверкам Восприятия.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/134-skulker/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Ловкость 13 или выше"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "37f8e23b-7fd9-5f45-a00a-49a9f1e04202",
+      "nameRu": "Ритуальный заклинатель",
+      "nameOriginal": "Ritual caster",
+      "descriptionRu": "Получаете книгу с двумя ритуалами первого уровня одного выбранного заклинательного класса и используете характеристику этого класса. Для ритуала держите книгу в руке. Найденные письменные ритуалы того же класса можно переписать, если их уровень не выше половины вашего с округлением вверх: 2 часа и 50 зм за уровень заклинания.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/135-ritual-caster/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Интеллект или Мудрость 13 или выше"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "cc20c09f-6985-59c9-ac90-0ddb0400ecb6",
+      "nameRu": "Стихийный адепт",
+      "nameOriginal": "Elemental adept",
+      "descriptionRu": "Выберите звук, кислоту, огонь, холод или электричество. Ваши заклинания обходят сопротивление этому типу урона, а единицы на костях такого урона можно считать двойками. Повторный выбор черты разрешён для другого типа урона.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/136-elemental-adept/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Способность накладывать хотя бы одно заклинание"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "5fa5430c-ac79-5bdb-a5fb-8ba9f11e7ffe",
+      "nameRu": "Стойкий",
+      "nameOriginal": "Durable",
+      "descriptionRu": "Телосложение +1. При расходовании Кости Хитов минимум восстановленных хитов равен удвоенному модификатору Телосложения, но не меньше 2.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/137-durable/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "385c1619-f277-5257-ac8a-c228766fec9a",
+      "nameRu": "Убийца магов",
+      "nameOriginal": "Mage slayer",
+      "descriptionRu": "Заклинание врага в пределах 5 футов позволяет ответить реакцией рукопашной атакой оружием. Ваш урон даёт цели помеху спасброска поддержания концентрации. Получаете преимущество на спасброски от заклинаний существ в пределах 5 футов.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/139-mage-slayer/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "6b67aa52-a977-5fdc-ad62-36ff84e55322",
+      "nameRu": "Устойчивый",
+      "nameOriginal": "Resilient",
+      "descriptionRu": "Выбранная характеристика +1. Получаете владение её спасбросками.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/140-resilient/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "0dea9825-9527-536f-a4e6-11611e11be80",
+      "nameRu": "Эксперт в арбалетах",
+      "nameOriginal": "Crossbow expert",
+      "descriptionRu": "Игнорируете перезарядку арбалетов, которыми владеете. Враг в 5 футах не создаёт помеху дальнобойным атакам. После атаки одноручным оружием в составе действия Атака можно бонусным действием выстрелить из ручного арбалета в руке.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/141-crossbow-expert/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "2b65891e-7476-569f-a058-c160e0ed8209",
+      "nameRu": "Языковед",
+      "nameOriginal": "Linguist",
+      "descriptionRu": "Интеллект +1. Изучаете три языка и создаёте шифры. Без вашего объяснения или магии расшифровка требует проверки Интеллекта со сложностью, равной вашему значению Интеллекта + бонус мастерства.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "a1d28bfd-9e76-57b7-a8fa-0987b71bcca4",
+      "source": "https://dnd.su/feats/142-linguist/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по DnD.su. Полные тексты и изображения не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Общая черта"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Тип черты",
+            "valueRu": "Общая черта"
+          },
+          {
+            "nameRu": "Требования",
+            "valueRu": "Нет дополнительных требований"
+          },
+          {
+            "nameRu": "Предел повышения характеристик",
+            "valueRu": "До 20, если черта повышает характеристику"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил; полный материал по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    }
+  ],
+  "terms": [],
+  "relations": []
+}

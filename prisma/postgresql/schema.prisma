@@ -1,0 +1,302 @@
+generator client {
+  provider = "prisma-client-js"
+}
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+model Edition {
+  id      String @id
+  nameRu  String
+  books   SourceBook[]
+  content Content[]
+  terms   TermTranslation[]
+}
+model SourceBook {
+  id               String @id
+  shortName        String
+  fullNameRu       String
+  fullNameOriginal String
+  editionId        String
+  edition          Edition @relation(fields: [editionId], references: [id])
+  publisher        String
+  releaseDate      String?
+  contentType      String
+  licenseType      String
+  content          Content[]
+}
+model Content {
+  id                  String @id
+  kind                String
+  nameRu              String
+  nameOriginal        String
+  descriptionRu       String
+  descriptionOriginal String
+  editionId           String
+  edition             Edition @relation(fields: [editionId], references: [id])
+  sourceBookId        String
+  sourceBook          SourceBook @relation(fields: [sourceBookId], references: [id])
+  source              String
+  sourcePage          String
+  license             String
+  rulesVersion        String
+  translationStatus   String
+  contentOrigin       String
+  aliases             Json
+  tags                Json
+  contentVersion      Int
+  errataVersion       String
+  createdAt           DateTime
+  updatedAt           DateTime
+  searchText          String
+  spell               Spell?
+  monster             Monster?
+  reference           Reference?
+  revisions           ContentRevision[]
+  outgoing            ContentRelation[] @relation("source")
+  incoming            ContentRelation[] @relation("target")
+  overrides           LocalizationOverride[]
+  @@index([editionId, kind, translationStatus])
+  @@index([sourceBookId])
+}
+model Spell {
+  contentId     String @id
+  content       Content @relation(fields: [contentId], references: [id], onDelete: Cascade)
+  level         Int
+  school        String
+  ritual        Boolean
+  concentration Boolean
+  castingTime   String
+  rangeFeet     Float
+  damageType    String?
+  savingThrow   String?
+  details       Json
+  @@index([level, school])
+}
+model Monster {
+  contentId       String @id
+  content         Content @relation(fields: [contentId], references: [id], onDelete: Cascade)
+  challengeRating Float
+  type            String
+  size            String
+  armorClass      Int
+  hitPoints       Int
+  details         Json
+  @@index([challengeRating, type, size])
+}
+model ImportBatch {
+  id         String @id @default(uuid())
+  name       String
+  importedAt DateTime @default(now())
+  count      Int
+  revisions  ContentRevision[]
+}
+model ContentRevision {
+  id             String @id @default(uuid())
+  contentId      String
+  content        Content @relation(fields: [contentId], references: [id])
+  contentVersion Int
+  snapshot       Json
+  importBatchId  String
+  importBatch    ImportBatch @relation(fields: [importBatchId], references: [id])
+  createdAt      DateTime @default(now())
+  @@unique([contentId, contentVersion])
+}
+model ContentRelation {
+  id           String @id
+  sourceId     String
+  targetId     String
+  relationType String
+  source       Content @relation("source", fields: [sourceId], references: [id])
+  target       Content @relation("target", fields: [targetId], references: [id])
+  @@unique([sourceId, targetId, relationType])
+}
+model TermTranslation {
+  id        String @id
+  original  String
+  russian   String
+  category  String
+  editionId String
+  edition   Edition @relation(fields: [editionId], references: [id])
+  aliases   Json
+  notes     String
+  createdAt DateTime
+  updatedAt DateTime
+  @@unique([original, category, editionId])
+}
+model LocalizationOverride {
+  id            String @id @default(uuid())
+  entityId      String
+  entity        Content @relation(fields: [entityId], references: [id])
+  field         String
+  originalValue String
+  customValue   String
+  userId        String
+  @@unique([entityId, field, userId])
+}
+
+model Reference {
+  contentId String @id
+  content Content @relation(fields: [contentId], references: [id], onDelete: Cascade)
+  category String
+  parentId String?
+  details Json
+  @@index([category])
+}
+
+model Character {
+  ownerId String?
+  @@index([ownerId])
+  id String @id
+  name String
+  edition String
+  version Int @default(1)
+  data Json
+  archived Boolean @default(false)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  @@index([edition, archived])
+}
+
+model Campaign {
+  ownerId String?
+  @@index([ownerId])
+  encounters Encounter[]
+  id String @id
+  name String
+  editionMode String
+  version Int @default(1)
+  data Json
+  archived Boolean @default(false)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  @@index([editionMode, archived])
+}
+
+model Encounter {
+  ownerId String?
+  @@index([ownerId])
+  id String @id
+  name String
+  edition String
+  campaignId String?
+  campaign Campaign? @relation(fields: [campaignId], references: [id], onDelete: SetNull)
+  version Int @default(1)
+  data Json
+  archived Boolean @default(false)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  @@index([edition, archived])
+  @@index([campaignId])
+}
+
+model Collection {
+  ownerId String?
+  @@index([ownerId])
+  id String @id
+  version Int @default(1)
+  data Json
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+model Lobby {
+  tabletop Json @default("{}")
+  ownerId String?
+  @@index([ownerId])
+  id String @id @default(uuid())
+  name String
+  campaignId String?
+  characterIds Json
+  notes String @default("")
+  inviteHash String @unique
+  version Int @default(1)
+  closed Boolean @default(false)
+  createdAt DateTime @default(now())
+  members LobbyMember[]
+}
+model LobbyMember {
+  accountId String?
+  @@unique([lobbyId, accountId])
+  id String @id @default(uuid())
+  lobbyId String
+  lobby Lobby @relation(fields: [lobbyId], references: [id], onDelete: Cascade)
+  name String
+  tokenHash String @unique
+  expiresAt DateTime
+  revoked Boolean @default(false)
+  createdAt DateTime @default(now())
+  @@index([lobbyId])
+}
+
+
+model Account {
+  authVersion Int @default(1)
+  id String @id @default(uuid())
+  username String @unique
+  displayName String
+  passwordHash String
+  recoveryHash String
+  role String @default("user")
+  disabled Boolean @default(false)
+  createdAt DateTime @default(now())
+  sessions AccountSession[]
+}
+model AccountSession {
+  authVersion Int @default(1)
+  id String @id @default(uuid())
+  tokenHash String @unique
+  accountId String
+  account Account @relation(fields: [accountId], references: [id], onDelete: Cascade)
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+  @@index([accountId])
+  @@index([expiresAt])
+}
+model AuthLimit {
+  key String @id
+  count Int @default(0)
+  expiresAt DateTime
+  @@index([expiresAt])
+}
+
+model CustomMonster {
+ id String @id @default(uuid())
+ ownerId String?
+ edition String
+ name String
+ version Int @default(1)
+ data Json
+ archived Boolean @default(false)
+ createdAt DateTime @default(now())
+ updatedAt DateTime @updatedAt
+ @@index([ownerId, edition, archived])
+}
+
+model AdventureMap {
+ id String @id @default(uuid())
+ ownerId String?
+ name String
+ campaignId String?
+ version Int @default(1)
+ data Json
+ archived Boolean @default(false)
+ createdAt DateTime @default(now())
+ updatedAt DateTime @updatedAt
+ @@index([ownerId, archived])
+}
+
+model ImageMap {
+ id String @id @default(uuid())
+ ownerId String?
+ data Json
+ image Bytes
+ thumbnail Bytes
+ width Int
+ height Int
+ size Int
+ version Int @default(1)
+ archived Boolean @default(false)
+ createdAt DateTime @default(now())
+ updatedAt DateTime @updatedAt
+ @@index([ownerId, archived])
+}

@@ -1,0 +1,717 @@
+{
+  "schemaVersion": 1,
+  "name": "Книга игрока 2024 — дополнение предысторий",
+  "sources": [
+    {
+      "id": "ed44577f-5e70-573f-abe9-59b674a0a0e8",
+      "shortName": "PHB 2024 · Сводки",
+      "fullNameRu": "Книга игрока 2024 — справочные сводки",
+      "fullNameOriginal": "Player's Handbook (2024) — reference summaries",
+      "edition": "5e_2024",
+      "publisher": "Wizards of the Coast",
+      "releaseDate": null,
+      "contentType": "MetadataOnly",
+      "licenseType": "Справочные данные; самостоятельные краткие изложения, не полный текст книги"
+    }
+  ],
+  "entries": [
+    {
+      "id": "1d7ed44e-01bd-5623-adff-55cf15c5beba",
+      "nameRu": "Ремесленник",
+      "nameOriginal": "Artisan",
+      "descriptionRu": "**Характеристики:** Сила, Ловкость, Интеллект. Распределите +2 и +1 между двумя из них либо по +1 во все три; итог не выше 20.\n\n**Черта происхождения:** Ремесленник.\n\n**Навыки:** Анализ, Убеждение.\n\n**Инструменты:** Один вид инструментов ремесленника.\n\n**Снаряжение на выбор:** Выбранные инструменты ремесленника, два кошеля, дорожная одежда и 32 зм; либо 50 зм вместо всего набора.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ed44577f-5e70-573f-abe9-59b674a0a0e8",
+      "source": "https://roll20.net/compendium/dnd5e/Backgrounds:Artisan?expansion=32231",
+      "sourcePage": "",
+      "license": "Справочные данные и самостоятельное краткое изложение механики. Полный текст книги не включён. Dungeons & Dragons — Wizards of the Coast; это не материал SRD и не перевод по лицензии CC BY.",
+      "rulesVersion": "PHB 2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Основная"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Background",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "bf80d1a2-4d5e-58c1-a76c-4632e9a2ebc0",
+      "nameRu": "Шарлатан",
+      "nameOriginal": "Charlatan",
+      "descriptionRu": "**Характеристики:** Ловкость, Телосложение, Харизма. Распределите +2 и +1 между двумя из них либо по +1 во все три; итог не выше 20.\n\n**Черта происхождения:** Умелый.\n\n**Навыки:** Обман, Ловкость рук.\n\n**Инструменты:** Набор для фальсификации.\n\n**Снаряжение на выбор:** Набор для фальсификации, костюм, красивая одежда и 15 зм; либо 50 зм вместо всего набора.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ed44577f-5e70-573f-abe9-59b674a0a0e8",
+      "source": "https://roll20.net/compendium/dnd5e/Backgrounds:Charlatan?expansion=32231",
+      "sourcePage": "",
+      "license": "Справочные данные и самостоятельное краткое изложение механики. Полный текст книги не включён. Dungeons & Dragons — Wizards of the Coast; это не материал SRD и не перевод по лицензии CC BY.",
+      "rulesVersion": "PHB 2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Основная"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Background",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "5c208ca2-7561-56d1-a8c5-4450dfe536fc",
+      "nameRu": "Артист",
+      "nameOriginal": "Entertainer",
+      "descriptionRu": "**Характеристики:** Сила, Ловкость, Харизма. Распределите +2 и +1 между двумя из них либо по +1 во все три; итог не выше 20.\n\n**Черта происхождения:** Музыкант.\n\n**Навыки:** Акробатика, Выступление.\n\n**Инструменты:** Один музыкальный инструмент.\n\n**Снаряжение на выбор:** Выбранный музыкальный инструмент, два костюма, зеркало, духи, дорожная одежда и 11 зм; либо 50 зм вместо всего набора.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ed44577f-5e70-573f-abe9-59b674a0a0e8",
+      "source": "https://roll20.net/compendium/dnd5e/Backgrounds:Entertainer?expansion=32231",
+      "sourcePage": "",
+      "license": "Справочные данные и самостоятельное краткое изложение механики. Полный текст книги не включён. Dungeons & Dragons — Wizards of the Coast; это не материал SRD и не перевод по лицензии CC BY.",
+      "rulesVersion": "PHB 2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Основная"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Background",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "69425e2e-d865-5040-ae42-f59ae2d780d5",
+      "nameRu": "Фермер",
+      "nameOriginal": "Farmer",
+      "descriptionRu": "**Характеристики:** Сила, Телосложение, Мудрость. Распределите +2 и +1 между двумя из них либо по +1 во все три; итог не выше 20.\n\n**Черта происхождения:** Крепкий.\n\n**Навыки:** Уход за животными, Природа.\n\n**Инструменты:** Инструменты плотника.\n\n**Снаряжение на выбор:** Серп, инструменты плотника, набор целителя, железный горшок, лопата, дорожная одежда и 30 зм; либо 50 зм вместо всего набора.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ed44577f-5e70-573f-abe9-59b674a0a0e8",
+      "source": "https://roll20.net/compendium/dnd5e/Backgrounds:Farmer?expansion=32231",
+      "sourcePage": "",
+      "license": "Справочные данные и самостоятельное краткое изложение механики. Полный текст книги не включён. Dungeons & Dragons — Wizards of the Coast; это не материал SRD и не перевод по лицензии CC BY.",
+      "rulesVersion": "PHB 2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [
+        "Крестьянин"
+      ],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Основная"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Background",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "eefea4f8-4426-5a56-a8cd-16ee37e93d4f",
+      "nameRu": "Стражник",
+      "nameOriginal": "Guard",
+      "descriptionRu": "**Характеристики:** Сила, Интеллект, Мудрость. Распределите +2 и +1 между двумя из них либо по +1 во все три; итог не выше 20.\n\n**Черта происхождения:** Бдительность.\n\n**Навыки:** Атлетика, Внимательность.\n\n**Инструменты:** Один игровой набор.\n\n**Снаряжение на выбор:** Копьё, лёгкий арбалет, 20 болтов, выбранный игровой набор, закрытый фонарь, кандалы, колчан, дорожная одежда и 12 зм; либо 50 зм вместо всего набора.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ed44577f-5e70-573f-abe9-59b674a0a0e8",
+      "source": "https://roll20.net/compendium/dnd5e/Backgrounds:Guard?expansion=32231",
+      "sourcePage": "",
+      "license": "Справочные данные и самостоятельное краткое изложение механики. Полный текст книги не включён. Dungeons & Dragons — Wizards of the Coast; это не материал SRD и не перевод по лицензии CC BY.",
+      "rulesVersion": "PHB 2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [
+        "Страж"
+      ],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Основная"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Background",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "2f8eeef6-f7b2-5535-a8fa-17f79282eaf6",
+      "nameRu": "Проводник",
+      "nameOriginal": "Guide",
+      "descriptionRu": "**Характеристики:** Ловкость, Телосложение, Мудрость. Распределите +2 и +1 между двумя из них либо по +1 во все три; итог не выше 20.\n\n**Черта происхождения:** Посвящённый в магию: друид.\n\n**Навыки:** Скрытность, Выживание.\n\n**Инструменты:** Инструменты картографа.\n\n**Снаряжение на выбор:** Короткий лук, 20 стрел, инструменты картографа, спальник, колчан, палатка, дорожная одежда и 3 зм; либо 50 зм вместо всего набора.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ed44577f-5e70-573f-abe9-59b674a0a0e8",
+      "source": "https://wastedwizardgames.com/dnd/2024/backgrounds/guide/",
+      "sourcePage": "",
+      "license": "Справочные данные и самостоятельное краткое изложение механики. Полный текст книги не включён. Dungeons & Dragons — Wizards of the Coast; это не материал SRD и не перевод по лицензии CC BY.",
+      "rulesVersion": "PHB 2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Основная"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Background",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "a08bef1e-0375-565a-acce-ce749b27d145",
+      "nameRu": "Отшельник",
+      "nameOriginal": "Hermit",
+      "descriptionRu": "**Характеристики:** Телосложение, Мудрость, Харизма. Распределите +2 и +1 между двумя из них либо по +1 во все три; итог не выше 20.\n\n**Черта происхождения:** Целитель.\n\n**Навыки:** Медицина, Религия.\n\n**Инструменты:** Набор травника.\n\n**Снаряжение на выбор:** Боевой посох, набор травника, спальник, книга по философии, лампа, три фляги масла, дорожная одежда и 16 зм; либо 50 зм вместо всего набора.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ed44577f-5e70-573f-abe9-59b674a0a0e8",
+      "source": "https://roll20.net/compendium/dnd5e/Backgrounds:Hermit?expansion=32231",
+      "sourcePage": "",
+      "license": "Справочные данные и самостоятельное краткое изложение механики. Полный текст книги не включён. Dungeons & Dragons — Wizards of the Coast; это не материал SRD и не перевод по лицензии CC BY.",
+      "rulesVersion": "PHB 2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Основная"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Background",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "ebb868f7-e0b1-5bf9-a682-06b22a9b15b5",
+      "nameRu": "Торговец",
+      "nameOriginal": "Merchant",
+      "descriptionRu": "**Характеристики:** Телосложение, Интеллект, Харизма. Распределите +2 и +1 между двумя из них либо по +1 во все три; итог не выше 20.\n\n**Черта происхождения:** Везунчик.\n\n**Навыки:** Уход за животными, Убеждение.\n\n**Инструменты:** Инструменты навигатора.\n\n**Снаряжение на выбор:** Инструменты навигатора, два кошеля, дорожная одежда и 22 зм; либо 50 зм вместо всего набора.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ed44577f-5e70-573f-abe9-59b674a0a0e8",
+      "source": "https://roll20.net/compendium/dnd5e/Backgrounds:Merchant?expansion=32231",
+      "sourcePage": "",
+      "license": "Справочные данные и самостоятельное краткое изложение механики. Полный текст книги не включён. Dungeons & Dragons — Wizards of the Coast; это не материал SRD и не перевод по лицензии CC BY.",
+      "rulesVersion": "PHB 2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Основная"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Background",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "779dd97a-dc70-572a-a241-976b07871ee1",
+      "nameRu": "Благородный",
+      "nameOriginal": "Noble",
+      "descriptionRu": "**Характеристики:** Сила, Интеллект, Харизма. Распределите +2 и +1 между двумя из них либо по +1 во все три; итог не выше 20.\n\n**Черта происхождения:** Умелый.\n\n**Навыки:** История, Убеждение.\n\n**Инструменты:** Один игровой набор.\n\n**Снаряжение на выбор:** Выбранный игровой набор, красивая одежда, духи и 29 зм; либо 50 зм вместо всего набора.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ed44577f-5e70-573f-abe9-59b674a0a0e8",
+      "source": "https://roll20.net/compendium/dnd5e/Backgrounds:Noble?expansion=32231",
+      "sourcePage": "",
+      "license": "Справочные данные и самостоятельное краткое изложение механики. Полный текст книги не включён. Dungeons & Dragons — Wizards of the Coast; это не материал SRD и не перевод по лицензии CC BY.",
+      "rulesVersion": "PHB 2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [
+        "Дворянин"
+      ],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Основная"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Background",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "53cf7aa0-5a1d-553f-a9d3-d1cac22b209d",
+      "nameRu": "Моряк",
+      "nameOriginal": "Sailor",
+      "descriptionRu": "**Характеристики:** Сила, Ловкость, Мудрость. Распределите +2 и +1 между двумя из них либо по +1 во все три; итог не выше 20.\n\n**Черта происхождения:** Драчун.\n\n**Навыки:** Акробатика, Внимательность.\n\n**Инструменты:** Инструменты навигатора.\n\n**Снаряжение на выбор:** Кинжал, инструменты навигатора, верёвка, дорожная одежда и 20 зм; либо 50 зм вместо всего набора.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ed44577f-5e70-573f-abe9-59b674a0a0e8",
+      "source": "https://roll20.net/compendium/dnd5e/Backgrounds:Sailor?expansion=32231",
+      "sourcePage": "",
+      "license": "Справочные данные и самостоятельное краткое изложение механики. Полный текст книги не включён. Dungeons & Dragons — Wizards of the Coast; это не материал SRD и не перевод по лицензии CC BY.",
+      "rulesVersion": "PHB 2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Основная"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Background",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "25680be1-3124-5f44-a67f-cd830790dac2",
+      "nameRu": "Писец",
+      "nameOriginal": "Scribe",
+      "descriptionRu": "**Характеристики:** Ловкость, Интеллект, Мудрость. Распределите +2 и +1 между двумя из них либо по +1 во все три; итог не выше 20.\n\n**Черта происхождения:** Умелый.\n\n**Навыки:** Анализ, Внимательность.\n\n**Инструменты:** Принадлежности каллиграфа.\n\n**Снаряжение на выбор:** Принадлежности каллиграфа, красивая одежда, лампа, три фляги масла, 12 листов пергамента и 23 зм; либо 50 зм вместо всего набора.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ed44577f-5e70-573f-abe9-59b674a0a0e8",
+      "source": "https://roll20.net/compendium/dnd5e/Backgrounds:Scribe?expansion=32231",
+      "sourcePage": "",
+      "license": "Справочные данные и самостоятельное краткое изложение механики. Полный текст книги не включён. Dungeons & Dragons — Wizards of the Coast; это не материал SRD и не перевод по лицензии CC BY.",
+      "rulesVersion": "PHB 2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [
+        "Писарь"
+      ],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Основная"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Background",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "4d7a7236-8350-5707-a0f6-1d949d762f86",
+      "nameRu": "Скиталец",
+      "nameOriginal": "Wayfarer",
+      "descriptionRu": "**Характеристики:** Ловкость, Мудрость, Харизма. Распределите +2 и +1 между двумя из них либо по +1 во все три; итог не выше 20.\n\n**Черта происхождения:** Везунчик.\n\n**Навыки:** Проницательность, Скрытность.\n\n**Инструменты:** Воровские инструменты.\n\n**Снаряжение на выбор:** Два кинжала, воровские инструменты, любой игровой набор, спальник, два кошеля, дорожная одежда и 16 зм; либо 50 зм вместо всего набора.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ed44577f-5e70-573f-abe9-59b674a0a0e8",
+      "source": "https://roll20.net/compendium/dnd5e/Backgrounds:Wayfarer?expansion=32231",
+      "sourcePage": "",
+      "license": "Справочные данные и самостоятельное краткое изложение механики. Полный текст книги не включён. Dungeons & Dragons — Wizards of the Coast; это не материал SRD и не перевод по лицензии CC BY.",
+      "rulesVersion": "PHB 2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [
+        "Бродяга"
+      ],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Основная"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Background",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "e9667dd3-d0a3-55a9-a72f-d0ba7b58638f",
+      "nameRu": "Ремесленник",
+      "nameOriginal": "Crafter",
+      "descriptionRu": "Три владения ремесленными инструментами; немагические покупки дешевле на 20%. После длительного отдыха можно временно изготовить предмет по таблице быстрого изготовления; подробности — в книге.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ed44577f-5e70-573f-abe9-59b674a0a0e8",
+      "source": "https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-2024",
+      "sourcePage": "",
+      "license": "Справочные данные и самостоятельное краткое изложение механики. Полный текст книги не включён. Dungeons & Dragons — Wizards of the Coast; это не материал SRD и не перевод по лицензии CC BY.",
+      "rulesVersion": "PHB 2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Основная"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "26c9c1b9-7eb4-5f2d-a5be-c3ed329ebecb",
+      "nameRu": "Целитель",
+      "nameOriginal": "Healer",
+      "descriptionRu": "Действием с набором целителя расходуется его применение: существо тратит кость хитов и восстанавливает её результат плюс ваш бонус мастерства. Единицы на кубиках такого лечения или лечебного заклинания перебрасываются.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ed44577f-5e70-573f-abe9-59b674a0a0e8",
+      "source": "https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-2024",
+      "sourcePage": "",
+      "license": "Справочные данные и самостоятельное краткое изложение механики. Полный текст книги не включён. Dungeons & Dragons — Wizards of the Coast; это не материал SRD и не перевод по лицензии CC BY.",
+      "rulesVersion": "PHB 2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Основная"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "6994692c-cf5b-535f-aa10-925379e64c54",
+      "nameRu": "Везунчик",
+      "nameOriginal": "Lucky",
+      "descriptionRu": "После длительного отдыха очки удачи равны бонусу мастерства. Очко даёт преимущество вашему испытанию к20 либо помеху атаке против вас.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ed44577f-5e70-573f-abe9-59b674a0a0e8",
+      "source": "https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-2024",
+      "sourcePage": "",
+      "license": "Справочные данные и самостоятельное краткое изложение механики. Полный текст книги не включён. Dungeons & Dragons — Wizards of the Coast; это не материал SRD и не перевод по лицензии CC BY.",
+      "rulesVersion": "PHB 2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Основная"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "6496f148-6e48-5a3c-a6c5-3c2445693859",
+      "nameRu": "Музыкант",
+      "nameOriginal": "Musician",
+      "descriptionRu": "Три музыкальных владения. Игра после короткого или длительного отдыха даёт героическое вдохновение слышащим союзникам; их максимум равен бонусу мастерства.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ed44577f-5e70-573f-abe9-59b674a0a0e8",
+      "source": "https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-2024",
+      "sourcePage": "",
+      "license": "Справочные данные и самостоятельное краткое изложение механики. Полный текст книги не включён. Dungeons & Dragons — Wizards of the Coast; это не материал SRD и не перевод по лицензии CC BY.",
+      "rulesVersion": "PHB 2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Основная"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "69875e5a-b582-54de-a030-47c4dc5bc9ed",
+      "nameRu": "Драчун",
+      "nameOriginal": "Tavern Brawler",
+      "descriptionRu": "Безоружный урон: 1к4 плюс Сила, единицу можно перебросить. Владение импровизированным оружием. Раз за ход безоружное попадание в действии «Атака» может также оттолкнуть на 5 футов.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ed44577f-5e70-573f-abe9-59b674a0a0e8",
+      "source": "https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-2024",
+      "sourcePage": "",
+      "license": "Справочные данные и самостоятельное краткое изложение механики. Полный текст книги не включён. Dungeons & Dragons — Wizards of the Coast; это не материал SRD и не перевод по лицензии CC BY.",
+      "rulesVersion": "PHB 2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Основная"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "dc5295a6-dafd-568c-afd1-c8e0b9821247",
+      "nameRu": "Крепкий",
+      "nameOriginal": "Tough",
+      "descriptionRu": "Максимум хитов увеличивается на удвоенный уровень персонажа, затем ещё на 2 за каждый новый уровень.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ed44577f-5e70-573f-abe9-59b674a0a0e8",
+      "source": "https://www.dndbeyond.com/posts/1785-the-backgrounds-and-origin-feats-in-the-2024",
+      "sourcePage": "",
+      "license": "Справочные данные и самостоятельное краткое изложение механики. Полный текст книги не включён. Dungeons & Dragons — Wizards of the Coast; это не материал SRD и не перевод по лицензии CC BY.",
+      "rulesVersion": "PHB 2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [
+        "Живучий"
+      ],
+      "tags": [
+        "Книга игрока",
+        "Краткая сводка",
+        "Основная"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    }
+  ],
+  "terms": [],
+  "relations": []
+}

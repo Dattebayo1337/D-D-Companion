@@ -1,0 +1,1044 @@
+{
+  "schemaVersion": 1,
+  "name": "Дополнение по DnD.su — 2014",
+  "sources": [
+    {
+      "id": "8091b152-25e0-52b8-a050-853023a97335",
+      "shortName": "Player's Handbook · 2014",
+      "fullNameRu": "Книга игрока — сводки 2014 по ДнД.су",
+      "fullNameOriginal": "Player's Handbook",
+      "edition": "5e_2014",
+      "publisher": "Wizards of the Coast; справочник DnD.su",
+      "releaseDate": null,
+      "contentType": "MetadataOnly",
+      "licenseType": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY."
+    },
+    {
+      "id": "3481b40a-05e8-5c7e-a386-db92db46b2b6",
+      "shortName": "Tasha's Cauldron of Everything · 2014",
+      "fullNameRu": "Котёл Таши со всякой всячиной — сводки 2014 по ДнД.су",
+      "fullNameOriginal": "Tasha's Cauldron of Everything",
+      "edition": "5e_2014",
+      "publisher": "Wizards of the Coast; справочник DnD.su",
+      "releaseDate": null,
+      "contentType": "MetadataOnly",
+      "licenseType": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY."
+    },
+    {
+      "id": "c15b3c61-5541-5a69-a2a4-2845c95c6566",
+      "shortName": "Curse of Strahd · 2014",
+      "fullNameRu": "Проклятие Страда — сводки 2014 по ДнД.су",
+      "fullNameOriginal": "Curse of Strahd",
+      "edition": "5e_2014",
+      "publisher": "Wizards of the Coast; справочник DnD.su",
+      "releaseDate": null,
+      "contentType": "MetadataOnly",
+      "licenseType": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY."
+    },
+    {
+      "id": "6c0818c4-0c65-50dd-a8b2-91dcb5aaefa8",
+      "shortName": "Sword Coast Adventurer's Guide · 2014",
+      "fullNameRu": "Путеводитель приключенца по Побережью Меча — сводки 2014 по ДнД.су",
+      "fullNameOriginal": "Sword Coast Adventurer's Guide",
+      "edition": "5e_2014",
+      "publisher": "Wizards of the Coast; справочник DnD.su",
+      "releaseDate": null,
+      "contentType": "MetadataOnly",
+      "licenseType": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY."
+    },
+    {
+      "id": "c9ff33e1-f264-5a80-afb3-e604edc3bed4",
+      "shortName": "Eberron: Rising from the Last War · 2014",
+      "fullNameRu": "Эберрон: Возрождение после Последней войны — сводки 2014 по ДнД.су",
+      "fullNameOriginal": "Eberron: Rising from the Last War",
+      "edition": "5e_2014",
+      "publisher": "Wizards of the Coast; справочник DnD.su",
+      "releaseDate": null,
+      "contentType": "MetadataOnly",
+      "licenseType": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY."
+    },
+    {
+      "id": "d6d76c55-cfa7-50a8-ad46-19b6ea8c9673",
+      "shortName": "Volo's Guide to Monsters · 2014",
+      "fullNameRu": "Руководство Воло по монстрам — сводки 2014 по ДнД.су",
+      "fullNameOriginal": "Volo's Guide to Monsters",
+      "edition": "5e_2014",
+      "publisher": "Wizards of the Coast; справочник DnD.su",
+      "releaseDate": null,
+      "contentType": "MetadataOnly",
+      "licenseType": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY."
+    },
+    {
+      "id": "7290833f-de25-51f8-af8d-ca2e53aa9f30",
+      "shortName": "The Tortle Package · 2014",
+      "fullNameRu": "Набор тортла — сводки 2014 по ДнД.су",
+      "fullNameOriginal": "The Tortle Package",
+      "edition": "5e_2014",
+      "publisher": "Wizards of the Coast; справочник DnD.su",
+      "releaseDate": null,
+      "contentType": "MetadataOnly",
+      "licenseType": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY."
+    },
+    {
+      "id": "f122669b-1560-5bb0-afca-849fe16fd32d",
+      "shortName": "Xanathar's Guide to Everything · 2014",
+      "fullNameRu": "Руководство Занатара обо всём — сводки 2014 по ДнД.су",
+      "fullNameOriginal": "Xanathar's Guide to Everything",
+      "edition": "5e_2014",
+      "publisher": "Wizards of the Coast; справочник DnD.su",
+      "releaseDate": null,
+      "contentType": "MetadataOnly",
+      "licenseType": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY."
+    }
+  ],
+  "entries": [
+    {
+      "id": "cf03000a-fd12-5be8-aa72-e69c8ff762ef",
+      "nameRu": "Боевой заклинатель",
+      "nameOriginal": "War Caster",
+      "descriptionRu": "Требуется владение хотя бы одним заклинанием. Спасброски Телосложения против потери концентрации из-за урона получают преимущество. Оружие и щит в руках не мешают соматическим компонентам. Вместо провоцированной атаки из-за движения врага можно потратить реакцию на заклинание со временем в одно действие, направленное исключительно на этого врага.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "8091b152-25e0-52b8-a050-853023a97335",
+      "source": "https://dnd.su/feats/104-war-caster/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "2c4e9cf6-530d-5c21-a454-5dd680b68fc8",
+      "nameRu": "Мастер большого оружия",
+      "nameOriginal": "Great Weapon Master",
+      "descriptionRu": "После критического попадания рукопашным оружием или снижения им хитов цели до нуля в свой ход доступна дополнительная рукопашная атака бонусным действием. Перед рукопашной атакой тяжёлым оружием, которым владеете, можно выбрать штраф −5 к попаданию ради +10 к урону при успехе.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "8091b152-25e0-52b8-a050-853023a97335",
+      "source": "https://dnd.su/feats/120-great-weapon-master/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "9e22ec19-9710-52b7-a79c-27312f8a574c",
+      "nameRu": "Мастер древкового оружия",
+      "nameOriginal": "Polearm Master",
+      "descriptionRu": "Действие Атака только алебардой, глефой, боевым посохом или копьём позволяет бонусным действием ударить древком: 1к4 дробящего урона с тем же модификатором характеристики. При использовании этих видов оружия либо пики вход существа в вашу досягаемость также провоцирует атаку.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "8091b152-25e0-52b8-a050-853023a97335",
+      "source": "https://dnd.su/feats/121-polearm-master/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "70a89fcc-2192-55e9-aa05-586de1d2aa38",
+      "nameRu": "Страж",
+      "nameOriginal": "Sentinel",
+      "descriptionRu": "Попадание провоцированной атакой обнуляет скорость цели до окончания текущего хода. Отход не защищает от ваших провоцированных атак. Если существо в 5 футах атакует другую цель, у которой нет этой черты, можно реакцией ответить рукопашной атакой оружием.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "8091b152-25e0-52b8-a050-853023a97335",
+      "source": "https://dnd.su/feats/138-sentinel/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "98d69072-d573-5b18-a9b9-feca9bb930d8",
+      "nameRu": "Затронутый тенью",
+      "nameOriginal": "Shadow Touched",
+      "descriptionRu": "Интеллект, Мудрость либо Харизма повышается на 1, максимум до 20. Вы изучаете Невидимость и одно заклинание первого круга школы Иллюзии или Некромантии. Каждое можно применить бесплатно один раз за длительный отдых, а также за подходящие ячейки. Заклинательная характеристика совпадает с повышенной.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "3481b40a-05e8-5c7e-a386-db92db46b2b6",
+      "source": "https://dnd.su/feats/160-shadow-touched/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "497d5b02-8682-50ba-a1fd-a0974ce69d7b",
+      "nameRu": "Затронутый феями",
+      "nameOriginal": "Fey Touched",
+      "descriptionRu": "Повысьте Интеллект, Мудрость либо Харизму на 1, не превышая 20. Вы изучаете Туманный шаг и заклинание первого круга из Прорицания или Очарования. Для каждого есть одно применение без ячейки за длительный отдых; доступны и обычные ячейки. Используйте повышенную характеристику для этих заклинаний.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "3481b40a-05e8-5c7e-a386-db92db46b2b6",
+      "source": "https://dnd.su/feats/161-fey-touched/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "7a80ddd0-88fe-565e-a663-1401692bdb8e",
+      "nameRu": "Телекинетик",
+      "nameOriginal": "Telekinetic",
+      "descriptionRu": "Интеллект, Мудрость либо Харизма получает +1, максимум 20. Волшебная рука изучается и применяется без слов и жестов; её можно скрыть от зрения. Если заговор уже известен, его дальность возрастает на 30 футов. Бонусным действием можно сдвинуть видимое существо в 30 футах на 5 футов к себе или от себя. Спасбросок Силы: 8 + бонус мастерства + модификатор повышенной характеристики; добровольный провал разрешён.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "3481b40a-05e8-5c7e-a386-db92db46b2b6",
+      "source": "https://dnd.su/feats/169-telekinetic/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "bc4d7065-fb4d-52a5-a18e-47d0800f202a",
+      "nameRu": "Эксперт в навыке",
+      "nameOriginal": "Skill Expert",
+      "descriptionRu": "Одна характеристика получает +1, максимум до 20. Выберите новый навык для владения и один из уже освоенных навыков для компетентности. Последняя удваивает бонус мастерства; навык с уже удвоенным бонусом выбрать нельзя.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "3481b40a-05e8-5c7e-a386-db92db46b2b6",
+      "source": "https://dnd.su/feats/172-skill-expert/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "8f8eed0d-b992-5d4a-abba-ff971ee7e90c",
+      "nameRu": "Преследуемый",
+      "nameOriginal": "Haunted One",
+      "descriptionRu": "Выберите два навыка среди Магии, Расследования, Религии и Выживания. Два языка на выбор, один обязательно из экзотических: Бездны, Небожителей, Глубинная речь, Драконий, Инфернальный, Первичный, Сильван или Подземный. Начальное имущество: набор охотника на монстров, значимая безделушка, обычная одежда, 1 см. Пережитый ужас вызывает сочувствие простых людей: если вы им не угрожаете, они помогают и могут поддержать вас, если вы остались с врагом один на один.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "c15b3c61-5541-5a69-a2a4-2845c95c6566",
+      "source": "https://dnd.su/backgrounds/789-haunted-one/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Background",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "331111e5-a591-5d7a-a9bb-cba503d395ef",
+      "nameRu": "Дальний путешественник",
+      "nameOriginal": "Far Traveler",
+      "descriptionRu": "Навыки: Проницательность и Восприятие. Владение музыкальным инструментом либо игровым набором; один дополнительный язык. Имущество: дорожная одежда, выбранный инструмент или набор, карта родины, украшение ценой 10 зм и кошель с 5 зм. Необычное происхождение привлекает заинтересованных собеседников и помогает получить доступ к влиятельным людям и закрытым для обычных путников местам.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "6c0818c4-0c65-50dd-a8b2-91dcb5aaefa8",
+      "source": "https://dnd.su/backgrounds/777-far-traveler/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Background",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "4894ddfa-cf0f-56ec-a9ae-d310b47ec7e4",
+      "nameRu": "Представитель фракции",
+      "nameOriginal": "Faction Agent",
+      "descriptionRu": "Проницательность и ещё один подходящий фракции навык Интеллекта, Мудрости либо Харизмы. Два языка на выбор. Имущество: знак фракции, её основной текст или шифровальная книга, обычная одежда, 15 зм. По тайным знакам можно найти союзных агентов и получить ночлег, убежище или сведения. Помощники не обязаны рисковать жизнью и прикрытием.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "6c0818c4-0c65-50dd-a8b2-91dcb5aaefa8",
+      "source": "https://dnd.su/backgrounds/776-faction-agent/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Background",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "767e28a4-4696-5d30-ac61-2496d805e1b0",
+      "nameRu": "Учёный-затворник",
+      "nameOriginal": "Cloistered Scholar",
+      "descriptionRu": "История и один навык из Магии, Природы, Религии; два языка на выбор. Имущество: учёная ряса, письменные принадлежности, одолженная книга, 10 зм. Вы знаете служителей своей библиотеки и имеете доступ к обычным фондам; секретные и особо ценные собрания требуют отдельного разрешения. Научные связи помогают попасть и в другие библиотеки.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "6c0818c4-0c65-50dd-a8b2-91dcb5aaefa8",
+      "source": "https://dnd.su/backgrounds/774-cloistered-scholar/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Background",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "63671477-82a0-5928-ab65-69982a4a7c84",
+      "nameRu": "Кованый",
+      "nameOriginal": "Warforged",
+      "descriptionRu": "Средний размер; ходьба 30 футов. Телосложение +2 и другая характеристика +1. Сопротивление яду, преимущество против отравления, иммунитет к болезням и магическому сну; еда, вода и дыхание не нужны. Вместо сна — шесть часов неподвижного наблюдения. КД получает +1. Освоенный доспех встраивается или снимается за час; принудительно снять его с живого кованого нельзя. Дополнительно: один навык, один инструмент, Общий язык и ещё один язык. Магическое старение не действует.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "c9ff33e1-f264-5a80-afb3-e604edc3bed4",
+      "source": "https://dnd.su/race/174-warforged/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "SpeciesRace",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "3700836f-29dc-55b1-a446-ffd32213c49d",
+      "nameRu": "Чейнджлинг",
+      "nameOriginal": "Changeling",
+      "descriptionRu": "Средний размер; ходьба 30 футов. Харизма +2, другая характеристика +1. Действием меняет внешность и голос, сохраняя размер, строение тела и игровые параметры. Для копирования конкретного существа нужно прежде его увидеть. Снаряжение не преобразуется; смерть возвращает исходный облик. Освойте два навыка среди Обмана, Запугивания, Проницательности и Убеждения. Языки: Общий и ещё два.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "c9ff33e1-f264-5a80-afb3-e604edc3bed4",
+      "source": "https://dnd.su/race/170-changeling/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "SpeciesRace",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "9c260f13-8c31-5f2f-ab00-08c7f97d8309",
+      "nameRu": "Табакси",
+      "nameOriginal": "Tabaxi",
+      "descriptionRu": "Средний размер; Ловкость +2, Харизма +1. Ходьба 30 футов, лазание 20, тёмное зрение 60. В свой ход можно удвоить скорость; повторное применение доступно после хода без перемещения. Когти наносят 1к4 + Сила рубящего урона безоружным ударом. Владения: Восприятие и Скрытность. Языки: Общий и ещё один.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "d6d76c55-cfa7-50a8-ad46-19b6ea8c9673",
+      "source": "https://dnd.su/race/183-tabaxi/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "SpeciesRace",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "518611d0-f01b-5aa2-a9ba-b3f8881aa0b5",
+      "nameRu": "Тортл",
+      "nameOriginal": "Tortle",
+      "descriptionRu": "Средний размер; ходьба 30 футов. Сила +2, Мудрость +1. КД панциря 17 без Ловкости; доспехи не улучшают его, щит работает. Когти: 1к4 + Сила рубящего урона. Дыхание можно задерживать на час. Действием прячется в панцирь: +4 КД, преимущество спасброскам Силы и Телосложения, но лежит ничком, скорость 0, помеха Ловкости и нет реакций. Единственное доступное действие — выйти бонусным действием. Владение Выживанием; языки Общий и Акван.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "7290833f-de25-51f8-af8d-ca2e53aa9f30",
+      "source": "https://dnd.su/race/184-tortle/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "SpeciesRace",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "134e3583-9b4d-5139-aac3-b8dece3a8e6a",
+      "nameRu": "Рубин боевого мага",
+      "nameOriginal": "Ruby of the War Mage",
+      "descriptionRu": "Обычный чудесный предмет; настраивается заклинатель. Прикрепление к простому или воинскому оружию занимает 10 минут. После этого оружие служит заклинательной фокусировкой. Рубин отделяется при прекращении настройки, разрушении оружия либо по вашему действию.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "f122669b-1560-5bb0-afca-849fe16fd32d",
+      "source": "https://dnd.su/items/422-ruby-of-the-war-mage/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "MagicItem",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "14fe7e7f-0ff0-532f-a8f1-2b1667078b98",
+      "nameRu": "Механистический амулет",
+      "nameOriginal": "Clockwork Amulet",
+      "descriptionRu": "Обычный чудесный предмет без настройки. При атаке носитель может принять результат к20 равным 10 вместо броска. Бонусы к атаке учитываются обычным образом. После использования свойство восстанавливается на следующем рассвете.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "f122669b-1560-5bb0-afca-849fe16fd32d",
+      "source": "https://dnd.su/items/406-clockwork-amulet/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "MagicItem",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "0a39d9b7-01bf-5142-a24a-868e627bfc3b",
+      "nameRu": "Развевающийся плащ",
+      "nameOriginal": "Cloak of Billowing",
+      "descriptionRu": "Обычный чудесный предмет без настройки. Бонусное действие заставляет надетый плащ эффектно колыхаться. Бонусов к защите или атаке это свойство не предоставляет.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "f122669b-1560-5bb0-afca-849fe16fd32d",
+      "source": "https://dnd.su/items/420-cloak-of-billowing/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "MagicItem",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "70bde148-18cc-5c90-a221-a410ed2b673a",
+      "nameRu": "Поглощение стихий",
+      "nameOriginal": "Absorb Elements",
+      "descriptionRu": "Реакция на получение кислоты, холода, огня, электричества или звука даёт сопротивление этому типу до начала следующего вашего хода, включая вызвавший реакцию урон. Первое попадание рукопашной атакой в следующем ходу добавляет 1к6 того же типа и завершает эффект.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "f122669b-1560-5bb0-afca-849fe16fd32d",
+      "source": "https://dnd.su/spells/401-absorb-elements/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Spell",
+      "spell": {
+        "level": 1,
+        "school": "Abjuration",
+        "castingTime": "Reaction",
+        "castingTimeRu": "Реакция при получении урона кислотой, холодом, огнём, электричеством или звуком",
+        "ritual": false,
+        "rangeFeet": 0,
+        "rangeKind": "Self",
+        "rangeRu": "На себя",
+        "targetRu": "",
+        "components": [
+          "S"
+        ],
+        "materialComponentRu": "",
+        "materialComponentOriginal": "",
+        "materialCost": null,
+        "materialConsumed": false,
+        "durationRu": "Один раунд",
+        "concentration": false,
+        "higherLevelsRu": "Дополнительный урон увеличивается на 1к6 за каждый круг ячейки выше первого.",
+        "higherLevelsOriginal": "",
+        "classes": [
+          "Волшебник",
+          "Друид",
+          "Изобретатель",
+          "Следопыт",
+          "Чародей"
+        ],
+        "subclasses": [],
+        "damage": "1к6",
+        "damageType": null,
+        "healing": "",
+        "savingThrow": null,
+        "attackType": null,
+        "conditions": []
+      }
+    },
+    {
+      "id": "f1f11c4a-4ff2-5b75-abce-7e1b2be88ed4",
+      "nameRu": "Теневой клинок",
+      "nameOriginal": "Shadow Blade",
+      "descriptionRu": "Создаёт простое магическое рукопашное оружие с владением для заклинателя. Урон 2к8 психической энергией; свойства: лёгкое, фехтовальное и метательное с дальностью 20/60 футов. Атаки по цели в полумраке или темноте идут с преимуществом. Брошенный или выпущенный клинок исчезает в конце хода; бонусное действие возвращает его, пока действует заклинание.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "f122669b-1560-5bb0-afca-849fe16fd32d",
+      "source": "https://dnd.su/spells/470-shadow-blade/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Spell",
+      "spell": {
+        "level": 2,
+        "school": "Illusion",
+        "castingTime": "BonusAction",
+        "castingTimeRu": "Одно бонусное действие",
+        "ritual": false,
+        "rangeFeet": 0,
+        "rangeKind": "Self",
+        "rangeRu": "На себя",
+        "targetRu": "",
+        "components": [
+          "V",
+          "S"
+        ],
+        "materialComponentRu": "",
+        "materialComponentOriginal": "",
+        "materialCost": null,
+        "materialConsumed": false,
+        "durationRu": "До одной минуты",
+        "concentration": true,
+        "higherLevelsRu": "Ячейки 3–4 круга: 3к8; 5–6: 4к8; 7–9: 5к8.",
+        "higherLevelsOriginal": "",
+        "classes": [
+          "Волшебник",
+          "Колдун",
+          "Чародей"
+        ],
+        "subclasses": [],
+        "damage": "2к8",
+        "damageType": "Psychic",
+        "healing": "",
+        "savingThrow": null,
+        "attackType": null,
+        "conditions": []
+      }
+    },
+    {
+      "id": "ae5437db-ca6b-5c62-aa80-0bc087528dbe",
+      "nameRu": "Громовой клинок",
+      "nameOriginal": "Booming Blade",
+      "descriptionRu": "В составе сотворения атакуйте оружием существо в 5 футах. Попадание наносит обычный урон оружия. До начала следующего вашего хода добровольное перемещение цели минимум на 5 футов вызывает 1к8 звукового урона и завершает эффект. На уровнях 5, 11 и 17 добавочный урон при попадании составляет 1к8, 2к8 и 3к8, а при перемещении — 2к8, 3к8 и 4к8 соответственно.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "3481b40a-05e8-5c7e-a386-db92db46b2b6",
+      "source": "https://dnd.su/spells/458-booming-blade/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Spell",
+      "spell": {
+        "level": 0,
+        "school": "Evocation",
+        "castingTime": "Action",
+        "castingTimeRu": "Одно действие",
+        "ritual": false,
+        "rangeFeet": 0,
+        "rangeKind": "Self",
+        "rangeRu": "На себя; цель в пяти футах",
+        "targetRu": "Одно существо в пяти футах",
+        "components": [
+          "S",
+          "M"
+        ],
+        "materialComponentRu": "Рукопашное оружие ценой от одной серебряной монеты",
+        "materialComponentOriginal": "",
+        "materialCost": 0.1,
+        "materialConsumed": false,
+        "durationRu": "Один раунд",
+        "concentration": false,
+        "higherLevelsRu": "",
+        "higherLevelsOriginal": "",
+        "classes": [
+          "Волшебник",
+          "Изобретатель",
+          "Колдун",
+          "Чародей"
+        ],
+        "subclasses": [],
+        "damage": "",
+        "damageType": "Thunder",
+        "healing": "",
+        "savingThrow": null,
+        "attackType": null,
+        "conditions": []
+      }
+    },
+    {
+      "id": "0ee2f5b4-0f88-5179-a98e-498e601c3aaa",
+      "nameRu": "Клинок зелёного пламени",
+      "nameOriginal": "Green-Flame Blade",
+      "descriptionRu": "Сотворение включает рукопашную атаку оружием по существу в 5 футах. При попадании нанесите обычный урон и при желании перенесите огонь на другое видимое существо в 5 футах от первой цели: урон равен заклинательному модификатору. С уровней 5, 11 и 17 первая цель дополнительно получает 1к8, 2к8 и 3к8 огня; столько же костей добавляется к урону второй цели.",
+      "descriptionOriginal": "",
+      "edition": "5e_2014",
+      "sourceBookId": "3481b40a-05e8-5c7e-a386-db92db46b2b6",
+      "source": "https://dnd.su/spells/459-green-flame-blade/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2014",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Spell",
+      "spell": {
+        "level": 0,
+        "school": "Evocation",
+        "castingTime": "Action",
+        "castingTimeRu": "Одно действие",
+        "ritual": false,
+        "rangeFeet": 0,
+        "rangeKind": "Self",
+        "rangeRu": "На себя; цель в пяти футах",
+        "targetRu": "Атакуемое существо и другая видимая цель рядом с ним",
+        "components": [
+          "S",
+          "M"
+        ],
+        "materialComponentRu": "Рукопашное оружие ценой от одной серебряной монеты",
+        "materialComponentOriginal": "",
+        "materialCost": 0.1,
+        "materialConsumed": false,
+        "durationRu": "Мгновенно",
+        "concentration": false,
+        "higherLevelsRu": "",
+        "higherLevelsOriginal": "",
+        "classes": [
+          "Волшебник",
+          "Изобретатель",
+          "Колдун",
+          "Чародей"
+        ],
+        "subclasses": [],
+        "damage": "",
+        "damageType": "Fire",
+        "healing": "",
+        "savingThrow": null,
+        "attackType": null,
+        "conditions": []
+      }
+    }
+  ],
+  "terms": [],
+  "relations": []
+}

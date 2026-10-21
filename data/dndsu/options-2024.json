@@ -1,0 +1,1922 @@
+{
+  "schemaVersion": 1,
+  "name": "Расы и подклассы дополнений — 2024",
+  "sources": [
+    {
+      "id": "3c0fb4fb-f14b-5eee-a403-f0c6b5e20880",
+      "shortName": "Eberron: Forge of the Artificer · 2024",
+      "fullNameRu": "Эберрон: кузница изобретателя — справочные обзоры 2024",
+      "fullNameOriginal": "Eberron: Forge of the Artificer",
+      "edition": "5e_2024",
+      "publisher": "Сводки по справочнику DnD.su",
+      "releaseDate": null,
+      "contentType": "MetadataOnly",
+      "licenseType": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY."
+    },
+    {
+      "id": "8bb2fa66-7ad1-5017-aca0-0fe1612f6808",
+      "shortName": "Ravenloft: The Horrors Within · 2024",
+      "fullNameRu": "Равенлофт: ужасы внутри — справочные обзоры 2024",
+      "fullNameOriginal": "Ravenloft: The Horrors Within",
+      "edition": "5e_2024",
+      "publisher": "Сводки по справочнику DnD.su",
+      "releaseDate": null,
+      "contentType": "MetadataOnly",
+      "licenseType": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY."
+    },
+    {
+      "id": "56104ec1-1787-5dd9-a441-1fdcb81bcb24",
+      "shortName": "Ravenloft: The Horrors Within; Astarion’s Book of Hungers · 2024",
+      "fullNameRu": "Равенлофт и голод Астариона — справочные обзоры 2024",
+      "fullNameOriginal": "Ravenloft: The Horrors Within; Astarion’s Book of Hungers",
+      "edition": "5e_2024",
+      "publisher": "Сводки по справочнику DnD.su",
+      "releaseDate": null,
+      "contentType": "MetadataOnly",
+      "licenseType": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY."
+    },
+    {
+      "id": "ef05651a-75a9-5cbf-adfd-144fc5c0d874",
+      "shortName": "Forgotten Realms: Heroes of Faerun · 2024",
+      "fullNameRu": "Забытые Королевства: герои Фаэруна — справочные обзоры 2024",
+      "fullNameOriginal": "Forgotten Realms: Heroes of Faerun",
+      "edition": "5e_2024",
+      "publisher": "Сводки по справочнику DnD.su",
+      "releaseDate": null,
+      "contentType": "MetadataOnly",
+      "licenseType": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY."
+    },
+    {
+      "id": "7ac605c7-d9cd-5a7c-a9c1-949d5231206b",
+      "shortName": "Arcana Unleashed · 2024",
+      "fullNameRu": "Освобождённая магия — справочные обзоры 2024",
+      "fullNameOriginal": "Arcana Unleashed",
+      "edition": "5e_2024",
+      "publisher": "Сводки по справочнику DnD.su",
+      "releaseDate": null,
+      "contentType": "MetadataOnly",
+      "licenseType": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY."
+    }
+  ],
+  "entries": [
+    {
+      "id": "cb31cf43-a025-5bd7-a998-45ae5c5271a2",
+      "nameRu": "Артефактор",
+      "nameOriginal": "Artificer",
+      "descriptionRu": "Магический ремесленник с подготовленными заклинаниями на Интеллекте и созданием магических предметов. На третьем уровне выбирает специализацию. Эта карточка — справочный обзор класса.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "3c0fb4fb-f14b-5eee-a403-f0c6b5e20880",
+      "source": "https://next.dnd.su/class/artificer",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Эберрон: кузница изобретателя"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Class",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Книга",
+            "valueRu": "Эберрон: кузница изобретателя"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "ef2bc021-238c-5c7a-afb2-cdb606762ac2",
+      "nameRu": "Ведьмовская кровь",
+      "nameOriginal": "Hexblood",
+      "descriptionRu": "Фея с тёмным зрением 60 футов. Магический маркер передаёт короткие сообщения и позволяет наблюдать на расстоянии до 10 миль. Маскировка и сглаз всегда подготовлены, доступны бесплатно раз за долгий отдых и за ячейки.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "8bb2fa66-7ad1-5017-aca0-0fe1612f6808",
+      "source": "https://next.dnd.su/species/hexblood",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Равенлофт: ужасы внутри"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "SpeciesRace",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Книга",
+            "valueRu": "Равенлофт: ужасы внутри"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "629d8ffb-2f17-5072-a2ba-5ab6f59716db",
+      "nameRu": "Возрождённый",
+      "nameOriginal": "Reborn",
+      "descriptionRu": "Гуманоид с преимуществом на спасброски от смерти и четырёхчасовым отдыхом без сна. Не получает истощения от удушения, голода и обезвоживания. Выбирает сопротивление некротике, холоду или яду; воспоминания помогают проваленным проверкам.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "8bb2fa66-7ad1-5017-aca0-0fe1612f6808",
+      "source": "https://next.dnd.su/species/reborn",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Равенлофт: ужасы внутри"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "SpeciesRace",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Книга",
+            "valueRu": "Равенлофт: ужасы внутри"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "ca1302a5-1609-5235-a1f5-af2f3ba1f240",
+      "nameRu": "Волколак",
+      "nameOriginal": "Lupin",
+      "descriptionRu": "Волкоподобный гуманоид с тёмным зрением и выбранным природным навыком. Раз за ход совмещает урон безоружного удара с толчком. Ограниченный вой бонусным действием может дать врагам помеху на атаки и спасброски до следующего хода.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "8bb2fa66-7ad1-5017-aca0-0fe1612f6808",
+      "source": "https://next.dnd.su/species/lupin",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Равенлофт: ужасы внутри"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "SpeciesRace",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Книга",
+            "valueRu": "Равенлофт: ужасы внутри"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "7837d0bc-efc5-55d9-aa30-367ffbea7784",
+      "nameRu": "Дампир",
+      "nameOriginal": "Dhampir",
+      "descriptionRu": "Скорость 35 футов, тёмное зрение и сопротивление некротике. Лазает, а с третьего уровня перемещается по стенам и потолку без рук. Укус причиняет 1к4 + Телосложение; ограниченно лечит или усиливает следующий бросок против живой цели.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "56104ec1-1787-5dd9-a441-1fdcb81bcb24",
+      "source": "https://next.dnd.su/species/dhampir",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Равенлофт и голод Астариона"
+      ],
+      "contentVersion": 2,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:01:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "SpeciesRace",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Книга",
+            "valueRu": "Равенлофт и голод Астариона"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "c4728ca8-60d3-5cd4-a5e0-b9a98fb829b8",
+      "nameRu": "Калаштар",
+      "nameOriginal": "Kalashtar",
+      "descriptionRu": "Аберрация с преимуществом на спасброски Мудрости и Харизмы и сопротивлением психическому урону. Телепатия растёт с уровнем; собеседнику можно разрешить ответ. После долгого отдыха получает временный навык; заклинание грёз не может выбрать его целью.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "3c0fb4fb-f14b-5eee-a403-f0c6b5e20880",
+      "source": "https://next.dnd.su/species/kalashtar",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Эберрон: кузница изобретателя"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "SpeciesRace",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Книга",
+            "valueRu": "Эберрон: кузница изобретателя"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "d38c87dc-1f90-597f-a0c9-3baab2a9deb7",
+      "nameRu": "Кованый",
+      "nameOriginal": "Warforged",
+      "descriptionRu": "Конструкт с бонусом +1 к защите, сопротивлением яду и защитой от отравления. Владеет выбранными навыком и инструментом. Отдыхает шесть часов без сна и не получает истощение от голода, удушения или обезвоживания.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "3c0fb4fb-f14b-5eee-a403-f0c6b5e20880",
+      "source": "https://next.dnd.su/species/warforged",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Эберрон: кузница изобретателя"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "SpeciesRace",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Книга",
+            "valueRu": "Эберрон: кузница изобретателя"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "9b99e6ed-5ac4-5011-ac1c-397554283dd9",
+      "nameRu": "Кхоравар",
+      "nameOriginal": "Khoravar",
+      "descriptionRu": "Гуманоид с тёмным зрением и защитой от очарования. После отдыха меняет полученный заговор и одно владение навыком либо инструментом. Может превратить провал спасброска против бессознательности в успех; восстановление занимает 1к4 долгих отдыха.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "3c0fb4fb-f14b-5eee-a403-f0c6b5e20880",
+      "source": "https://next.dnd.su/species/khoravar",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Эберрон: кузница изобретателя"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "SpeciesRace",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Книга",
+            "valueRu": "Эберрон: кузница изобретателя"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "d12946b2-c8c9-5919-a884-525c3ab829a6",
+      "nameRu": "Ченжлинг",
+      "nameOriginal": "Changeling",
+      "descriptionRu": "Фея меняет лицо, голос и размер, сохраняя статистику и снаряжение. Выбирает два социальных навыка. Пока находится в изменённом облике, получает преимущество на проверки Харизмы.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "3c0fb4fb-f14b-5eee-a403-f0c6b5e20880",
+      "source": "https://next.dnd.su/species/changeling",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Эберрон: кузница изобретателя"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "SpeciesRace",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Книга",
+            "valueRu": "Эберрон: кузница изобретателя"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "36509821-9868-55e3-a65b-780a03679810",
+      "nameRu": "Шифтер",
+      "nameOriginal": "Shifter",
+      "descriptionRu": "Гуманоид с тёмным зрением и выбранным звериным навыком. Минутное превращение даёт временные хиты в размере удвоенного бонуса владения и выбранный набор звериных преимуществ. Число превращений равно бонусу владения, восстановление — долгий отдых.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "3c0fb4fb-f14b-5eee-a403-f0c6b5e20880",
+      "source": "https://next.dnd.su/species/shifter",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Эберрон: кузница изобретателя"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "SpeciesRace",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Книга",
+            "valueRu": "Эберрон: кузница изобретателя"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "e5f52df7-b113-58e6-a55f-6a30c01e673c",
+      "nameRu": "Алхимик",
+      "nameOriginal": "Alchemist",
+      "descriptionRu": "Готовит экспериментальные эликсиры и быстрее создаёт зелья. Усиливает лечение и отдельные типы урона, позднее развивает восстанавливающую алхимию.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "3c0fb4fb-f14b-5eee-a403-f0c6b5e20880",
+      "source": "https://next.dnd.su/class/artificer#subclass.alchemist",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Эберрон: кузница изобретателя"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "cb31cf43-a025-5bd7-a998-45ae5c5271a2",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Артефактор"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Эберрон: кузница изобретателя"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 5, 9, 15"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "bda90921-8125-5611-a596-ea22d011de4a",
+      "nameRu": "Артиллерист",
+      "nameOriginal": "Artillerist",
+      "descriptionRu": "Создаёт мистическую пушку и магострельную фокусировку. Позднее улучшает мощность, детонирует пушку и разворачивает защищённую позицию с двумя установками.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "3c0fb4fb-f14b-5eee-a403-f0c6b5e20880",
+      "source": "https://next.dnd.su/class/artificer#subclass.artillerist",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Эберрон: кузница изобретателя"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "cb31cf43-a025-5bd7-a998-45ae5c5271a2",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Артефактор"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Эберрон: кузница изобретателя"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 5, 9, 15"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "e738182e-9419-54f6-a800-51c650e32df8",
+      "nameRu": "Боевой кузнец",
+      "nameOriginal": "Battle Smith",
+      "descriptionRu": "Сражается магическим оружием через Интеллект и командует стальным защитником. Развивает дополнительные атаки, ремонт и боевую поддержку.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "3c0fb4fb-f14b-5eee-a403-f0c6b5e20880",
+      "source": "https://next.dnd.su/class/artificer#subclass.battle-smith",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Эберрон: кузница изобретателя"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "cb31cf43-a025-5bd7-a998-45ae5c5271a2",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Артефактор"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Эберрон: кузница изобретателя"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 5, 9, 15"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "1802e43c-7e94-58ea-ae84-44dd4030a73c",
+      "nameRu": "Бронник",
+      "nameOriginal": "Armorer",
+      "descriptionRu": "Превращает доспех в арканную броню с выбранной моделью. Получает встроенное оружие и усиливает боевые или разведывательные возможности доспеха.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "3c0fb4fb-f14b-5eee-a403-f0c6b5e20880",
+      "source": "https://next.dnd.su/class/artificer#subclass.armorer",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Эберрон: кузница изобретателя"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "cb31cf43-a025-5bd7-a998-45ae5c5271a2",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Артефактор"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Эберрон: кузница изобретателя"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 5, 9, 15"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "6a01720b-8488-586b-a447-24de4a3ff476",
+      "nameRu": "Картограф",
+      "nameOriginal": "Cartographer",
+      "descriptionRu": "Создаёт магический атлас и быстрее пишет свитки. Картографическая магия помогает путешествиям, поиску и координации союзников.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "3c0fb4fb-f14b-5eee-a403-f0c6b5e20880",
+      "source": "https://next.dnd.su/class/artificer#subclass.сartographer",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Эберрон: кузница изобретателя"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "cb31cf43-a025-5bd7-a998-45ae5c5271a2",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Артефактор"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Эберрон: кузница изобретателя"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 5, 9, 15"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "d5196cdd-1bd6-5af9-afd2-1071d53d89b9",
+      "nameRu": "Реаниматор",
+      "nameOriginal": "Reanimator",
+      "descriptionRu": "Соединяет некромантию с электричеством. Оживляющий разряд возвращает павшего союзника в бой и поражает находящихся рядом существ.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "8bb2fa66-7ad1-5017-aca0-0fe1612f6808",
+      "source": "https://next.dnd.su/class/artificer#subclass.reanimator",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Равенлофт: ужасы внутри"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "cb31cf43-a025-5bd7-a998-45ae5c5271a2",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Артефактор"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Равенлофт: ужасы внутри"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 5, 9, 15"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "3368195e-93bb-5fa1-a23a-508c4e621cb5",
+      "nameRu": "Коллегия луны",
+      "nameOriginal": "College of the Moon",
+      "descriptionRu": "Бардовское вдохновение позволяет исчезнуть и телепортироваться. Усиливает лечение и скорость союзников, соединяя выступления с природной магией.\n\n### Как играется\nПодвижный целитель с природной тематикой. Раздавая вдохновение, уходит из опасной позиции, а лечением помогает товарищу быстрее вернуться в бой. Подходит для поддержки, которой важно постоянно менять дистанцию.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ef05651a-75a9-5cbf-adfd-144fc5c0d874",
+      "source": "https://next.dnd.su/class/bard#subclass.college-of-the-moon",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Забытые Королевства: герои Фаэруна"
+      ],
+      "contentVersion": 3,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T01:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "6e8739df-0ec6-5340-a614-497afa810619",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Бард"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Забытые Королевства: герои Фаэруна"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 6, 14"
+          }
+        ],
+        "progression": [],
+        "features": [
+          {
+            "level": 3,
+            "nameRu": "Лунная поддержка и природные знания",
+            "descriptionRu": "Выдача вдохновения бонусным действием позволяет телепортироваться до 30 футов и ненадолго стать невидимым. Невидимость заканчивается при атаке, уроне или заклинании. Один раз за ход к лечащему заклинанию можно добавить потраченную кость вдохновения и увеличить скорость цели на 10 футов. Дополнительно получаете язык друидов, их заговор и один навык из предложенного списка."
+          },
+          {
+            "level": 6,
+            "nameRu": "Лечение через лунный луч",
+            "descriptionRu": "«Лунный луч» всегда подготовлен. Раз за долгий отдых можно усилить его: провал спасброска против луча позволяет вылечить другое видимое существо в 60 футах на 2к4 хитов."
+          },
+          {
+            "level": 14,
+            "nameRu": "Поддержка союзного отступления",
+            "descriptionRu": "Невидимость и телепортацию при выдаче вдохновения теперь можно предложить и получателю кости: для перемещения ему нужна реакция. Для дополнительного лечения разрешено бросать к6, не расходуя вдохновение."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bb3317c4-bc6b-56cf-a7e6-061342d96b8c",
+      "nameRu": "Коллегия духов",
+      "nameOriginal": "College of Spirits",
+      "descriptionRu": "Связывается с духами и использует спиритическую фокусировку. Вдохновение призывает случайного духа, а наставление действует на расстоянии.\n\n### Как играется\nПосредник между миром живых и духами, совмещающий лечение, защиту и контроль. В этой редакции выдача вдохновения позволяет призвать духа, а отдельное действие Магия выпускает его эффект. В отличие от версии 2014, предусмотрен и прямой выбор доступного духа за отдельную трату вдохновения.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "8bb2fa66-7ad1-5017-aca0-0fe1612f6808",
+      "source": "https://next.dnd.su/class/bard#subclass.college-of-the-spirits",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Равенлофт: ужасы внутри"
+      ],
+      "contentVersion": 3,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T01:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "6e8739df-0ec6-5340-a614-497afa810619",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Бард"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Равенлофт: ужасы внутри"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 6, 14"
+          }
+        ],
+        "progression": [],
+        "features": [
+          {
+            "level": 3,
+            "nameRu": "Проводник и вызов духов",
+            "descriptionRu": "Получаете «Наставление» с дистанцией 60 футов и предметы для спиритической фокусировки. Выдавая вдохновение бонусным действием, можно бросить его кость и призвать случайного духа. Другой вариант — потратить вдохновение бонусным действием и выбрать духа с номером не выше максимума кости. Действием Магия выпускаете духа на видимую цель в 30 футах."
+          },
+          {
+            "level": 3,
+            "nameRu": "Роль духов в группе",
+            "descriptionRu": "Доступные эффекты включают лечение, урон, временные хиты, телепортацию и преимущество на тесты к20. По мере роста кости открываются контроль и более сильные эффекты. Это эффекты умения, а не отдельные боевые существа. Набор духов и условия отличаются от таблицы историй 2014 года."
+          },
+          {
+            "level": 6,
+            "nameRu": "Усиление заклинаний и духовная защита",
+            "descriptionRu": "Один раз за ход к заклинанию барда, сотворённому с ячейкой, добавляется к6 к одному броску урона или общему лечению. «Духовные стражи» всегда подготовлены и доступны один раз без ячейки за долгий отдых. Их особое защитное применение даёт вам и союзникам внутри области укрытие наполовину; оно восстанавливается после короткого или долгого отдыха."
+          },
+          {
+            "level": 14,
+            "nameRu": "Управление случайным результатом",
+            "descriptionRu": "При случайном призыве бросаете дважды и выбираете духа. Если результаты совпали, можно выбрать любого духа таблицы."
+          }
+        ]
+      }
+    },
+    {
+      "id": "8eda4c79-02e5-5a2e-a299-df72df15c339",
+      "nameRu": "Домен знаний",
+      "nameOriginal": "Knowledge Domain",
+      "descriptionRu": "Получает экспертность в двух знаниях и ремесленный инструмент. Расширенная магия прорицания и сила разума помогают исследовать тайны.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ef05651a-75a9-5cbf-adfd-144fc5c0d874",
+      "source": "https://next.dnd.su/class/cleric#subclass.knowledge-domain",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Забытые Королевства: герои Фаэруна"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "6fd2d652-e17d-53e7-a86f-fb8983e5f94b",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Жрец"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Забытые Королевства: герои Фаэруна"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 6, 17"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "d2af1bb5-236a-5c64-a9bc-5cdb69d6b657",
+      "nameRu": "Домен упокоения",
+      "nameOriginal": "Grave Domain",
+      "descriptionRu": "Управляет границей жизни и смерти. Усиливает урон по раненым существам и развивает восстановительную и некромантическую магию.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "8bb2fa66-7ad1-5017-aca0-0fe1612f6808",
+      "source": "https://next.dnd.su/class/cleric#subclass.grave-domain",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Равенлофт: ужасы внутри"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "6fd2d652-e17d-53e7-a86f-fb8983e5f94b",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Жрец"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Равенлофт: ужасы внутри"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 6, 17"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "540c90f8-f05c-59ac-a2a4-d32f50a4146c",
+      "nameRu": "Домен магии",
+      "nameOriginal": "Arcana Domain",
+      "descriptionRu": "Расходует Проведение божественности для изменения заклинаний. Может укреплять цель временными хитами и влиять на сопротивление магии.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "7ac605c7-d9cd-5a7c-a9c1-949d5231206b",
+      "source": "https://next.dnd.su/class/cleric#subclass.arcana-domain",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Освобождённая магия"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "6fd2d652-e17d-53e7-a86f-fb8983e5f94b",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Жрец"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Освобождённая магия"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 6, 17"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "3bb4ecb9-4892-56ae-abb1-48a4d52b2c1e",
+      "nameRu": "Баннерет",
+      "nameOriginal": "Banneret",
+      "descriptionRu": "Второе дыхание лечит ближайших союзников. Развивает дипломатию, групповую тактику и реакции товарищей при Всплеске действий.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ef05651a-75a9-5cbf-adfd-144fc5c0d874",
+      "source": "https://next.dnd.su/class/fighter#subclass.banneret",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Забытые Королевства: герои Фаэруна"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "7fc88234-af2b-5a9f-a973-b7e2e16e58fc",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Воин"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Забытые Королевства: герои Фаэруна"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 7, 10, 15, 18"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "287cf380-2279-5d20-a3b2-9a57e2a2457e",
+      "nameRu": "Чародейный стрелок",
+      "nameOriginal": "Arcane Archer",
+      "descriptionRu": "Использует выбранные чародейные выстрелы с оружием, расходующим боеприпасы. Изучает заговор и магические знания; сила выстрелов растёт с уровнем.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "7ac605c7-d9cd-5a7c-a9c1-949d5231206b",
+      "source": "https://next.dnd.su/class/fighter#subclass.arcane-archer",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Освобождённая магия"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "7fc88234-af2b-5a9f-a973-b7e2e16e58fc",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Воин"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Освобождённая магия"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 7, 10, 15, 18"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "08152ae7-27ac-57b8-afd6-e28b4c0e3969",
+      "nameRu": "Мистический воин",
+      "nameOriginal": "Warrior of the Mystic Arts",
+      "descriptionRu": "Совмещает монашеский бой с заклинаниями и заговорами из списка чародея. Получает собственную ограниченную прогрессию ячеек заклинаний.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "7ac605c7-d9cd-5a7c-a9c1-949d5231206b",
+      "source": "https://next.dnd.su/class/monk#subclass.warrior-of-the-mystic-arts",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Освобождённая магия"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "c99447aa-fbc1-5549-a7b5-4aa87862bffd",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Монах"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Освобождённая магия"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 6, 11, 17"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "022266fd-25f4-5cc8-a17e-2d416432762c",
+      "nameRu": "Клятва благородных гениев",
+      "nameOriginal": "Oath of the Noble Genies",
+      "descriptionRu": "Наполняет Божественную кару силами гениев. Выбранный эффект добавляет стихийный урон, удерживает врага или помогает телепортации и защите.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ef05651a-75a9-5cbf-adfd-144fc5c0d874",
+      "source": "https://next.dnd.su/class/paladin#subclass.oath-of-the-noble-genies",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Забытые Королевства: герои Фаэруна"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "3b2f6ad4-9ada-56c2-a048-0b12f5b0da34",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Паладин"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Забытые Королевства: герои Фаэруна"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 7, 15, 20"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "3089cecf-b0da-58b9-ab33-828c350ca799",
+      "nameRu": "Зимний ходок",
+      "nameOriginal": "Winter Walker",
+      "descriptionRu": "Сопротивляется холоду и обходит сопротивление ему. Метка охотника даёт временные хиты и запрещает добыче Отход; позднее поддерживает союзников.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ef05651a-75a9-5cbf-adfd-144fc5c0d874",
+      "source": "https://next.dnd.su/class/ranger#subclass.winter-walker",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Забытые Королевства: герои Фаэруна"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "57b56461-dcc6-5012-a7a7-7faf5ef36dd3",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Следопыт"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Забытые Королевства: герои Фаэруна"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 7, 11, 15"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "7efbad98-c3a0-556c-a7dc-3ece6d162418",
+      "nameRu": "Страж пустошей",
+      "nameOriginal": "Hollow Warden",
+      "descriptionRu": "Принимает жуткую природную форму за использование Избранного врага. Усиливает защиту, пугает ближайших существ и отвечает на нападения.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "8bb2fa66-7ad1-5017-aca0-0fe1612f6808",
+      "source": "https://next.dnd.su/class/ranger#subclass.hollow-warden",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Равенлофт: ужасы внутри"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "57b56461-dcc6-5012-a7a7-7faf5ef36dd3",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Следопыт"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Равенлофт: ужасы внутри"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 7, 11, 15"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "0eecd051-d129-535b-a977-b2b7d13a5912",
+      "nameRu": "Наследник троицы",
+      "nameOriginal": "Scion of the Three",
+      "descriptionRu": "Связывает силы с одним из Троицы. Получает соответствующие сопротивление и заговор; тёмная преданность дополняет скрытный бой.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ef05651a-75a9-5cbf-adfd-144fc5c0d874",
+      "source": "https://next.dnd.su/class/rogue#subclass.scion-of-the-three",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Забытые Королевства: герои Фаэруна"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "67097032-5796-55a1-a9c2-85a79f0f0012",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Плут"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Забытые Королевства: герои Фаэруна"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 9, 13, 17"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "0bd36845-cd3b-5552-a96e-de0c8bd9456a",
+      "nameRu": "Фантом",
+      "nameOriginal": "Phantom",
+      "descriptionRu": "Заимствует владение у духов после отдыха. Коварная атака может причинять некротический урон второй цели; позднее собирает сувениры усопших.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "8bb2fa66-7ad1-5017-aca0-0fe1612f6808",
+      "source": "https://next.dnd.su/class/rogue#subclass.phantom",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Равенлофт: ужасы внутри"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "67097032-5796-55a1-a9c2-85a79f0f0012",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Плут"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Равенлофт: ужасы внутри"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 9, 13, 17"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "2b5c618f-7343-5d71-a591-44d7a11da45c",
+      "nameRu": "Чародейство чаропламени",
+      "nameOriginal": "Spellfire Sorcery",
+      "descriptionRu": "Трата очков чародейства вызывает поддерживающее или поражающее чаропламя. Дополнительная магия сочетает лечение, огонь, излучение и рассеивание заклинаний.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ef05651a-75a9-5cbf-adfd-144fc5c0d874",
+      "source": "https://next.dnd.su/class/sorcerer#subclass.spellfire-sorcery",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Забытые Королевства: герои Фаэруна"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "29af717f-4c42-5826-a3a8-7feb8424f22c",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Чародей"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Забытые Королевства: герои Фаэруна"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 6, 14, 18"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "8b6cd767-bca7-50e0-a858-5377d976a6ab",
+      "nameRu": "Теневое чародейство",
+      "nameOriginal": "Shadow Sorcery",
+      "descriptionRu": "Видит в собственной магической тьме и получает слепое зрение. Может пережить падение до нуля хитов; развивает теневую магию.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "8bb2fa66-7ad1-5017-aca0-0fe1612f6808",
+      "source": "https://next.dnd.su/class/sorcerer#subclass.shadow-sorcery",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Равенлофт: ужасы внутри"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "29af717f-4c42-5826-a3a8-7feb8424f22c",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Чародей"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Равенлофт: ужасы внутри"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 6, 14, 18"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "d7d3c646-cee1-5222-a346-7de91a191c75",
+      "nameRu": "Нежить",
+      "nameOriginal": "Undead Patron",
+      "descriptionRu": "Преображается в аватар ужаса с временными хитами. Силы покровителя раскрывают некромантическую магию и устрашающий боевой облик.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "8bb2fa66-7ad1-5017-aca0-0fe1612f6808",
+      "source": "https://next.dnd.su/class/warlock#subclass.undead",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Равенлофт: ужасы внутри"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "5a6bd82c-bf34-5805-af6f-f591499c46d5",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Колдун"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Равенлофт: ужасы внутри"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 6, 10, 14"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "876e703b-1f00-5fb1-a148-87ace9a3baab",
+      "nameRu": "Предтеча",
+      "nameOriginal": "Vestige Patron",
+      "descriptionRu": "Заимствует заклинания выбранного жреческого домена. Покровитель воплощается спутником — исчадием, небожителем или нежитью — и помогает колдуну.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "7ac605c7-d9cd-5a7c-a9c1-949d5231206b",
+      "source": "https://next.dnd.su/class/warlock#subclass.vestige-patron",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Освобождённая магия"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "5a6bd82c-bf34-5805-af6f-f591499c46d5",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Колдун"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Освобождённая магия"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 6, 10, 14"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "5fa3e0a3-dfc2-51c9-ace8-630f04239700",
+      "nameRu": "Некромант",
+      "nameOriginal": "Necromancer",
+      "descriptionRu": "Гримуар даёт сопротивление некротике и фамильяра-нежить. Дополнительные знания усиливают специализацию на некромантии.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "7ac605c7-d9cd-5a7c-a9c1-949d5231206b",
+      "source": "https://next.dnd.su/class/wizard#subclass.necromancer",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Освобождённая магия"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "3ef45bd8-52b9-547a-aab8-b6420054f560",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Волшебник"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Освобождённая магия"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 6, 10, 14"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "5e5a0fc4-32bc-532f-a966-91e13e8ec358",
+      "nameRu": "Очарователь",
+      "nameOriginal": "Enchanter",
+      "descriptionRu": "Интеллект усиливает выбранный социальный навык. Гипнотизирующее присутствие и расширенные знания очарования помогают управлять противниками.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "7ac605c7-d9cd-5a7c-a9c1-949d5231206b",
+      "source": "https://next.dnd.su/class/wizard#subclass.enchanter",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Освобождённая магия"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "3ef45bd8-52b9-547a-aab8-b6420054f560",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Волшебник"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Освобождённая магия"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 6, 10, 14"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "5ac6bbab-2a50-5671-ac3f-ab1a97454ce6",
+      "nameRu": "Преобразователь",
+      "nameOriginal": "Transmuter",
+      "descriptionRu": "Создаёт камень, дающий владение спасбросками Телосложения и выбранное усиление. Развивает превращения и улучшает магию преобразования.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "7ac605c7-d9cd-5a7c-a9c1-949d5231206b",
+      "source": "https://next.dnd.su/class/wizard#subclass.transmuter",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Освобождённая магия"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "3ef45bd8-52b9-547a-aab8-b6420054f560",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Волшебник"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Освобождённая магия"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 6, 10, 14"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "f0f86aa4-e8e5-535c-a4cf-2a6537fd3e43",
+      "nameRu": "Призыватель",
+      "nameOriginal": "Conjurer",
+      "descriptionRu": "Телепортируется или меняется местами с согласным существом. Позднее защищает призванных союзников и поддерживает концентрацию на призыве.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "7ac605c7-d9cd-5a7c-a9c1-949d5231206b",
+      "source": "https://next.dnd.su/class/wizard#subclass.conjurer",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Освобождённая магия"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "3ef45bd8-52b9-547a-aab8-b6420054f560",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Волшебник"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Освобождённая магия"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 6, 10, 14"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "7b5b26d7-59f9-5d88-a5d8-f45d4231ebb9",
+      "nameRu": "Певец клинка",
+      "nameOriginal": "Bladesinger",
+      "descriptionRu": "Песнь клинка усиливает защиту и концентрацию без доспеха. Использует Интеллект для оружия и совмещает атаки с заговорами.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "ef05651a-75a9-5cbf-adfd-144fc5c0d874",
+      "source": "https://next.dnd.su/class/wizard#subclass.bladesinger",
+      "sourcePage": "",
+      "license": "Самостоятельный краткий обзор по ДнД.су. Полные переводы книг и изображения не включены. Права на исходные материалы принадлежат их правообладателям; это не материал SRD или CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Краткий обзор",
+        "Дополнения",
+        "Забытые Королевства: герои Фаэруна"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Subclass",
+        "parentId": "3ef45bd8-52b9-547a-aab8-b6420054f560",
+        "properties": [
+          {
+            "nameRu": "Класс",
+            "valueRu": "Волшебник"
+          },
+          {
+            "nameRu": "Книга",
+            "valueRu": "Забытые Королевства: герои Фаэруна"
+          },
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткий обзор; точные условия и полные правила — по ссылке на источник"
+          },
+          {
+            "nameRu": "Уровни развития",
+            "valueRu": "3, 6, 10, 14"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    }
+  ],
+  "terms": [],
+  "relations": []
+}

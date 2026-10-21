@@ -1,0 +1,291 @@
+{
+  "schemaVersion": 1,
+  "name": "Дополнение по DnD.su — 2024",
+  "sources": [
+    {
+      "id": "af8ca2b4-0cce-5ec7-ab2f-c9cf7933105f",
+      "shortName": "Player's Handbook · 2024",
+      "fullNameRu": "Книга игрока — сводки 2024 по ДнД.су",
+      "fullNameOriginal": "Player's Handbook",
+      "edition": "5e_2024",
+      "publisher": "Wizards of the Coast; справочник DnD.su",
+      "releaseDate": null,
+      "contentType": "MetadataOnly",
+      "licenseType": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY."
+    },
+    {
+      "id": "5804d5f7-0243-54bb-a8a5-4a48047a0c2e",
+      "shortName": "Dungeon Master's Guide · 2024",
+      "fullNameRu": "Руководство мастера — сводки 2024 по ДнД.су",
+      "fullNameOriginal": "Dungeon Master's Guide",
+      "edition": "5e_2024",
+      "publisher": "Wizards of the Coast; справочник DnD.su",
+      "releaseDate": null,
+      "contentType": "MetadataOnly",
+      "licenseType": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY."
+    }
+  ],
+  "entries": [
+    {
+      "id": "b8d04344-229f-5785-af90-fc32fce4c6f9",
+      "nameRu": "Боевой заклинатель",
+      "nameOriginal": "War Caster",
+      "descriptionRu": "Требования: уровень 4 и Сотворение заклинаний либо Магия договора. Повысьте Интеллект, Мудрость или Харизму на 1, максимум до 20. Проверки концентрации через спасбросок Телосложения получают преимущество. Занятые оружием или щитом руки не мешают соматике. Когда уходящее существо провоцирует атаку, реакцией можно вместо неё сотворить заклинание за одно действие, воздействующее только на это существо.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "af8ca2b4-0cce-5ec7-ab2f-c9cf7933105f",
+      "source": "https://next.dnd.su/feats/361-war-caster/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "785cf925-1ebc-5b57-a28e-7fcbea1263e6",
+      "nameRu": "Мастер тяжёлого оружия",
+      "nameOriginal": "Great Weapon Master",
+      "descriptionRu": "Требования: уровень 4, Сила 13. Сила получает +1, максимум до 20. Попадания тяжёлым оружием в составе действия Атака в свой ход могут получать дополнительный урон в размере бонуса мастерства. Критическое попадание рукопашным оружием либо снижение им хитов существа до нуля позволяет сразу сделать ещё одну атаку тем же оружием бонусным действием.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "af8ca2b4-0cce-5ec7-ab2f-c9cf7933105f",
+      "source": "https://next.dnd.su/feats/333-great-weapon-master/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "eb0e71e4-e435-562a-a95f-ae9263df306e",
+      "nameRu": "Мастер древкового оружия",
+      "nameOriginal": "Polearm Master",
+      "descriptionRu": "Требования: уровень 4, Сила или Ловкость 13. Одна из этих характеристик получает +1, максимум 20. После атаки в составе действия Атака посохом, копьём либо оружием одновременно с Тяжёлым и Досягаемостью доступен удар древком бонусным действием: 1к4 дробящего урона. С таким оружием можно реакцией атаковать существо, входящее в его досягаемость. Эта реакция сама по себе не считается провоцированной атакой.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "af8ca2b4-0cce-5ec7-ab2f-c9cf7933105f",
+      "source": "https://next.dnd.su/feats/347-polearm-master/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "Feat",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "3812318e-0fed-51c8-a35b-175b4077eb8a",
+      "nameRu": "Аасимар",
+      "nameOriginal": "Aasimar",
+      "descriptionRu": "Гуманоид маленького или среднего размера; ходьба 30 футов, тёмное зрение 60. Сопротивляется некротическому урону и излучению. Раз за длительный отдых действием Магия лечит касанием: число к4 равно бонусу мастерства. Знает Свет с Харизмой. С уровня 3 раз за длительный отдых преобразуется бонусным действием на минуту. Выберите полёт со скоростью ходьбы, сияющую ауру либо пугающее проявление. В любом варианте раз в свой ход добавляет бонус мастерства к урону атаки или заклинания. Сияние освещает 10 футов ярко и ещё 10 тускло, нанося существам в 10 футах излучение в конце каждого вашего хода. Пугающее проявление при активации требует от несоюзников в 10 футах спасброска Харизмы против 8 + Харизма + бонус мастерства, иначе испуг до конца следующего вашего хода. Дополнительный урон пугающего варианта некротический, остальных — излучение.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "af8ca2b4-0cce-5ec7-ab2f-c9cf7933105f",
+      "source": "https://next.dnd.su/species/aasimar",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "SpeciesRace",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "5e927f3e-da97-5d9b-ae7b-5696ac51c8ab",
+      "nameRu": "Рубин боевого мага",
+      "nameOriginal": "Ruby of the War Mage",
+      "descriptionRu": "Обычный чудесный предмет; настраивается заклинатель. Прикрепление к простому или воинскому оружию занимает 10 минут. После этого оружие служит заклинательной фокусировкой. Рубин отделяется при прекращении настройки, разрушении оружия либо по вашему действию Магия.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "5804d5f7-0243-54bb-a8a5-4a48047a0c2e",
+      "source": "https://next.dnd.su/items/16087-ruby-of-the-war-mage/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "MagicItem",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "b2975425-57df-5697-a455-0d6d0a13a8db",
+      "nameRu": "Механистический амулет",
+      "nameOriginal": "Clockwork Amulet",
+      "descriptionRu": "Обычный чудесный предмет без настройки. При атаке носитель может принять результат к20 равным 10 вместо броска. Бонусы к атаке учитываются обычным образом. После использования свойство восстанавливается на следующем рассвете.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "5804d5f7-0243-54bb-a8a5-4a48047a0c2e",
+      "source": "https://next.dnd.su/items/15891-clockwork-amulet/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "MagicItem",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    },
+    {
+      "id": "e8ecc6f4-23c4-5f6b-a9e3-bb2d6ca1db7e",
+      "nameRu": "Развевающийся плащ",
+      "nameOriginal": "Cloak of Billowing",
+      "descriptionRu": "Обычный чудесный предмет без настройки. Бонусное действие заставляет надетый плащ эффектно колыхаться в течение минуты. Бонусов к защите или атаке это свойство не предоставляет.",
+      "descriptionOriginal": "",
+      "edition": "5e_2024",
+      "sourceBookId": "5804d5f7-0243-54bb-a8a5-4a48047a0c2e",
+      "source": "https://next.dnd.su/items/15883-cloak-of-billowing/",
+      "sourcePage": "",
+      "license": "Самостоятельная краткая сводка механики по справочнику DnD.su. Полные тексты и изображения сайта не включены; права на исходные материалы принадлежат их правообладателям. Не SRD и не лицензия CC BY.",
+      "rulesVersion": "2024",
+      "translationStatus": "Approved",
+      "contentOrigin": "MetadataOnly",
+      "aliases": [],
+      "tags": [
+        "Дополнение по DnD.su",
+        "Краткая сводка"
+      ],
+      "contentVersion": 1,
+      "errataVersion": "",
+      "createdAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z",
+      "kind": "Reference",
+      "reference": {
+        "category": "MagicItem",
+        "parentId": null,
+        "properties": [
+          {
+            "nameRu": "Формат",
+            "valueRu": "Краткая сводка правил"
+          }
+        ],
+        "progression": [],
+        "features": []
+      }
+    }
+  ],
+  "terms": [],
+  "relations": []
+}

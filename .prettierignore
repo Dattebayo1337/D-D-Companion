@@ -1,0 +1,10 @@
+node_modules
+.next
+pnpm-lock.yaml
+docs/MASTER_PROMPT.md
+prisma
+*.db
+*.tsbuildinfo
+
+data/raw
+data/srd

@@ -1,0 +1,17 @@
+services:
+  app:
+    build: .
+    init: true
+    restart: unless-stopped
+    environment:
+      DATABASE_URL: file:/data/companion.db
+      DATABASE_PROVIDER: sqlite
+      DND_HOST_KEY: ${DND_HOST_KEY:?Set DND_HOST_KEY in deployment.env}
+      DND_REGISTRATION: ${DND_REGISTRATION:-open}
+      APP_ORIGIN: http://127.0.0.1:${LOCAL_PORT:-3001}
+    ports:
+      - "127.0.0.1:${LOCAL_PORT:-3001}:3000"
+    volumes:
+      - companion-local-data:/data
+volumes:
+  companion-local-data:

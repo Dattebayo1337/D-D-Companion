@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Правила без сети · D&D Companion</title>
+    <link rel="stylesheet" href="/offline-reader.css" />
+    <script src="/offline-reader.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <a href="/">Вернуться в приложение</a>
+      <h1>Правила без сети</h1>
+      <p>
+        Сохранённые публичные карточки этого браузера. Снимки не обновляются
+        автоматически; личные переводы и данные аккаунта сюда не попадают.
+        Очистка данных браузера удалит копии.
+      </p>
+      <label
+        >Редакция
+        <select id="edition">
+          <option value="5e_2014">2014</option>
+          <option value="5e_2024">2024</option>
+        </select></label
+      ><label
+        >Поиск
+        <input
+          id="search"
+          type="search"
+          placeholder="Название или текст" /></label
+      ><button id="refresh">Перечитать сохранённые копии</button>
+      <p id="status" role="status"></p>
+    </header>
+    <main>
+      <nav id="cards" aria-label="Сохранённые карточки"></nav>
+      <article id="detail">
+        <p>
+          Выберите карточку. Чтобы добавить правила, откройте их в приложении
+          при подключении к интернету и нажмите «Сохранить для чтения без сети».
+        </p>
+      </article>
+    </main>
+  </body>
+</html>
